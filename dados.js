@@ -1,5 +1,5 @@
 const BASE_CHIPS = {
-  "ultimaAtualizacao": "23/11/2026 15:07",
+  "ultimaAtualizacao": "23/11/2026 15:16",
   "totalRegistros": 3348,
   "registros": [
     {
