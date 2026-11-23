@@ -1,6 +1,6 @@
 const BASE_CHIPS = {
-  "ultimaAtualizacao": "23/11/2026 14:16",
-  "totalRegistros": 3078,
+  "ultimaAtualizacao": "23/11/2026 14:24",
+  "totalRegistros": 3348,
   "registros": [
     {
       "ICCID": "89553202100109694873",
@@ -316,7 +316,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 13:55",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "23",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -470,7 +470,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 11:47",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -492,7 +492,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 12:46",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "9",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -591,7 +591,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 12:25",
-      "DiasSemComunicacao": "54",
+      "DiasSemComunicacao": "55",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -602,7 +602,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 11:43",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -635,7 +635,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 12:24",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "9",
       "Cidade": "",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -646,7 +646,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 14:00",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -668,7 +668,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 12:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "Paranaíba",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -701,7 +701,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 12:39",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "12",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -712,7 +712,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 12:52",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "9",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -822,7 +822,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 12:30",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "43",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -899,7 +899,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 13:57",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "23",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -987,7 +987,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 11:17",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1097,10 +1097,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:51",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "",
       "UF": "",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110809767",
@@ -1108,10 +1108,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:42",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110809759",
@@ -1119,7 +1119,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 13:02",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -1152,10 +1152,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:56",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110809718",
@@ -1163,7 +1163,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 13:29",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "165",
       "Cidade": "",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -1196,10 +1196,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:58",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "",
       "UF": "",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110809676",
@@ -1218,10 +1218,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:14",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "",
       "UF": "",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110807688",
@@ -1251,10 +1251,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 14:09",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808553",
@@ -1383,7 +1383,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 13:54",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "23",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1438,10 +1438,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:42",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808116",
@@ -1449,10 +1449,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:27",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808108",
@@ -1504,10 +1504,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:48",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808355",
@@ -1515,10 +1515,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:52",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808348",
@@ -1526,10 +1526,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 14:09",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "",
       "UF": "",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808330",
@@ -1570,10 +1570,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:20",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808280",
@@ -1581,10 +1581,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:47",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808272",
@@ -1603,10 +1603,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:36",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808447",
@@ -1614,10 +1614,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:42",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808421",
@@ -1636,10 +1636,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 11:59",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808405",
@@ -1647,10 +1647,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:36",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "90",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808397",
@@ -1746,7 +1746,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/10/2026 13:20",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "34",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -1757,7 +1757,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 14:11",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1779,7 +1779,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 14:03",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1823,7 +1823,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 14:05",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "23",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1944,7 +1944,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 11:54",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "27",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2087,7 +2087,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 11:57",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2142,7 +2142,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 11:28",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2153,7 +2153,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/10/2026 13:03",
-      "DiasSemComunicacao": "38",
+      "DiasSemComunicacao": "39",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -2175,7 +2175,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 13:52",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Chapadão do Céu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2318,7 +2318,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 13:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2373,7 +2373,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/09/2026 12:59",
-      "DiasSemComunicacao": "53",
+      "DiasSemComunicacao": "54",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -2505,7 +2505,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/10/2026 13:25",
-      "DiasSemComunicacao": "24",
+      "DiasSemComunicacao": "25",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2527,7 +2527,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 14:04",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Chapadão do Céu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2538,7 +2538,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 11:54",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2571,7 +2571,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 12:02",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2637,7 +2637,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/09/2026 13:12",
-      "DiasSemComunicacao": "58",
+      "DiasSemComunicacao": "59",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -2648,7 +2648,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 13:11",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2692,7 +2692,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 12:54",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2725,7 +2725,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/09/2026 12:58",
-      "DiasSemComunicacao": "53",
+      "DiasSemComunicacao": "54",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -2780,7 +2780,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/10/2026 12:06",
-      "DiasSemComunicacao": "34",
+      "DiasSemComunicacao": "35",
       "Cidade": "Rio Verde",
       "UF": "Goiás",
       "AcaoRecomendada": "MONITORAR"
@@ -3033,7 +3033,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/06/2026 11:02",
-      "DiasSemComunicacao": "-14",
+      "DiasSemComunicacao": "-13",
       "Cidade": "Catalão",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -3077,7 +3077,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 14:21",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3275,10 +3275,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/09/2026 13:44",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "60",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100109155438",
@@ -3462,7 +3462,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 14:21",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3473,7 +3473,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 13:57",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3495,7 +3495,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 13:48",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3979,7 +3979,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2025 14:18",
-      "DiasSemComunicacao": "529",
+      "DiasSemComunicacao": "530",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3990,7 +3990,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 11:18",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4067,7 +4067,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 11:12",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -4111,7 +4111,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/04/2026 11:32",
-      "DiasSemComunicacao": "208",
+      "DiasSemComunicacao": "209",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4265,7 +4265,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 11:07",
-      "DiasSemComunicacao": "284",
+      "DiasSemComunicacao": "285",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4287,7 +4287,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/11/2026 13:49",
-      "DiasSemComunicacao": "103",
+      "DiasSemComunicacao": "104",
       "Cidade": "Santa Rita do Araguaia",
       "UF": "Goiás",
       "AcaoRecomendada": "SUSPENDER"
@@ -4419,7 +4419,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 11:03",
-      "DiasSemComunicacao": "284",
+      "DiasSemComunicacao": "285",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4518,7 +4518,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/09/2025 11:24",
-      "DiasSemComunicacao": "430",
+      "DiasSemComunicacao": "431",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4606,7 +4606,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/07/2026 10:59",
-      "DiasSemComunicacao": "128",
+      "DiasSemComunicacao": "129",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4705,7 +4705,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 11:06",
-      "DiasSemComunicacao": "284",
+      "DiasSemComunicacao": "285",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4848,7 +4848,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/01/2026 10:53",
-      "DiasSemComunicacao": "299",
+      "DiasSemComunicacao": "300",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4892,7 +4892,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/01/2026 12:12",
-      "DiasSemComunicacao": "303",
+      "DiasSemComunicacao": "304",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4903,7 +4903,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/01/2026 11:28",
-      "DiasSemComunicacao": "303",
+      "DiasSemComunicacao": "304",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4936,7 +4936,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 12:29",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Monte Alegre de Minas",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -4969,7 +4969,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 10:55",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5046,7 +5046,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 11:19",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "61",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5134,7 +5134,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/02/2026 13:46",
-      "DiasSemComunicacao": "276",
+      "DiasSemComunicacao": "277",
       "Cidade": "Suzano",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5167,7 +5167,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 13:51",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "33",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -5277,7 +5277,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 10:52",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5332,7 +5332,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 11:05",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "27",
       "Cidade": "Lorena",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5354,7 +5354,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/07/2026 11:55",
-      "DiasSemComunicacao": "46",
+      "DiasSemComunicacao": "47",
       "Cidade": "Itirapina",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -5365,7 +5365,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 11:25",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5398,7 +5398,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/01/2026 13:00",
-      "DiasSemComunicacao": "296",
+      "DiasSemComunicacao": "297",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5420,7 +5420,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 11:32",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5640,7 +5640,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/11/2026 12:23",
-      "DiasSemComunicacao": "256",
+      "DiasSemComunicacao": "257",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5849,7 +5849,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 12:03",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "12",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5871,7 +5871,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/08/2026 11:16",
-      "DiasSemComunicacao": "-16",
+      "DiasSemComunicacao": "-15",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5893,7 +5893,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/04/2026 11:01",
-      "DiasSemComunicacao": "222",
+      "DiasSemComunicacao": "223",
       "Cidade": "Ilhota",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6157,7 +6157,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/09/2025 11:03",
-      "DiasSemComunicacao": "378",
+      "DiasSemComunicacao": "379",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6256,7 +6256,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 11:58",
-      "DiasSemComunicacao": "72",
+      "DiasSemComunicacao": "73",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "VERIFICAR"
@@ -6278,7 +6278,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/08/2026 12:37",
-      "DiasSemComunicacao": "86",
+      "DiasSemComunicacao": "87",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -6476,7 +6476,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/10/2026 11:56",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "34",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "MONITORAR"
@@ -6828,7 +6828,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/05/2026 14:20",
-      "DiasSemComunicacao": "177",
+      "DiasSemComunicacao": "178",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6982,7 +6982,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 13:57",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "23",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7235,7 +7235,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/10/2026 11:44",
-      "DiasSemComunicacao": "39",
+      "DiasSemComunicacao": "40",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -7312,7 +7312,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 12:11",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -7433,7 +7433,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/08/2026 13:20",
-      "DiasSemComunicacao": "228",
+      "DiasSemComunicacao": "229",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7631,7 +7631,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/09/2026 11:41",
-      "DiasSemComunicacao": "62",
+      "DiasSemComunicacao": "63",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -8258,7 +8258,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/09/2026 11:38",
-      "DiasSemComunicacao": "58",
+      "DiasSemComunicacao": "59",
       "Cidade": "Linhares",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "MONITORAR"
@@ -8269,7 +8269,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/07/2026 11:47",
-      "DiasSemComunicacao": "76",
+      "DiasSemComunicacao": "77",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "VERIFICAR"
@@ -8588,7 +8588,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/09/2026 12:25",
-      "DiasSemComunicacao": "66",
+      "DiasSemComunicacao": "67",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -8753,7 +8753,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/01/2026 11:24",
-      "DiasSemComunicacao": "313",
+      "DiasSemComunicacao": "314",
       "Cidade": "Dracena",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8819,7 +8819,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/03/2026 13:45",
-      "DiasSemComunicacao": "292",
+      "DiasSemComunicacao": "293",
       "Cidade": "Bofete",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8852,7 +8852,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/09/2026 12:58",
-      "DiasSemComunicacao": "258",
+      "DiasSemComunicacao": "259",
       "Cidade": "Itutinga",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8874,7 +8874,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/09/2026 11:15",
-      "DiasSemComunicacao": "57",
+      "DiasSemComunicacao": "58",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -8995,7 +8995,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/09/2026 13:12",
-      "DiasSemComunicacao": "-17",
+      "DiasSemComunicacao": "-16",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9017,7 +9017,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 14:19",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9138,7 +9138,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/09/2026 11:19",
-      "DiasSemComunicacao": "66",
+      "DiasSemComunicacao": "67",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -9292,7 +9292,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 11:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -9358,7 +9358,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/10/2026 11:58",
-      "DiasSemComunicacao": "135",
+      "DiasSemComunicacao": "136",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9688,7 +9688,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/01/2026 12:59",
-      "DiasSemComunicacao": "113",
+      "DiasSemComunicacao": "114",
       "Cidade": "Barro Alto",
       "UF": "Goiás",
       "AcaoRecomendada": "SUSPENDER"
@@ -9820,7 +9820,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 11:57",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "9",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -9875,7 +9875,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/11/2026 12:04",
-      "DiasSemComunicacao": "315",
+      "DiasSemComunicacao": "316",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9941,7 +9941,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/01/2026 11:29",
-      "DiasSemComunicacao": "113",
+      "DiasSemComunicacao": "114",
       "Cidade": "Barro Alto",
       "UF": "Goiás",
       "AcaoRecomendada": "SUSPENDER"
@@ -10117,7 +10117,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/10/2026 11:19",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "13",
       "Cidade": "Comodoro",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -10128,7 +10128,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 13:10",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "43",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -10205,7 +10205,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 11:35",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "12",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10271,7 +10271,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 12:08",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10282,7 +10282,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/03/2026 14:20",
-      "DiasSemComunicacao": "172",
+      "DiasSemComunicacao": "173",
       "Cidade": "Prata",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10381,7 +10381,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 12:34",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10425,7 +10425,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/02/2026 12:52",
-      "DiasSemComunicacao": "279",
+      "DiasSemComunicacao": "280",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10480,7 +10480,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/10/2026 13:42",
-      "DiasSemComunicacao": "226",
+      "DiasSemComunicacao": "227",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10612,7 +10612,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 12:38",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "165",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10656,7 +10656,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 11:40",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "27",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10667,7 +10667,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 13:21",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10711,7 +10711,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 12:40",
-      "DiasSemComunicacao": "260",
+      "DiasSemComunicacao": "261",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10733,7 +10733,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/10/2026 13:57",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "166",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10788,7 +10788,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 11:27",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "27",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10854,7 +10854,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 13:52",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "27",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10865,7 +10865,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 13:04",
-      "DiasSemComunicacao": "54",
+      "DiasSemComunicacao": "55",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -10986,7 +10986,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 11:52",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11085,7 +11085,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/06/2026 12:03",
-      "DiasSemComunicacao": "289",
+      "DiasSemComunicacao": "290",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11228,7 +11228,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 12:15",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Esperantina",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -11393,7 +11393,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/11/2026 11:08",
-      "DiasSemComunicacao": "315",
+      "DiasSemComunicacao": "316",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11415,7 +11415,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/06/2026 12:05",
-      "DiasSemComunicacao": "289",
+      "DiasSemComunicacao": "290",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11558,7 +11558,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 11:29",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -11734,7 +11734,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/09/2026 12:53",
-      "DiasSemComunicacao": "67",
+      "DiasSemComunicacao": "68",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -11756,7 +11756,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 13:08",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "9",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11899,7 +11899,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 12:44",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "165",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11943,7 +11943,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 12:27",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12009,7 +12009,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 12:46",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12075,7 +12075,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/03/2026 12:14",
-      "DiasSemComunicacao": "292",
+      "DiasSemComunicacao": "293",
       "Cidade": "Angicos",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12152,7 +12152,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 11:55",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Castilho",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -12262,7 +12262,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 12:21",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12284,7 +12284,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/05/2026 14:10",
-      "DiasSemComunicacao": "231",
+      "DiasSemComunicacao": "232",
       "Cidade": "Prata",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12372,7 +12372,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 12:57",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "43",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -12482,7 +12482,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/10/2026 13:50",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "28",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -12537,7 +12537,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 11:02",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "43",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "MONITORAR"
@@ -12724,7 +12724,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 11:24",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12790,7 +12790,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/11/2026 11:21",
-      "DiasSemComunicacao": "225",
+      "DiasSemComunicacao": "226",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12845,7 +12845,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/10/2026 11:03",
-      "DiasSemComunicacao": "40",
+      "DiasSemComunicacao": "41",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -12911,7 +12911,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/10/2026 13:39",
-      "DiasSemComunicacao": "35",
+      "DiasSemComunicacao": "36",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -13175,7 +13175,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 11:24",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "165",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13252,7 +13252,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 14:04",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "33",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -13296,7 +13296,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 14:08",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13406,7 +13406,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 11:44",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -13428,7 +13428,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 11:41",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "43",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -13472,7 +13472,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 12:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13582,7 +13582,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 13:47",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13692,7 +13692,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/03/2026 14:15",
-      "DiasSemComunicacao": "-11",
+      "DiasSemComunicacao": "-10",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13703,7 +13703,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 14:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13780,7 +13780,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/03/2026 11:34",
-      "DiasSemComunicacao": "241",
+      "DiasSemComunicacao": "242",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13846,7 +13846,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/10/2026 11:31",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "38",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -14011,7 +14011,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/06/2026 11:09",
-      "DiasSemComunicacao": "289",
+      "DiasSemComunicacao": "290",
       "Cidade": "Macaíba",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14066,7 +14066,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 14:12",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14121,7 +14121,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 12:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14154,7 +14154,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 14:14",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14242,7 +14242,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/10/2026 11:59",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "13",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14506,7 +14506,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 12:36",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paragominas",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -14704,7 +14704,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 12:43",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -14781,7 +14781,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/08/2026 11:01",
-      "DiasSemComunicacao": "86",
+      "DiasSemComunicacao": "87",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -14814,7 +14814,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 10:56",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14935,7 +14935,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 14:09",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "9",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -14946,7 +14946,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 13:01",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pardinho",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15111,7 +15111,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 13:48",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Almas",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -15166,7 +15166,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 12:33",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Vila Nova dos Martírios",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15221,7 +15221,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 12:34",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15276,7 +15276,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 11:13",
-      "DiasSemComunicacao": "181",
+      "DiasSemComunicacao": "182",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15342,7 +15342,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 12:37",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "43",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -15419,7 +15419,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 11:01",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15540,7 +15540,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/08/2026 11:43",
-      "DiasSemComunicacao": "-16",
+      "DiasSemComunicacao": "-15",
       "Cidade": "Pindamonhangaba",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15551,7 +15551,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 14:20",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15705,7 +15705,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/10/2026 11:07",
-      "DiasSemComunicacao": "257",
+      "DiasSemComunicacao": "258",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15760,7 +15760,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 14:16",
-      "DiasSemComunicacao": "181",
+      "DiasSemComunicacao": "182",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15771,7 +15771,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/09/2026 13:10",
-      "DiasSemComunicacao": "136",
+      "DiasSemComunicacao": "137",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15793,7 +15793,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 13:03",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "9",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15837,7 +15837,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/01/2026 13:28",
-      "DiasSemComunicacao": "313",
+      "DiasSemComunicacao": "314",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15903,7 +15903,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 13:20",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Vila Nova dos Martírios",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15969,7 +15969,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 13:15",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "9",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15991,7 +15991,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/08/2026 11:46",
-      "DiasSemComunicacao": "228",
+      "DiasSemComunicacao": "229",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16134,7 +16134,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 12:43",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -16167,7 +16167,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 11:32",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16288,7 +16288,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/10/2026 11:58",
-      "DiasSemComunicacao": "29",
+      "DiasSemComunicacao": "30",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16321,7 +16321,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/06/2026 12:27",
-      "DiasSemComunicacao": "47",
+      "DiasSemComunicacao": "48",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -16420,7 +16420,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 14:18",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Anhembi",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16453,7 +16453,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 13:45",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16530,7 +16530,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 14:04",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16805,7 +16805,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/01/2026 13:01",
-      "DiasSemComunicacao": "311",
+      "DiasSemComunicacao": "312",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16882,7 +16882,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/05/2026 13:52",
-      "DiasSemComunicacao": "262",
+      "DiasSemComunicacao": "263",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16948,7 +16948,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 13:22",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "165",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16959,7 +16959,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/10/2026 11:38",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "24",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17036,7 +17036,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/10/2026 13:50",
-      "DiasSemComunicacao": "39",
+      "DiasSemComunicacao": "40",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -17047,7 +17047,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 11:19",
-      "DiasSemComunicacao": "181",
+      "DiasSemComunicacao": "182",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17069,7 +17069,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 12:08",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17102,7 +17102,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 11:38",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17113,7 +17113,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 11:12",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "43",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -17157,7 +17157,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/10/2025 12:49",
-      "DiasSemComunicacao": "398",
+      "DiasSemComunicacao": "399",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17234,7 +17234,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/03/2026 12:21",
-      "DiasSemComunicacao": "172",
+      "DiasSemComunicacao": "173",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17256,7 +17256,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 13:47",
-      "DiasSemComunicacao": "54",
+      "DiasSemComunicacao": "55",
       "Cidade": "Amélia Rodrigues",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -17278,7 +17278,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 12:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17289,7 +17289,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 12:58",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "27",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17311,7 +17311,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 11:24",
-      "DiasSemComunicacao": "181",
+      "DiasSemComunicacao": "182",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17322,7 +17322,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/10/2026 12:26",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "74",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -17443,7 +17443,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/10/2026 12:11",
-      "DiasSemComunicacao": "34",
+      "DiasSemComunicacao": "35",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -17465,7 +17465,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/11/2026 12:54",
-      "DiasSemComunicacao": "134",
+      "DiasSemComunicacao": "135",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17487,7 +17487,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/10/2026 12:22",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17520,7 +17520,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 11:36",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "9",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -17652,7 +17652,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 11:13",
-      "DiasSemComunicacao": "72",
+      "DiasSemComunicacao": "73",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -17718,7 +17718,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 11:39",
-      "DiasSemComunicacao": "181",
+      "DiasSemComunicacao": "182",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17993,7 +17993,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 11:45",
-      "DiasSemComunicacao": "-19",
+      "DiasSemComunicacao": "-18",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -18158,7 +18158,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 13:15",
-      "DiasSemComunicacao": "284",
+      "DiasSemComunicacao": "285",
       "Cidade": "Urutaí",
       "UF": "Goiás",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18268,7 +18268,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 11:22",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -18378,7 +18378,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/09/2026 11:54",
-      "DiasSemComunicacao": "197",
+      "DiasSemComunicacao": "198",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18444,7 +18444,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 14:05",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "165",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18543,7 +18543,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 14:02",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18587,7 +18587,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/07/2026 13:45",
-      "DiasSemComunicacao": "229",
+      "DiasSemComunicacao": "230",
       "Cidade": "Paranavaí",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18646,6 +18646,2976 @@ const BASE_CHIPS = {
       "Cidade": "Mauá",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562486",
+      "MSISDN": "44762497451236",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-07-16-13:32:47",
+      "DiasSemComunicacao": "1226",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562494",
+      "MSISDN": "44762497451237",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562502",
+      "MSISDN": "44762497451238",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-06-23-16:57:07",
+      "DiasSemComunicacao": "152",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562510",
+      "MSISDN": "44762497451239",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-06-21-10:55:23",
+      "DiasSemComunicacao": "1981",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562544",
+      "MSISDN": "44762497451242",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-15-14:05:15",
+      "DiasSemComunicacao": "1804",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562551",
+      "MSISDN": "44762497451243",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-08-24-15:35:43",
+      "DiasSemComunicacao": "1186",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562569",
+      "MSISDN": "44762497451244",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-05-31-16:01:20",
+      "DiasSemComunicacao": "1636",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562577",
+      "MSISDN": "44762497451245",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-09-21:04:59",
+      "DiasSemComunicacao": "1809",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562593",
+      "MSISDN": "44762497451247",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-10-20-01:25:35",
+      "DiasSemComunicacao": "1860",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562601",
+      "MSISDN": "44762497451248",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-10-20-12:31:50",
+      "DiasSemComunicacao": "2225",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562619",
+      "MSISDN": "44762497451249",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-11-27-19:08:45",
+      "DiasSemComunicacao": "360",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562627",
+      "MSISDN": "44762497451250",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-05-14-11:20:29",
+      "DiasSemComunicacao": "193",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562650",
+      "MSISDN": "44762497451253",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-08-22-21:14:52",
+      "DiasSemComunicacao": "1188",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562668",
+      "MSISDN": "44762497451254",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-07-15-01:42:30",
+      "DiasSemComunicacao": "2322",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562684",
+      "MSISDN": "44762497451256",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-11-20-12:31:35",
+      "DiasSemComunicacao": "368",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562692",
+      "MSISDN": "44762497451257",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-11-07-13:03:13",
+      "DiasSemComunicacao": "2207",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562700",
+      "MSISDN": "44762497451258",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-11-03-00:09:43",
+      "DiasSemComunicacao": "2211",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562718",
+      "MSISDN": "44762497451259",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-08-17-00:04:48",
+      "DiasSemComunicacao": "1194",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562726",
+      "MSISDN": "44762497451260",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-06-19-20:00:44",
+      "DiasSemComunicacao": "156",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562759",
+      "MSISDN": "44762497451263",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-12-22-17:00:04",
+      "DiasSemComunicacao": "1066",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562767",
+      "MSISDN": "44762497451264",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-07-20-19:00:24",
+      "DiasSemComunicacao": "1586",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562734",
+      "MSISDN": "44762497451261",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-02-25-13:59:21",
+      "DiasSemComunicacao": "2463",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562742",
+      "MSISDN": "44762497451262",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-07-26-21:28:13",
+      "DiasSemComunicacao": "1945",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562478",
+      "MSISDN": "44762497451235",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-08-09-20:03:50",
+      "DiasSemComunicacao": "1566",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562676",
+      "MSISDN": "44762497451255",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-06-17-15:33:11",
+      "DiasSemComunicacao": "1254",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562585",
+      "MSISDN": "44762497451246",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-06-23-16:56:11",
+      "DiasSemComunicacao": "152",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562528",
+      "MSISDN": "44762497451240",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-08-07-17:37:18",
+      "DiasSemComunicacao": "472",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562536",
+      "MSISDN": "44762497451241",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-02-24-15:15:57",
+      "DiasSemComunicacao": "1367",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017531",
+      "MSISDN": "44762497396741",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-04-12-13:27:34",
+      "DiasSemComunicacao": "1321",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017549",
+      "MSISDN": "44762497396742",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017457",
+      "MSISDN": "44762497396733",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-07-15-09:42:52",
+      "DiasSemComunicacao": "1592",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017663",
+      "MSISDN": "44762497396754",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-05-13-16:17:50",
+      "DiasSemComunicacao": "1289",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017564",
+      "MSISDN": "44762497396744",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-11-05-18:58:52",
+      "DiasSemComunicacao": "1843",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017671",
+      "MSISDN": "44762497396755",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-09-15-15:12:15",
+      "DiasSemComunicacao": "1164",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017721",
+      "MSISDN": "44762497396760",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-04-21-15:53:26",
+      "DiasSemComunicacao": "2406",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017747",
+      "MSISDN": "44762497396762",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-02-20-19:33:57",
+      "DiasSemComunicacao": "640",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017572",
+      "MSISDN": "44762497396745",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-01-19-22:15:01",
+      "DiasSemComunicacao": "1768",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017580",
+      "MSISDN": "44762497396746",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-05-16-12:08:35",
+      "DiasSemComunicacao": "1287",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017473",
+      "MSISDN": "44762497396735",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-04-18-16:56:59",
+      "DiasSemComunicacao": "2409",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017788",
+      "MSISDN": "44762497396766",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-02-09-14:46:15",
+      "DiasSemComunicacao": "2112",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017507",
+      "MSISDN": "44762497396738",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-10-03-17:13:54",
+      "DiasSemComunicacao": "1511",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017515",
+      "MSISDN": "44762497396739",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-04-21-16:45:51",
+      "DiasSemComunicacao": "2406",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017895",
+      "MSISDN": "44762497396777",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-06-17-12:06:40",
+      "DiasSemComunicacao": "1255",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017523",
+      "MSISDN": "44762497396740",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-05-08-18:04:23",
+      "DiasSemComunicacao": "928",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017929",
+      "MSISDN": "44762497396780",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-09-17-16:10:13",
+      "DiasSemComunicacao": "2257",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017937",
+      "MSISDN": "44762497396781",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-08-18-13:06:37",
+      "DiasSemComunicacao": "1193",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018091",
+      "MSISDN": "44762497396797",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017945",
+      "MSISDN": "44762497396782",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-11-16-21:51:32",
+      "DiasSemComunicacao": "1467",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017820",
+      "MSISDN": "44762497396770",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-10-08-20:42:44",
+      "DiasSemComunicacao": "1871",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018117",
+      "MSISDN": "44762497396799",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-06-04-19:28:39",
+      "DiasSemComunicacao": "901",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017432",
+      "MSISDN": "44762497396731",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-02-26-21:50:32",
+      "DiasSemComunicacao": "1730",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017440",
+      "MSISDN": "44762497396732",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-06-04-05:04:32",
+      "DiasSemComunicacao": "2363",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017648",
+      "MSISDN": "44762497396752",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-07-19:13:33",
+      "DiasSemComunicacao": "1811",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017770",
+      "MSISDN": "44762497396765",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-08-11-18:55:10",
+      "DiasSemComunicacao": "2294",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018141",
+      "MSISDN": "44762497396802",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017622",
+      "MSISDN": "44762497396750",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-11-24-22:19:02",
+      "DiasSemComunicacao": "363",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017630",
+      "MSISDN": "44762497396751",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-11-29-17:26:16",
+      "DiasSemComunicacao": "2550",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170884",
+      "MSISDN": "44762497412076",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-05-25-14:38:42",
+      "DiasSemComunicacao": "1277",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170918",
+      "MSISDN": "44762497412079",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-01-28-20:31:59",
+      "DiasSemComunicacao": "2124",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170959",
+      "MSISDN": "44762497412083",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-01-12-19:08:52",
+      "DiasSemComunicacao": "1775",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170330",
+      "MSISDN": "44762497412021",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-02-21-14:05:07",
+      "DiasSemComunicacao": "640",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170629",
+      "MSISDN": "44762497412050",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170637",
+      "MSISDN": "44762497412051",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-09-09-15:01:52",
+      "DiasSemComunicacao": "804",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170983",
+      "MSISDN": "44762497412086",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-08-12-18:57:41",
+      "DiasSemComunicacao": "467",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170991",
+      "MSISDN": "44762497412087",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-11-23-23:04:22",
+      "DiasSemComunicacao": "1825",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171007",
+      "MSISDN": "44762497412088",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-31-15:47:44",
+      "DiasSemComunicacao": "1391",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171056",
+      "MSISDN": "44762497412093",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-11-07-23:09:26",
+      "DiasSemComunicacao": "1476",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171189",
+      "MSISDN": "44762497412106",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-10-21-10:37:50",
+      "DiasSemComunicacao": "763",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170819",
+      "MSISDN": "44762497412069",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-01-12-18:31:34",
+      "DiasSemComunicacao": "1775",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170827",
+      "MSISDN": "44762497412070",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-06-10-16:55:22",
+      "DiasSemComunicacao": "1261",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170231",
+      "MSISDN": "44762497412011",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-04-22-19:46:02",
+      "DiasSemComunicacao": "214",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170298",
+      "MSISDN": "44762497412017",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-10-20-21:33:56",
+      "DiasSemComunicacao": "1494",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170306",
+      "MSISDN": "44762497412018",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-01-12-18:22:42",
+      "DiasSemComunicacao": "1775",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170413",
+      "MSISDN": "44762497412029",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-03-23-19:42:20",
+      "DiasSemComunicacao": "2435",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170421",
+      "MSISDN": "44762497412030",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-03-12-21:27:01",
+      "DiasSemComunicacao": "2081",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170439",
+      "MSISDN": "44762497412031",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-11-10-20:45:26",
+      "DiasSemComunicacao": "1838",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170454",
+      "MSISDN": "44762497412033",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-07-23-22:11:26",
+      "DiasSemComunicacao": "1948",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170462",
+      "MSISDN": "44762497412034",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-05-11-11:40:30",
+      "DiasSemComunicacao": "1292",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170470",
+      "MSISDN": "44762497412035",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-06-17:23:44",
+      "DiasSemComunicacao": "1812",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171015",
+      "MSISDN": "44762497412089",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-02-28-11:49:46",
+      "DiasSemComunicacao": "1364",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171023",
+      "MSISDN": "44762497412090",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-25-21:56:32",
+      "DiasSemComunicacao": "1397",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171031",
+      "MSISDN": "44762497412091",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-06-20-22:44:52",
+      "DiasSemComunicacao": "1251",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171049",
+      "MSISDN": "44762497412092",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-02-28-17:42:26",
+      "DiasSemComunicacao": "1363",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171064",
+      "MSISDN": "44762497412094",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-08-27-20:31:44",
+      "DiasSemComunicacao": "2278",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171098",
+      "MSISDN": "44762497412097",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-02-22-14:26:05",
+      "DiasSemComunicacao": "1734",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171221",
+      "MSISDN": "44762497412110",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-08-31-21:17:21",
+      "DiasSemComunicacao": "1909",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171148",
+      "MSISDN": "44762497412102",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-11-07-22:32:17",
+      "DiasSemComunicacao": "1476",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171155",
+      "MSISDN": "44762497412103",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-03-14-16:51:15",
+      "DiasSemComunicacao": "1714",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171163",
+      "MSISDN": "44762497412104",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-06-06-20:24:54",
+      "DiasSemComunicacao": "1265",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171171",
+      "MSISDN": "44762497412105",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-01-23-12:43:50",
+      "DiasSemComunicacao": "304",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170678",
+      "MSISDN": "44762497412055",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-08-18-12:15:38",
+      "DiasSemComunicacao": "827",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170793",
+      "MSISDN": "44762497412067",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-01-27-12:28:46",
+      "DiasSemComunicacao": "2492",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170520",
+      "MSISDN": "44762497412040",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-04-24-20:20:35",
+      "DiasSemComunicacao": "2038",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151785",
+      "MSISDN": "44762497410166",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-11-27-17:39:13",
+      "DiasSemComunicacao": "2186",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151801",
+      "MSISDN": "44762497410168",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-10-16-12:02:20",
+      "DiasSemComunicacao": "2595",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151827",
+      "MSISDN": "44762497410170",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-09-10-14:30:58",
+      "DiasSemComunicacao": "2630",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151835",
+      "MSISDN": "44762497410171",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151843",
+      "MSISDN": "44762497410172",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151850",
+      "MSISDN": "44762497410173",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151868",
+      "MSISDN": "44762497410174",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-05-18-01:44:31",
+      "DiasSemComunicacao": "2746",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151876",
+      "MSISDN": "44762497410175",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-02-15-02:37:03",
+      "DiasSemComunicacao": "2107",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170942",
+      "MSISDN": "44762497412082",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-10-20-14:35:41",
+      "DiasSemComunicacao": "1859",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170892",
+      "MSISDN": "44762497412077",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-02-13-18:06:19",
+      "DiasSemComunicacao": "282",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170900",
+      "MSISDN": "44762497412078",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-24-12:03:06",
+      "DiasSemComunicacao": "1399",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170934",
+      "MSISDN": "44762497412081",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-01-06-20:26:31",
+      "DiasSemComunicacao": "2512",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170967",
+      "MSISDN": "44762497412084",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-14-02:48:09",
+      "DiasSemComunicacao": "1409",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170975",
+      "MSISDN": "44762497412085",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-03-12-14:30:02",
+      "DiasSemComunicacao": "1351",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158863",
+      "MSISDN": "44762497410874",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-02-15:36:37",
+      "DiasSemComunicacao": "1420",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158897",
+      "MSISDN": "44762497410877",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-02-15-13:35:13",
+      "DiasSemComunicacao": "646",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159077",
+      "MSISDN": "44762497410895",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-24-21:07:30",
+      "DiasSemComunicacao": "1398",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158806",
+      "MSISDN": "44762497410868",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-10-21-15:42:57",
+      "DiasSemComunicacao": "762",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158814",
+      "MSISDN": "44762497410869",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-25-15:16:35",
+      "DiasSemComunicacao": "1397",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158939",
+      "MSISDN": "44762497410881",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-04-27-23:43:18",
+      "DiasSemComunicacao": "1305",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158954",
+      "MSISDN": "44762497410883",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-11-10-23:26:20",
+      "DiasSemComunicacao": "1838",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158962",
+      "MSISDN": "44762497410884",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-08-01-23:20:42",
+      "DiasSemComunicacao": "2670",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158798",
+      "MSISDN": "44762497410867",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-10-23-12:57:53",
+      "DiasSemComunicacao": "1857",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158855",
+      "MSISDN": "44762497410873",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-07-22-20:45:45",
+      "DiasSemComunicacao": "1949",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158780",
+      "MSISDN": "44762497410866",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-03-01-22:42:29",
+      "DiasSemComunicacao": "1362",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158822",
+      "MSISDN": "44762497410870",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-08-14-19:30:22",
+      "DiasSemComunicacao": "1196",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158905",
+      "MSISDN": "44762497410878",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-02-07-13:39:27",
+      "DiasSemComunicacao": "1385",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158913",
+      "MSISDN": "44762497410879",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-20-23:22:50",
+      "DiasSemComunicacao": "1798",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158947",
+      "MSISDN": "44762497410882",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-11-14-18:44:08",
+      "DiasSemComunicacao": "1469",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158889",
+      "MSISDN": "44762497410876",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-04-30-15:07:04",
+      "DiasSemComunicacao": "1667",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158616",
+      "MSISDN": "44762497410849",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158632",
+      "MSISDN": "44762497410851",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-02-08-14:02:00",
+      "DiasSemComunicacao": "1384",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159002",
+      "MSISDN": "44762497410888",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159028",
+      "MSISDN": "44762497410890",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-11-01-00:26:55",
+      "DiasSemComunicacao": "1118",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158673",
+      "MSISDN": "44762497410855",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-02-26-21:09:36",
+      "DiasSemComunicacao": "269",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159036",
+      "MSISDN": "44762497410891",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-05-28-02:20:39",
+      "DiasSemComunicacao": "179",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159044",
+      "MSISDN": "44762497410892",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-10-21-16:00:20",
+      "DiasSemComunicacao": "1493",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159051",
+      "MSISDN": "44762497410893",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-25-16:06:08",
+      "DiasSemComunicacao": "1397",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159069",
+      "MSISDN": "44762497410894",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-07-18:44:52",
+      "DiasSemComunicacao": "1811",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158921",
+      "MSISDN": "44762497410880",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-06-19-14:20:23",
+      "DiasSemComunicacao": "1253",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158871",
+      "MSISDN": "44762497410875",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-10-12-17:22:44",
+      "DiasSemComunicacao": "1502",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158988",
+      "MSISDN": "44762497410886",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-07-15-20:49:50",
+      "DiasSemComunicacao": "2321",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159085",
+      "MSISDN": "44762497410896",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-10-19-11:13:07",
+      "DiasSemComunicacao": "2592",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159093",
+      "MSISDN": "44762497410897",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-11-10-19:44:05",
+      "DiasSemComunicacao": "377",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159101",
+      "MSISDN": "44762497410898",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-07-16-17:17:59",
+      "DiasSemComunicacao": "2686",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158681",
+      "MSISDN": "44762497410856",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-19-12:39:34",
+      "DiasSemComunicacao": "1404",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158699",
+      "MSISDN": "44762497410857",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-10-30-18:13:22",
+      "DiasSemComunicacao": "753",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158707",
+      "MSISDN": "44762497410858",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-09-05-23:06:49",
+      "DiasSemComunicacao": "1174",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158756",
+      "MSISDN": "44762497410863",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-07-15-20:45:29",
+      "DiasSemComunicacao": "2321",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158764",
+      "MSISDN": "44762497410864",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-09-04-16:35:45",
+      "DiasSemComunicacao": "1905",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158715",
+      "MSISDN": "44762497410859",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-01-22-13:11:11",
+      "DiasSemComunicacao": "2131",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158749",
+      "MSISDN": "44762497410862",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-07-26-21:59:46",
+      "DiasSemComunicacao": "1945",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158772",
+      "MSISDN": "44762497410865",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-07-30-12:52:22",
+      "DiasSemComunicacao": "1212",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158731",
+      "MSISDN": "44762497410861",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-07-16-17:04:36",
+      "DiasSemComunicacao": "2686",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158624",
+      "MSISDN": "44762497410850",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-04-08-11:02:17",
+      "DiasSemComunicacao": "2420",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158640",
+      "MSISDN": "44762497410852",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-11-05-14:54:37",
+      "DiasSemComunicacao": "1478",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201159010",
+      "MSISDN": "44762497410889",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-10-15-14:35:52",
+      "DiasSemComunicacao": "2229",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151793",
+      "MSISDN": "44762497410167",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-10-11-14:59:54",
+      "DiasSemComunicacao": "2599",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201151819",
+      "MSISDN": "44762497410169",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170371",
+      "MSISDN": "44762497412025",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-02-01-12:15:29",
+      "DiasSemComunicacao": "2121",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170264",
+      "MSISDN": "44762497412014",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-03-02-13:47:37",
+      "DiasSemComunicacao": "2092",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170272",
+      "MSISDN": "44762497412015",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-12-01-03:07:34",
+      "DiasSemComunicacao": "1088",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170249",
+      "MSISDN": "44762497412012",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-09-22-20:02:26",
+      "DiasSemComunicacao": "1157",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170355",
+      "MSISDN": "44762497412023",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-02-15-11:51:45",
+      "DiasSemComunicacao": "1012",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170397",
+      "MSISDN": "44762497412027",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-02-29-13:22:20",
+      "DiasSemComunicacao": "998",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170405",
+      "MSISDN": "44762497412028",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-07-15-21:39:16",
+      "DiasSemComunicacao": "1956",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170447",
+      "MSISDN": "44762497412032",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-09-08-18:25:42",
+      "DiasSemComunicacao": "1536",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171130",
+      "MSISDN": "44762497412101",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-09-16-19:47:46",
+      "DiasSemComunicacao": "1893",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170801",
+      "MSISDN": "44762497412068",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-27-10:23:42",
+      "DiasSemComunicacao": "1396",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170694",
+      "MSISDN": "44762497412057",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-09-14-17:52:25",
+      "DiasSemComunicacao": "799",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170710",
+      "MSISDN": "44762497412059",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-14-12:56:41",
+      "DiasSemComunicacao": "1805",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170843",
+      "MSISDN": "44762497412072",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-06-20-22:28:41",
+      "DiasSemComunicacao": "1251",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170850",
+      "MSISDN": "44762497412073",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-05-25-22:03:28",
+      "DiasSemComunicacao": "2007",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170868",
+      "MSISDN": "44762497412074",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-10-08-00:28:59",
+      "DiasSemComunicacao": "1507",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170587",
+      "MSISDN": "44762497412046",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-05-10-16:58:47",
+      "DiasSemComunicacao": "1292",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170603",
+      "MSISDN": "44762497412048",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-12-24-10:48:50",
+      "DiasSemComunicacao": "2160",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171072",
+      "MSISDN": "44762497412095",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-11-10-21:03:14",
+      "DiasSemComunicacao": "1838",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171080",
+      "MSISDN": "44762497412096",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-10-03-14:05:37",
+      "DiasSemComunicacao": "1512",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171106",
+      "MSISDN": "44762497412098",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170645",
+      "MSISDN": "44762497412052",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-03-22-20:30:58",
+      "DiasSemComunicacao": "1341",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170785",
+      "MSISDN": "44762497412066",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-03-07-19:34:08",
+      "DiasSemComunicacao": "2451",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158970",
+      "MSISDN": "44762497410885",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170876",
+      "MSISDN": "44762497412075",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-05-24-23:07:17",
+      "DiasSemComunicacao": "1278",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170256",
+      "MSISDN": "44762497412013",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-10-28-18:29:27",
+      "DiasSemComunicacao": "1851",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170280",
+      "MSISDN": "44762497412016",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-03-22-18:58:01",
+      "DiasSemComunicacao": "1341",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170314",
+      "MSISDN": "44762497412019",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-01-15-15:07:07",
+      "DiasSemComunicacao": "2137",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170322",
+      "MSISDN": "44762497412020",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-12-18-16:20:09",
+      "DiasSemComunicacao": "339",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170363",
+      "MSISDN": "44762497412024",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-07-25-23:29:51",
+      "DiasSemComunicacao": "1216",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170595",
+      "MSISDN": "44762497412047",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-05-20-21:16:17",
+      "DiasSemComunicacao": "1647",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171205",
+      "MSISDN": "44762497412108",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-06-03-12:13:38",
+      "DiasSemComunicacao": "2364",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171122",
+      "MSISDN": "44762497412100",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-12-11-16:31:42",
+      "DiasSemComunicacao": "711",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170652",
+      "MSISDN": "44762497412053",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-10-28-14:20:51",
+      "DiasSemComunicacao": "2217",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170660",
+      "MSISDN": "44762497412054",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170686",
+      "MSISDN": "44762497412056",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-31-12:34:09",
+      "DiasSemComunicacao": "1392",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170488",
+      "MSISDN": "44762497412036",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-06-17-11:40:58",
+      "DiasSemComunicacao": "889",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170835",
+      "MSISDN": "44762497412071",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-04-07-16:10:21",
+      "DiasSemComunicacao": "2420",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170702",
+      "MSISDN": "44762497412058",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-11-04-14:53:02",
+      "DiasSemComunicacao": "1479",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170736",
+      "MSISDN": "44762497412061",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-07-14:42:45",
+      "DiasSemComunicacao": "1811",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170744",
+      "MSISDN": "44762497412062",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-07-18:34:06",
+      "DiasSemComunicacao": "1811",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170751",
+      "MSISDN": "44762497412063",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-07-22-22:08:55",
+      "DiasSemComunicacao": "1584",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170769",
+      "MSISDN": "44762497412064",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-11-23-21:44:05",
+      "DiasSemComunicacao": "1825",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170777",
+      "MSISDN": "44762497412065",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-04-07-15:01:52",
+      "DiasSemComunicacao": "2420",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170504",
+      "MSISDN": "44762497412038",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-10-23-14:52:12",
+      "DiasSemComunicacao": "2221",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170512",
+      "MSISDN": "44762497412039",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-08-23-12:48:24",
+      "DiasSemComunicacao": "822",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170538",
+      "MSISDN": "44762497412041",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-11-23-22:26:23",
+      "DiasSemComunicacao": "1825",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170553",
+      "MSISDN": "44762497412043",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-05-26-21:59:00",
+      "DiasSemComunicacao": "1276",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170561",
+      "MSISDN": "44762497412044",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-09-28-11:51:00",
+      "DiasSemComunicacao": "1882",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017499",
+      "MSISDN": "44762497396737",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-02-01-15:10:11",
+      "DiasSemComunicacao": "659",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017606",
+      "MSISDN": "44762497396748",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-08-27-17:16:08",
+      "DiasSemComunicacao": "2278",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017614",
+      "MSISDN": "44762497396749",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-02-28-14:50:20",
+      "DiasSemComunicacao": "1363",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017960",
+      "MSISDN": "44762497396784",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-04-04-18:31:02",
+      "DiasSemComunicacao": "1328",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018133",
+      "MSISDN": "44762497396801",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-09-03-15:09:56",
+      "DiasSemComunicacao": "2637",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017978",
+      "MSISDN": "44762497396785",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-07-12-19:53:49",
+      "DiasSemComunicacao": "1229",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017853",
+      "MSISDN": "44762497396773",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-09-07-20:51:04",
+      "DiasSemComunicacao": "2633",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017861",
+      "MSISDN": "44762497396774",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-04-26-19:21:52",
+      "DiasSemComunicacao": "940",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017986",
+      "MSISDN": "44762497396786",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-10-18-23:33:09",
+      "DiasSemComunicacao": "1861",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017994",
+      "MSISDN": "44762497396787",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-04-07-12:33:41",
+      "DiasSemComunicacao": "2421",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018000",
+      "MSISDN": "44762497396788",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-08-09-14:22:53",
+      "DiasSemComunicacao": "1931",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017465",
+      "MSISDN": "44762497396734",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-04-16-16:53:29",
+      "DiasSemComunicacao": "950",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018034",
+      "MSISDN": "44762497396791",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-13-14:26:43",
+      "DiasSemComunicacao": "1409",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017655",
+      "MSISDN": "44762497396753",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-03-23-21:01:09",
+      "DiasSemComunicacao": "2070",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018182",
+      "MSISDN": "44762497396806",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-04-15-09:49:02",
+      "DiasSemComunicacao": "1318",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018190",
+      "MSISDN": "44762497396807",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-02-01-21:12:29",
+      "DiasSemComunicacao": "1390",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018208",
+      "MSISDN": "44762497396808",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-07-14:17:28",
+      "DiasSemComunicacao": "1812",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017556",
+      "MSISDN": "44762497396743",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-04-04-21:00:08",
+      "DiasSemComunicacao": "1328",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018059",
+      "MSISDN": "44762497396793",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-06-08-09:48:51",
+      "DiasSemComunicacao": "1264",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017697",
+      "MSISDN": "44762497396757",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017713",
+      "MSISDN": "44762497396759",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-07-18:56:44",
+      "DiasSemComunicacao": "1811",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018174",
+      "MSISDN": "44762497396805",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-08-11-20:40:37",
+      "DiasSemComunicacao": "1929",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018216",
+      "MSISDN": "44762497396809",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017689",
+      "MSISDN": "44762497396756",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-04-17-22:09:36",
+      "DiasSemComunicacao": "1315",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017739",
+      "MSISDN": "44762497396761",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-04-29-19:16:07",
+      "DiasSemComunicacao": "2398",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017754",
+      "MSISDN": "44762497396763",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-07-21-18:27:58",
+      "DiasSemComunicacao": "2315",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017762",
+      "MSISDN": "44762497396764",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-07-28-12:45:26",
+      "DiasSemComunicacao": "1944",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017812",
+      "MSISDN": "44762497396769",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-06-13-22:37:50",
+      "DiasSemComunicacao": "1623",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018109",
+      "MSISDN": "44762497396798",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-04-22-12:19:54",
+      "DiasSemComunicacao": "2406",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018125",
+      "MSISDN": "44762497396800",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-03-03-15:15:35",
+      "DiasSemComunicacao": "2090",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017481",
+      "MSISDN": "44762497396736",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-09-30-03:32:30",
+      "DiasSemComunicacao": "2245",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017796",
+      "MSISDN": "44762497396767",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-10-19:12:45",
+      "DiasSemComunicacao": "1808",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017887",
+      "MSISDN": "44762497396776",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-09-19-18:28:31",
+      "DiasSemComunicacao": "1890",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017903",
+      "MSISDN": "44762497396778",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-05-18-22:29:44",
+      "DiasSemComunicacao": "2014",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017424",
+      "MSISDN": "44762497396730",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2025-10-14-19:08:24",
+      "DiasSemComunicacao": "404",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018075",
+      "MSISDN": "44762497396795",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-02-19-17:07:10",
+      "DiasSemComunicacao": "2102",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018083",
+      "MSISDN": "44762497396796",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017952",
+      "MSISDN": "44762497396783",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2024-05-03-16:32:19",
+      "DiasSemComunicacao": "933",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017838",
+      "MSISDN": "44762497396771",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-09-08-21:31:38",
+      "DiasSemComunicacao": "1901",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017846",
+      "MSISDN": "44762497396772",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018166",
+      "MSISDN": "44762497396804",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-06-11-11:33:03",
+      "DiasSemComunicacao": "2356",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018018",
+      "MSISDN": "44762497396789",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-02-07-18:25:20",
+      "DiasSemComunicacao": "1384",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018042",
+      "MSISDN": "44762497396792",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-10-11-16:59:42",
+      "DiasSemComunicacao": "1138",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018067",
+      "MSISDN": "44762497396794",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-09-15-17:40:29",
+      "DiasSemComunicacao": "2259",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170728",
+      "MSISDN": "44762497412060",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-08-17-11:32:11",
+      "DiasSemComunicacao": "98",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "SUSPENDER"
+    },
+    {
+      "ICCID": "8955170000201158848",
+      "MSISDN": "44762497410872",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-10-09-21:14:30",
+      "DiasSemComunicacao": "1140",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170546",
+      "MSISDN": "44762497412042",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-09-02-13:57:55",
+      "DiasSemComunicacao": "82",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "VERIFICAR"
+    },
+    {
+      "ICCID": "8955170000201017879",
+      "MSISDN": "44762497396775",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-09-09-12:53:44",
+      "DiasSemComunicacao": "75",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "VERIFICAR"
+    },
+    {
+      "ICCID": "8955170000201158723",
+      "MSISDN": "44762497410860",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-02-07-20:01:21",
+      "DiasSemComunicacao": "1384",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170348",
+      "MSISDN": "44762497412022",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-08-25-17:55:39",
+      "DiasSemComunicacao": "89",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "VERIFICAR"
+    },
+    {
+      "ICCID": "8955170000201018158",
+      "MSISDN": "44762497396803",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-09-08-11:45:36",
+      "DiasSemComunicacao": "1902",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017705",
+      "MSISDN": "44762497396758",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-11-09-20:01:47",
+      "DiasSemComunicacao": "2204",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562635",
+      "MSISDN": "44762497451251",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-06-22-13:25:19",
+      "DiasSemComunicacao": "154",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201562643",
+      "MSISDN": "44762497451252",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2019-09-12-15:32:10",
+      "DiasSemComunicacao": "2628",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017804",
+      "MSISDN": "44762497396768",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2020-03-12-19:29:34",
+      "DiasSemComunicacao": "2446",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171114",
+      "MSISDN": "44762497412099",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-06-16-13:40:26",
+      "DiasSemComunicacao": "1256",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170496",
+      "MSISDN": "44762497412037",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-04-04-20:54:02",
+      "DiasSemComunicacao": "1328",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201170579",
+      "MSISDN": "44762497412045",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "",
+      "DiasSemComunicacao": "",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201018026",
+      "MSISDN": "44762497396790",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2023-01-31-15:57:28",
+      "DiasSemComunicacao": "1391",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201017911",
+      "MSISDN": "44762497396779",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-11-05-10:25:10",
+      "DiasSemComunicacao": "18",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "OK"
+    },
+    {
+      "ICCID": "8955170000201158657",
+      "MSISDN": "44762497410853",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-11-06-19:13:30",
+      "DiasSemComunicacao": "16",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "OK"
+    },
+    {
+      "ICCID": "8955170000201017598",
+      "MSISDN": "44762497396747",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-11-10-13:01:05",
+      "DiasSemComunicacao": "13",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "OK"
+    },
+    {
+      "ICCID": "8955170000201170389",
+      "MSISDN": "44762497412026",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-11-13-18:07:41",
+      "DiasSemComunicacao": "9",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "OK"
+    },
+    {
+      "ICCID": "8955170000201158996",
+      "MSISDN": "44762497410887",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-11-19-11:36:23",
+      "DiasSemComunicacao": "4",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "OK"
+    },
+    {
+      "ICCID": "8955170000201170926",
+      "MSISDN": "44762497412080",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-11-19-16:16:29",
+      "DiasSemComunicacao": "3",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "OK"
+    },
+    {
+      "ICCID": "8955170000201158830",
+      "MSISDN": "44762497410871",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-11-20-15:10:46",
+      "DiasSemComunicacao": "2",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "OK"
+    },
+    {
+      "ICCID": "8955170000201170611",
+      "MSISDN": "44762497412049",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-11-21-12:18:23",
+      "DiasSemComunicacao": "2",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "OK"
+    },
+    {
+      "ICCID": "8955170000201171213",
+      "MSISDN": "44762497412109",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2022-08-10-23:03:51",
+      "DiasSemComunicacao": "1565",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201171197",
+      "MSISDN": "44762497412107",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2021-12-07-13:40:57",
+      "DiasSemComunicacao": "1812",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
+    },
+    {
+      "ICCID": "8955170000201158665",
+      "MSISDN": "44762497410854",
+      "Fornecedor": "ESEYE",
+      "SituacaoOperacional": "ATIVO",
+      "UltimaComunicacao": "2026-11-23-13:10:19",
+      "DiasSemComunicacao": "0",
+      "Cidade": "",
+      "UF": "",
+      "AcaoRecomendada": "OK"
     },
     {
       "ICCID": "89551180257001410566",
@@ -18719,7 +21689,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 13:45:01",
-      "DiasSemComunicacao": "19",
+      "DiasSemComunicacao": "20",
       "Cidade": "Cachoeira Paulista",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -18884,7 +21854,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 14:18:35",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -19082,7 +22052,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-17 12:41:45",
-      "DiasSemComunicacao": "36",
+      "DiasSemComunicacao": "37",
       "Cidade": "Mogi Guaçu",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -19159,7 +22129,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 13:37:04",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Três Lagoas",
       "UF": "MS",
       "AcaoRecomendada": "OK"
@@ -19555,7 +22525,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-19 11:10:16",
-      "DiasSemComunicacao": "672",
+      "DiasSemComunicacao": "673",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -20160,7 +23130,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-26 11:14:54",
-      "DiasSemComunicacao": "665",
+      "DiasSemComunicacao": "666",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -20347,7 +23317,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-17 13:08:54",
-      "DiasSemComunicacao": "66",
+      "DiasSemComunicacao": "67",
       "Cidade": "Jaguaré",
       "UF": "ES",
       "AcaoRecomendada": "VERIFICAR"
@@ -20369,7 +23339,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-04 12:33:41",
-      "DiasSemComunicacao": "383",
+      "DiasSemComunicacao": "384",
       "Cidade": "Água Clara",
       "UF": "MS",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20446,7 +23416,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-01 11:29:17",
-      "DiasSemComunicacao": "570",
+      "DiasSemComunicacao": "571",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -20732,7 +23702,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-08-26 13:49:19.915000",
-      "DiasSemComunicacao": "818",
+      "DiasSemComunicacao": "819",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -20743,7 +23713,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-08 12:13:38",
-      "DiasSemComunicacao": "45",
+      "DiasSemComunicacao": "46",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -20820,7 +23790,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-25 12:10:47",
-      "DiasSemComunicacao": "454",
+      "DiasSemComunicacao": "455",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -21062,7 +24032,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-31 13:35:16",
-      "DiasSemComunicacao": "479",
+      "DiasSemComunicacao": "480",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -21150,7 +24120,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-28 12:11:17",
-      "DiasSemComunicacao": "663",
+      "DiasSemComunicacao": "664",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -21194,7 +24164,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-02 12:57:05",
-      "DiasSemComunicacao": "538",
+      "DiasSemComunicacao": "539",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -21315,7 +24285,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-12 13:50:44",
-      "DiasSemComunicacao": "710",
+      "DiasSemComunicacao": "711",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -21326,7 +24296,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-23 12:28:00",
-      "DiasSemComunicacao": "122",
+      "DiasSemComunicacao": "123",
       "Cidade": "Taubaté",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21469,7 +24439,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-28 11:52:51",
-      "DiasSemComunicacao": "86",
+      "DiasSemComunicacao": "87",
       "Cidade": "Mauá",
       "UF": "SP",
       "AcaoRecomendada": "VERIFICAR"
@@ -21788,7 +24758,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-22 14:19:01",
-      "DiasSemComunicacao": "123",
+      "DiasSemComunicacao": "124",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21832,7 +24802,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-06 14:08:37",
-      "DiasSemComunicacao": "108",
+      "DiasSemComunicacao": "109",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "SUSPENDER"
@@ -22074,7 +25044,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-09 12:21:59",
-      "DiasSemComunicacao": "409",
+      "DiasSemComunicacao": "410",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -22415,7 +25385,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-25 13:14:12",
-      "DiasSemComunicacao": "635",
+      "DiasSemComunicacao": "636",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -22426,7 +25396,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-27 12:00:55",
-      "DiasSemComunicacao": "330",
+      "DiasSemComunicacao": "331",
       "Cidade": "Serra",
       "UF": "ES",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -22503,7 +25473,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-20 11:19:21",
-      "DiasSemComunicacao": "702",
+      "DiasSemComunicacao": "703",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -22580,7 +25550,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-25 12:06:36",
-      "DiasSemComunicacao": "607",
+      "DiasSemComunicacao": "608",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -22624,7 +25594,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-25 11:00:36",
-      "DiasSemComunicacao": "635",
+      "DiasSemComunicacao": "636",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -22657,7 +25627,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-11-20 13:41:48.910000",
-      "DiasSemComunicacao": "732",
+      "DiasSemComunicacao": "733",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -22833,7 +25803,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 11:20:40",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22877,7 +25847,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-07 12:27:24",
-      "DiasSemComunicacao": "15",
+      "DiasSemComunicacao": "16",
       "Cidade": "Açailândia",
       "UF": "MA",
       "AcaoRecomendada": "OK"
@@ -23119,10 +26089,10 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-24 12:33:13",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "60",
       "Cidade": "São José dos Campos",
       "UF": "SP",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89551180157002235170",
@@ -23251,7 +26221,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-10 11:26:10",
-      "DiasSemComunicacao": "377",
+      "DiasSemComunicacao": "378",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -23339,7 +26309,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-18 11:25:48",
-      "DiasSemComunicacao": "704",
+      "DiasSemComunicacao": "705",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23405,7 +26375,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-25 12:10:49",
-      "DiasSemComunicacao": "454",
+      "DiasSemComunicacao": "455",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23779,7 +26749,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-25 12:03:35",
-      "DiasSemComunicacao": "28",
+      "DiasSemComunicacao": "29",
       "Cidade": "Santa Branca",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23834,7 +26804,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-05-11 10:58:20",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "196",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -23900,7 +26870,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-09-20 12:00:27.126000",
-      "DiasSemComunicacao": "793",
+      "DiasSemComunicacao": "794",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23999,7 +26969,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-21 10:57:22",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "33",
       "Cidade": "São Simão",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -24208,7 +27178,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-24 13:07:25",
-      "DiasSemComunicacao": "667",
+      "DiasSemComunicacao": "668",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24219,7 +27189,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-28 12:12:30",
-      "DiasSemComunicacao": "663",
+      "DiasSemComunicacao": "664",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24560,7 +27530,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-15 12:08:46",
-      "DiasSemComunicacao": "464",
+      "DiasSemComunicacao": "465",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24637,7 +27607,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-09 13:31:19",
-      "DiasSemComunicacao": "531",
+      "DiasSemComunicacao": "532",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24758,7 +27728,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-15 12:39:41",
-      "DiasSemComunicacao": "617",
+      "DiasSemComunicacao": "618",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24868,7 +27838,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-06 12:55:31",
-      "DiasSemComunicacao": "77",
+      "DiasSemComunicacao": "78",
       "Cidade": "Alto Garças",
       "UF": "MT",
       "AcaoRecomendada": "VERIFICAR"
@@ -25022,7 +27992,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-14 11:18:56",
-      "DiasSemComunicacao": "587",
+      "DiasSemComunicacao": "588",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25198,7 +28168,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-07 11:40:12",
-      "DiasSemComunicacao": "625",
+      "DiasSemComunicacao": "626",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25286,7 +28256,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-31 10:53:15",
-      "DiasSemComunicacao": "326",
+      "DiasSemComunicacao": "327",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25297,7 +28267,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-11-14 11:41:45.671000",
-      "DiasSemComunicacao": "738",
+      "DiasSemComunicacao": "739",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25319,7 +28289,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-09-15 10:51:59",
-      "DiasSemComunicacao": "433",
+      "DiasSemComunicacao": "434",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25462,7 +28432,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 12:13:16",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -25693,7 +28663,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-25 11:12:30",
-      "DiasSemComunicacao": "607",
+      "DiasSemComunicacao": "608",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25704,7 +28674,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-12 11:35:47",
-      "DiasSemComunicacao": "314",
+      "DiasSemComunicacao": "315",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25957,7 +28927,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 13:45:26",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "13",
       "Cidade": "Alcobaça",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -26034,7 +29004,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-22 13:21:08",
-      "DiasSemComunicacao": "610",
+      "DiasSemComunicacao": "611",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26177,7 +29147,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-10 11:38:27",
-      "DiasSemComunicacao": "377",
+      "DiasSemComunicacao": "378",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -26408,7 +29378,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-08 12:37:29",
-      "DiasSemComunicacao": "714",
+      "DiasSemComunicacao": "715",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26419,7 +29389,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-02 11:08:52",
-      "DiasSemComunicacao": "538",
+      "DiasSemComunicacao": "539",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26507,7 +29477,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-15 11:05:18",
-      "DiasSemComunicacao": "38",
+      "DiasSemComunicacao": "39",
       "Cidade": "Caravelas",
       "UF": "BA",
       "AcaoRecomendada": "MONITORAR"
@@ -26705,7 +29675,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-27 11:55:27",
-      "DiasSemComunicacao": "544",
+      "DiasSemComunicacao": "545",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26870,7 +29840,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-10 11:41:49",
-      "DiasSemComunicacao": "377",
+      "DiasSemComunicacao": "378",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -27354,7 +30324,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-28 11:58:17",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "26",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -27376,7 +30346,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-01 12:23:56",
-      "DiasSemComunicacao": "600",
+      "DiasSemComunicacao": "601",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27398,7 +30368,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 11:28:24",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "13",
       "Cidade": "Sarapuí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -27915,7 +30885,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-25 13:13:49",
-      "DiasSemComunicacao": "635",
+      "DiasSemComunicacao": "636",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27959,7 +30929,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 11:59:55",
-      "DiasSemComunicacao": "19",
+      "DiasSemComunicacao": "20",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -28014,7 +30984,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-13 11:08:44",
-      "DiasSemComunicacao": "223",
+      "DiasSemComunicacao": "224",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28069,7 +31039,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-30 13:49:57",
-      "DiasSemComunicacao": "602",
+      "DiasSemComunicacao": "603",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28080,7 +31050,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-06 12:56:56",
-      "DiasSemComunicacao": "16",
+      "DiasSemComunicacao": "17",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -28212,7 +31182,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-11 12:18:30",
-      "DiasSemComunicacao": "621",
+      "DiasSemComunicacao": "622",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28333,7 +31303,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-25 13:13:52",
-      "DiasSemComunicacao": "635",
+      "DiasSemComunicacao": "636",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28553,7 +31523,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-11-07 12:56:31.187000",
-      "DiasSemComunicacao": "745",
+      "DiasSemComunicacao": "746",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28619,7 +31589,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-27 11:17:50",
-      "DiasSemComunicacao": "605",
+      "DiasSemComunicacao": "606",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28696,7 +31666,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-10-06 11:52:07.216000",
-      "DiasSemComunicacao": "777",
+      "DiasSemComunicacao": "778",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28839,7 +31809,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-10-28 12:16:32.728000",
-      "DiasSemComunicacao": "755",
+      "DiasSemComunicacao": "756",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29136,7 +32106,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-01 11:12:26",
-      "DiasSemComunicacao": "266",
+      "DiasSemComunicacao": "267",
       "Cidade": "Brasilândia",
       "UF": "MS",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29411,7 +32381,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-26 11:56:45",
-      "DiasSemComunicacao": "634",
+      "DiasSemComunicacao": "635",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29532,7 +32502,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 12:30:09",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -29565,7 +32535,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-01 12:53:24",
-      "DiasSemComunicacao": "478",
+      "DiasSemComunicacao": "479",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29609,7 +32579,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-11 13:20:08",
-      "DiasSemComunicacao": "72",
+      "DiasSemComunicacao": "73",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "VERIFICAR"
@@ -29631,7 +32601,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-14 13:24:52",
-      "DiasSemComunicacao": "677",
+      "DiasSemComunicacao": "678",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29741,7 +32711,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-16 14:02:35",
-      "DiasSemComunicacao": "675",
+      "DiasSemComunicacao": "676",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29752,7 +32722,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-08 13:39:48",
-      "DiasSemComunicacao": "683",
+      "DiasSemComunicacao": "684",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30225,7 +33195,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 12:48:42",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "13",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -30357,7 +33327,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 12:06:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -30423,7 +33393,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-07 13:51:19",
-      "DiasSemComunicacao": "138",
+      "DiasSemComunicacao": "139",
       "Cidade": "Altinópolis",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -30445,7 +33415,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-26 12:08:38",
-      "DiasSemComunicacao": "575",
+      "DiasSemComunicacao": "576",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30500,7 +33470,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 14:09:42",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Salesópolis",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -30643,7 +33613,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 13:32:23",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -30709,7 +33679,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-15 11:32:36",
-      "DiasSemComunicacao": "676",
+      "DiasSemComunicacao": "677",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30808,7 +33778,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 13:12:01",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Serra Negra",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -30874,7 +33844,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-10 11:21:38",
-      "DiasSemComunicacao": "226",
+      "DiasSemComunicacao": "227",
       "Cidade": "Linhares",
       "UF": "ES",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -30940,7 +33910,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-06 12:23:40",
-      "DiasSemComunicacao": "16",
+      "DiasSemComunicacao": "17",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -31050,7 +34020,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 11:58:00",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -31061,7 +34031,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-12 13:42:16",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "11",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -31072,7 +34042,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-09 11:05:55",
-      "DiasSemComunicacao": "286",
+      "DiasSemComunicacao": "287",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31105,7 +34075,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-02 13:42:00",
-      "DiasSemComunicacao": "51",
+      "DiasSemComunicacao": "52",
       "Cidade": "Ilha Solteira",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -31237,7 +34207,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-27 13:31:52",
-      "DiasSemComunicacao": "87",
+      "DiasSemComunicacao": "88",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "VERIFICAR"
@@ -31270,7 +34240,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-09 12:29:47",
-      "DiasSemComunicacao": "227",
+      "DiasSemComunicacao": "228",
       "Cidade": "Três Lagoas",
       "UF": "MS",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31281,7 +34251,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-22 11:36:30",
-      "DiasSemComunicacao": "123",
+      "DiasSemComunicacao": "124",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31336,7 +34306,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-14 12:03:19",
-      "DiasSemComunicacao": "222",
+      "DiasSemComunicacao": "223",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31435,7 +34405,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-29 13:19:22",
-      "DiasSemComunicacao": "238",
+      "DiasSemComunicacao": "239",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31622,7 +34592,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 11:35:11",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -31655,7 +34625,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-27 11:07:27",
-      "DiasSemComunicacao": "56",
+      "DiasSemComunicacao": "57",
       "Cidade": "Governador Celso Ramos",
       "UF": "SC",
       "AcaoRecomendada": "MONITORAR"
@@ -31688,7 +34658,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 14:14:33",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Caçapava",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -31710,10 +34680,10 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-23 11:26:26",
-      "DiasSemComunicacao": "30",
+      "DiasSemComunicacao": "31",
       "Cidade": "",
       "UF": "",
-      "AcaoRecomendada": "OK"
+      "AcaoRecomendada": "MONITORAR"
     },
     {
       "ICCID": "89551180257001140965",
@@ -31875,7 +34845,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 11:46:50",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Botucatu",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -31897,7 +34867,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-12 12:56:39",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "11",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -31963,7 +34933,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 13:46:32",
-      "DiasSemComunicacao": "19",
+      "DiasSemComunicacao": "20",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -32227,7 +35197,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-21 13:23:16",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "33",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -32326,7 +35296,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-14 12:15:26",
-      "DiasSemComunicacao": "69",
+      "DiasSemComunicacao": "70",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "VERIFICAR"
@@ -32370,7 +35340,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-07 10:55:56",
-      "DiasSemComunicacao": "138",
+      "DiasSemComunicacao": "139",
       "Cidade": "Pindamonhangaba",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -32480,7 +35450,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 13:42:52",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Santa Branca",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -32590,7 +35560,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 12:17:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -32722,7 +35692,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 11:52:23",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -32755,7 +35725,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-09 12:39:29",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "14",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -32898,7 +35868,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-17 12:44:03",
-      "DiasSemComunicacao": "66",
+      "DiasSemComunicacao": "67",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "VERIFICAR"
@@ -32953,7 +35923,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 12:40:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -33074,7 +36044,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 13:23:40",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -33118,7 +36088,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 10:59:24",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33580,7 +36550,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-21 13:57:36",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "33",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -33646,7 +36616,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 12:01:10",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "13",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33712,7 +36682,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 13:02:04",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Mogi das Cruzes",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33800,7 +36770,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-13 11:19:27",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
