@@ -1,5 +1,5 @@
 const BASE_CHIPS = {
-  "ultimaAtualizacao": "23/11/2026 15:18",
+  "ultimaAtualizacao": "26/11/2026 09:12",
   "totalRegistros": 3348,
   "registros": [
     {
@@ -52,7 +52,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 15:45",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -63,7 +63,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 18:22",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -74,7 +74,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 10:18",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -96,7 +96,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 18:03",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -107,7 +107,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -129,7 +129,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 15:51",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -140,7 +140,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 18:24",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -151,7 +151,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:44",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -162,7 +162,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 03:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -173,7 +173,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 15:59",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -184,7 +184,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -206,7 +206,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 14:29",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -217,7 +217,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -228,7 +228,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 09:36",
-      "DiasSemComunicacao": "55",
+      "DiasSemComunicacao": "57",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -239,7 +239,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -250,7 +250,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -261,7 +261,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 08:53",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "12",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -272,7 +272,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 18:22",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -294,7 +294,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Rita do Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -305,7 +305,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 23:05",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -316,7 +316,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 13:55",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "24",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -327,7 +327,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -338,7 +338,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 23:58",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "27",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -349,7 +349,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -360,7 +360,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 16:10",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -371,7 +371,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 03:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -382,7 +382,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -393,7 +393,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 17:51",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -404,7 +404,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 15:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -415,7 +415,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 18:05",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -426,7 +426,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 14:42",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -437,7 +437,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -448,7 +448,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 07:49",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -459,7 +459,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 10:07",
-      "DiasSemComunicacao": "55",
+      "DiasSemComunicacao": "57",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -470,7 +470,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 11:47",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -481,7 +481,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 16:58",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -492,7 +492,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 12:46",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -503,7 +503,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 09:21",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "12",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -514,7 +514,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -525,7 +525,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 20:27",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -536,7 +536,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -547,7 +547,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 00:15",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -558,7 +558,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 16:19",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -569,7 +569,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -580,7 +580,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 21:10",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -591,7 +591,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 12:25",
-      "DiasSemComunicacao": "55",
+      "DiasSemComunicacao": "56",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -602,7 +602,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 11:43",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -613,7 +613,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -624,7 +624,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 10:18",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -635,7 +635,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 12:24",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -646,7 +646,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 14:00",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -657,7 +657,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 17:06",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -668,7 +668,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 12:58",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranaíba",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -679,7 +679,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 19:13",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -701,7 +701,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 12:39",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "13",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -712,7 +712,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 12:52",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -723,7 +723,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 08:09",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "167",
       "Cidade": "Ilha Solteira",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -734,7 +734,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 08:46",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -756,7 +756,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 14:45",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -767,7 +767,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/10/2026 10:04",
-      "DiasSemComunicacao": "34",
+      "DiasSemComunicacao": "36",
       "Cidade": "",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -778,7 +778,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 20:08",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -789,7 +789,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -811,7 +811,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 17:08",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -822,7 +822,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 12:30",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "44",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -833,7 +833,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 08:27",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -855,7 +855,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -866,7 +866,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 07:11",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -877,7 +877,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -888,7 +888,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/10/2026 19:29",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "25",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -899,7 +899,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 13:57",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "24",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -910,7 +910,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 15:46",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -921,7 +921,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 14:37",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -932,7 +932,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 17:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajá",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -943,7 +943,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 08:27",
-      "DiasSemComunicacao": "-18",
+      "DiasSemComunicacao": "-16",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -954,7 +954,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 20:12",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -965,7 +965,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/10/2026 15:21",
-      "DiasSemComunicacao": "40",
+      "DiasSemComunicacao": "42",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -976,7 +976,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 20:41",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -987,7 +987,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 11:17",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -998,7 +998,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/11/2026 16:30",
-      "DiasSemComunicacao": "315",
+      "DiasSemComunicacao": "317",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -1009,7 +1009,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 17:09",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1020,7 +1020,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1031,7 +1031,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/09/2026 09:39",
-      "DiasSemComunicacao": "45",
+      "DiasSemComunicacao": "47",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -1042,7 +1042,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 15:55",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1053,7 +1053,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 15:46",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1064,7 +1064,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 16:31",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1075,7 +1075,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 16:22",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1086,7 +1086,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -1097,7 +1097,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:51",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -1108,7 +1108,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:42",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1119,7 +1119,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 13:02",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -1130,7 +1130,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -1141,7 +1141,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 20:51",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -1152,7 +1152,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:56",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1163,7 +1163,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 13:29",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "166",
       "Cidade": "",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -1174,10 +1174,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 14:54",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110809692",
@@ -1185,7 +1185,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 17:35",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Rio Verde",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -1196,7 +1196,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:58",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -1207,7 +1207,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Monte Alegre de Minas",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -1218,7 +1218,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:14",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -1229,7 +1229,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 17:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Prata",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -1240,7 +1240,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -1251,7 +1251,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 14:09",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1262,7 +1262,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1273,7 +1273,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Rio Verde",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -1284,7 +1284,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/09/2026 14:53",
-      "DiasSemComunicacao": "62",
+      "DiasSemComunicacao": "64",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -1295,7 +1295,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -1306,7 +1306,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Rita do Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1317,7 +1317,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1328,7 +1328,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 10:21",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1339,7 +1339,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jataí",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -1350,7 +1350,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 16:55",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1361,7 +1361,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 10:09",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1372,10 +1372,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 15:49",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110807647",
@@ -1383,7 +1383,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 13:54",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "24",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1394,7 +1394,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/09/2026 09:44",
-      "DiasSemComunicacao": "45",
+      "DiasSemComunicacao": "47",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -1405,7 +1405,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 17:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1416,7 +1416,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 20:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1427,7 +1427,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 15:11",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1438,7 +1438,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:42",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1449,7 +1449,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:27",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1460,10 +1460,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 15:41",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808090",
@@ -1471,10 +1471,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 15:36",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808082",
@@ -1482,7 +1482,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mineiros",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -1493,10 +1493,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 14:56",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808363",
@@ -1504,7 +1504,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:48",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1515,7 +1515,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:52",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1526,7 +1526,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 14:09",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -1537,10 +1537,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 14:24",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808322",
@@ -1548,10 +1548,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 15:06",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "",
       "UF": "",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808314",
@@ -1559,10 +1559,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 15:01",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808298",
@@ -1570,7 +1570,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:20",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1581,7 +1581,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:47",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1592,10 +1592,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 14:30",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808470",
@@ -1603,7 +1603,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:36",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1614,7 +1614,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 12:42",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1625,10 +1625,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 14:55",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100110808413",
@@ -1636,7 +1636,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 11:59",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1647,7 +1647,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 13:36",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1658,7 +1658,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 17:01",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -1669,7 +1669,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 08:31",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1680,7 +1680,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 06:06",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "167",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -1691,7 +1691,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 20:41",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Itajá",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1702,7 +1702,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1713,7 +1713,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cassilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1724,7 +1724,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 09:06",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1735,7 +1735,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 20:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranaíba",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -1746,7 +1746,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/10/2026 13:20",
-      "DiasSemComunicacao": "34",
+      "DiasSemComunicacao": "35",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -1757,7 +1757,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 14:11",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1768,7 +1768,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 10:10",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1779,7 +1779,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 14:03",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1790,7 +1790,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 14:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajá",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -1801,7 +1801,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/09/2026 01:46",
-      "DiasSemComunicacao": "14",
+      "DiasSemComunicacao": "16",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -1812,7 +1812,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1823,7 +1823,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 14:05",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "24",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1834,7 +1834,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 18:22",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "13",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1845,7 +1845,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 17:49",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "13",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1856,7 +1856,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 15:34",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1867,7 +1867,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 17:08",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1878,7 +1878,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/11/2026 07:10",
-      "DiasSemComunicacao": "226",
+      "DiasSemComunicacao": "228",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -1889,7 +1889,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 18:03",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1900,7 +1900,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 07:10",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "75",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -1911,7 +1911,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 15:42",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -1922,7 +1922,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1933,7 +1933,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 15:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1944,7 +1944,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 11:54",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "28",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1955,7 +1955,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 18:22",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1966,7 +1966,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:10",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1977,7 +1977,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 00:16",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1988,7 +1988,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 16:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -1999,7 +1999,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:17",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2010,7 +2010,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 10:10",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2021,7 +2021,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 15:46",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Chapadão do Céu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2043,7 +2043,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 17:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajá",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2054,7 +2054,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2065,7 +2065,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/10/2026 10:30",
-      "DiasSemComunicacao": "317",
+      "DiasSemComunicacao": "318",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2076,7 +2076,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2087,7 +2087,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 11:57",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2098,7 +2098,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 15:57",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -2109,7 +2109,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 16:14",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -2120,7 +2120,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 14:49",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2131,7 +2131,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 15:00",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2142,7 +2142,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 11:28",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2153,7 +2153,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/10/2026 13:03",
-      "DiasSemComunicacao": "39",
+      "DiasSemComunicacao": "40",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -2164,7 +2164,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2175,7 +2175,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 13:52",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Chapadão do Céu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2186,7 +2186,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2197,7 +2197,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 07:57",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "167",
       "Cidade": "Ilha Solteira",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2208,10 +2208,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/10/2026 06:37",
-      "DiasSemComunicacao": "30",
+      "DiasSemComunicacao": "32",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
-      "AcaoRecomendada": "OK"
+      "AcaoRecomendada": "MONITORAR"
     },
     {
       "ICCID": "89553202100110805237",
@@ -2219,7 +2219,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 17:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cassilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2230,7 +2230,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 19:44",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2241,7 +2241,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2252,7 +2252,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 15:15",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Cassilândia",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -2263,7 +2263,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 15:13",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -2274,7 +2274,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 05:49",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2285,7 +2285,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 14:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2296,7 +2296,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2307,7 +2307,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 09:31",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "12",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2318,7 +2318,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 13:04",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2329,7 +2329,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2340,7 +2340,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -2351,7 +2351,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 09:39",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2362,7 +2362,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 21:58",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Itajá",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2373,7 +2373,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/09/2026 12:59",
-      "DiasSemComunicacao": "54",
+      "DiasSemComunicacao": "55",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -2384,10 +2384,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/09/2026 17:44",
-      "DiasSemComunicacao": "58",
+      "DiasSemComunicacao": "60",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100110808983",
@@ -2395,7 +2395,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/09/2026 14:50",
-      "DiasSemComunicacao": "62",
+      "DiasSemComunicacao": "64",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -2406,7 +2406,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2417,7 +2417,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2428,7 +2428,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 08:20",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2439,7 +2439,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 10:20",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Chapadão do Céu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2450,7 +2450,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 17:48",
-      "DiasSemComunicacao": "72",
+      "DiasSemComunicacao": "74",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -2461,7 +2461,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 00:13",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2472,7 +2472,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2483,7 +2483,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2494,7 +2494,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 09:34",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Chapadão do Céu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2505,7 +2505,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/10/2026 13:25",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "26",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2516,7 +2516,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Rita do Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2527,7 +2527,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 14:04",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Chapadão do Céu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2538,7 +2538,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 11:54",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2549,7 +2549,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/09/2026 15:55",
-      "DiasSemComunicacao": "65",
+      "DiasSemComunicacao": "67",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -2560,7 +2560,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/09/2026 19:09",
-      "DiasSemComunicacao": "53",
+      "DiasSemComunicacao": "55",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -2571,7 +2571,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 12:02",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2582,7 +2582,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 18:47",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2593,7 +2593,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2604,7 +2604,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 19:57",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "197",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2615,7 +2615,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2626,7 +2626,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 10:33",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "74",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "VERIFICAR"
@@ -2637,10 +2637,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/09/2026 13:12",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "60",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100110800337",
@@ -2648,7 +2648,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 13:11",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "11",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2659,7 +2659,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 17:48",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2670,7 +2670,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2681,7 +2681,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/10/2026 20:29",
-      "DiasSemComunicacao": "316",
+      "DiasSemComunicacao": "318",
       "Cidade": "",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2692,7 +2692,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 12:54",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2703,7 +2703,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 18:46",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2714,7 +2714,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/09/2026 10:12",
-      "DiasSemComunicacao": "62",
+      "DiasSemComunicacao": "64",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -2725,7 +2725,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/09/2026 12:58",
-      "DiasSemComunicacao": "54",
+      "DiasSemComunicacao": "55",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -2736,7 +2736,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -2747,7 +2747,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -2758,7 +2758,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/07/2026 16:15",
-      "DiasSemComunicacao": "122",
+      "DiasSemComunicacao": "124",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2769,7 +2769,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 19:37",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Monte Alegre de Minas",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -2780,7 +2780,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/10/2026 12:06",
-      "DiasSemComunicacao": "35",
+      "DiasSemComunicacao": "36",
       "Cidade": "Rio Verde",
       "UF": "Goiás",
       "AcaoRecomendada": "MONITORAR"
@@ -2791,7 +2791,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 17:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -2802,7 +2802,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -2813,7 +2813,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 09:23",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "198",
       "Cidade": "São José dos Campos",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2824,7 +2824,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/07/2026 16:52",
-      "DiasSemComunicacao": "122",
+      "DiasSemComunicacao": "124",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2835,7 +2835,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/07/2026 16:22",
-      "DiasSemComunicacao": "122",
+      "DiasSemComunicacao": "124",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -2846,7 +2846,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 10:36",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -2857,7 +2857,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2868,7 +2868,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 06:40",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "São José dos Campos",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2879,7 +2879,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 17:57",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2890,7 +2890,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2901,7 +2901,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/10/2026 19:26",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "25",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2912,7 +2912,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -2923,7 +2923,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2934,7 +2934,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -2945,7 +2945,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Eldorado",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -2956,7 +2956,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -2978,7 +2978,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3000,7 +3000,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Douradina",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3011,7 +3011,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3033,7 +3033,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/06/2026 11:02",
-      "DiasSemComunicacao": "-13",
+      "DiasSemComunicacao": "-12",
       "Cidade": "Catalão",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -3044,7 +3044,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Eldorado",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3066,7 +3066,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3077,7 +3077,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 14:21",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3099,7 +3099,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3132,7 +3132,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3154,7 +3154,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 02:22",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3176,7 +3176,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3198,7 +3198,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Douradina",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3209,7 +3209,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ipojuca",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3220,7 +3220,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3242,7 +3242,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/09/2026 08:16",
-      "DiasSemComunicacao": "14",
+      "DiasSemComunicacao": "16",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3253,10 +3253,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/09/2026 18:13",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "61",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100109155222",
@@ -3264,7 +3264,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3275,7 +3275,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/09/2026 13:44",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "61",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -3286,10 +3286,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/09/2026 14:36",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "61",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100109155313",
@@ -3308,7 +3308,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ipojuca",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3319,7 +3319,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Condado",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3330,7 +3330,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3341,7 +3341,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/04/2026 15:39",
-      "DiasSemComunicacao": "209",
+      "DiasSemComunicacao": "211",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3352,7 +3352,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/11/2026 09:14",
-      "DiasSemComunicacao": "226",
+      "DiasSemComunicacao": "228",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3363,7 +3363,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jaboatão dos Guararapes",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3374,7 +3374,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/04/2026 16:04",
-      "DiasSemComunicacao": "209",
+      "DiasSemComunicacao": "211",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3385,7 +3385,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:26",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3396,7 +3396,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3407,7 +3407,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/04/2026 16:47",
-      "DiasSemComunicacao": "209",
+      "DiasSemComunicacao": "211",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3418,7 +3418,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 15:21",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3429,7 +3429,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3440,7 +3440,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/04/2026 15:28",
-      "DiasSemComunicacao": "209",
+      "DiasSemComunicacao": "211",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3451,7 +3451,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 15:31",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3462,7 +3462,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 14:21",
-      "DiasSemComunicacao": "91",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3473,7 +3473,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 13:57",
-      "DiasSemComunicacao": "91",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3484,7 +3484,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/04/2026 16:10",
-      "DiasSemComunicacao": "209",
+      "DiasSemComunicacao": "211",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3495,7 +3495,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 13:48",
-      "DiasSemComunicacao": "91",
+      "DiasSemComunicacao": "92",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3506,7 +3506,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jaboatão dos Guararapes",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -3517,7 +3517,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 15:03",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -3528,7 +3528,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/08/2026 18:09",
-      "DiasSemComunicacao": "94",
+      "DiasSemComunicacao": "96",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3539,7 +3539,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 15:13",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -3550,7 +3550,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/05/2026 02:13",
-      "DiasSemComunicacao": "176",
+      "DiasSemComunicacao": "178",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3561,7 +3561,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mercedes",
       "UF": "Paraná",
       "AcaoRecomendada": "OK"
@@ -3572,7 +3572,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 08:27",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Eldorado",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3583,7 +3583,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dourados",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3594,7 +3594,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mercedes",
       "UF": "Paraná",
       "AcaoRecomendada": "OK"
@@ -3605,7 +3605,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Rio Brilhante",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3616,7 +3616,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Douradina",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3638,7 +3638,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Douradina",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3660,7 +3660,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/09/2026 15:23",
-      "DiasSemComunicacao": "61",
+      "DiasSemComunicacao": "63",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -3671,7 +3671,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3693,7 +3693,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dourados",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3704,7 +3704,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dourados",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3715,7 +3715,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/07/2026 04:30",
-      "DiasSemComunicacao": "127",
+      "DiasSemComunicacao": "129",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3726,7 +3726,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 19:38",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Eldorado",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3737,7 +3737,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3748,7 +3748,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guaira",
       "UF": "Paraná",
       "AcaoRecomendada": "OK"
@@ -3759,7 +3759,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Eldorado",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3770,7 +3770,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guaira",
       "UF": "Paraná",
       "AcaoRecomendada": "OK"
@@ -3781,7 +3781,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Marechal Candido Rondon",
       "UF": "Paraná",
       "AcaoRecomendada": "OK"
@@ -3792,7 +3792,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/05/2026 16:10",
-      "DiasSemComunicacao": "192",
+      "DiasSemComunicacao": "194",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3803,7 +3803,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/08/2026 17:38",
-      "DiasSemComunicacao": "98",
+      "DiasSemComunicacao": "100",
       "Cidade": "Eldorado",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "SUSPENDER"
@@ -3814,7 +3814,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 22:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3825,7 +3825,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mercedes",
       "UF": "Paraná",
       "AcaoRecomendada": "OK"
@@ -3836,7 +3836,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 02:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dourados",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3869,7 +3869,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 17:26",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "166",
       "Cidade": "Caravelas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3880,7 +3880,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -3891,7 +3891,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paraibuna",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -3902,7 +3902,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paulicéia",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -3913,7 +3913,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Luiz do Paraitinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -3924,7 +3924,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/07/2026 14:27",
-      "DiasSemComunicacao": "319",
+      "DiasSemComunicacao": "321",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3935,7 +3935,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Resende",
       "UF": "Rio de Janeiro",
       "AcaoRecomendada": "OK"
@@ -3946,7 +3946,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 19:45",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -3957,7 +3957,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guaratinguetá",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -3968,7 +3968,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/08/2026 10:28",
-      "DiasSemComunicacao": "88",
+      "DiasSemComunicacao": "89",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -3979,7 +3979,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2025 14:18",
-      "DiasSemComunicacao": "530",
+      "DiasSemComunicacao": "531",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -3990,7 +3990,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 11:18",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "8",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4012,7 +4012,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -4023,7 +4023,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/08/2026 08:40",
-      "DiasSemComunicacao": "96",
+      "DiasSemComunicacao": "98",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -4034,7 +4034,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/07/2026 17:23",
-      "DiasSemComunicacao": "319",
+      "DiasSemComunicacao": "321",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4045,7 +4045,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 21:28",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4067,7 +4067,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 11:12",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -4089,7 +4089,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -4100,7 +4100,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Bauru",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4111,7 +4111,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/04/2026 11:32",
-      "DiasSemComunicacao": "209",
+      "DiasSemComunicacao": "210",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4122,7 +4122,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/08/2026 04:53",
-      "DiasSemComunicacao": "102",
+      "DiasSemComunicacao": "104",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -4133,7 +4133,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 17:31",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "197",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4144,7 +4144,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/07/2026 09:51",
-      "DiasSemComunicacao": "320",
+      "DiasSemComunicacao": "322",
       "Cidade": "Rio Verde",
       "UF": "Goiás",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4155,7 +4155,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Arealva",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4166,7 +4166,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4177,7 +4177,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Colinas do Tocantins",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -4188,7 +4188,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4199,7 +4199,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 23:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Filadélfia",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -4210,7 +4210,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/12/2025 02:58",
-      "DiasSemComunicacao": "346",
+      "DiasSemComunicacao": "348",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4221,7 +4221,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 15:56",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Prata",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -4232,7 +4232,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/08/2026 01:59",
-      "DiasSemComunicacao": "107",
+      "DiasSemComunicacao": "109",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "SUSPENDER"
@@ -4243,7 +4243,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/02/2026 22:47",
-      "DiasSemComunicacao": "268",
+      "DiasSemComunicacao": "270",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4254,7 +4254,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4265,7 +4265,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 11:07",
-      "DiasSemComunicacao": "285",
+      "DiasSemComunicacao": "286",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4276,7 +4276,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Prado",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4287,7 +4287,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/11/2026 13:49",
-      "DiasSemComunicacao": "104",
+      "DiasSemComunicacao": "105",
       "Cidade": "Santa Rita do Araguaia",
       "UF": "Goiás",
       "AcaoRecomendada": "SUSPENDER"
@@ -4298,7 +4298,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Colinas do Tocantins",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -4309,7 +4309,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Prado",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4320,7 +4320,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 02:52",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4331,7 +4331,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Prado",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4342,7 +4342,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Poxoréu",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -4353,7 +4353,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -4364,7 +4364,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4375,7 +4375,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/08/2026 15:04",
-      "DiasSemComunicacao": "198",
+      "DiasSemComunicacao": "200",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4386,7 +4386,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/01/2026 04:39",
-      "DiasSemComunicacao": "304",
+      "DiasSemComunicacao": "306",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4397,7 +4397,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4408,7 +4408,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Prado",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4419,7 +4419,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 11:03",
-      "DiasSemComunicacao": "285",
+      "DiasSemComunicacao": "286",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4430,7 +4430,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4441,10 +4441,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/09/2026 07:13",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "61",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100076499744",
@@ -4452,7 +4452,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4463,7 +4463,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4474,7 +4474,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/06/2026 17:23",
-      "DiasSemComunicacao": "108",
+      "DiasSemComunicacao": "110",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "SUSPENDER"
@@ -4485,10 +4485,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/09/2026 15:40",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "61",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100076499918",
@@ -4496,7 +4496,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/06/2026 16:10",
-      "DiasSemComunicacao": "149",
+      "DiasSemComunicacao": "151",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4507,7 +4507,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Colinas do Tocantins",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -4518,7 +4518,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/09/2025 11:24",
-      "DiasSemComunicacao": "431",
+      "DiasSemComunicacao": "432",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4529,7 +4529,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/08/2026 18:43",
-      "DiasSemComunicacao": "83",
+      "DiasSemComunicacao": "85",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -4540,7 +4540,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4551,7 +4551,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4573,7 +4573,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4595,7 +4595,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 02:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4606,7 +4606,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/07/2026 10:59",
-      "DiasSemComunicacao": "129",
+      "DiasSemComunicacao": "130",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4617,7 +4617,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -4628,7 +4628,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/01/2026 09:32",
-      "DiasSemComunicacao": "305",
+      "DiasSemComunicacao": "307",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4639,7 +4639,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -4650,7 +4650,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 22:04",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4672,7 +4672,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/05/2026 23:11",
-      "DiasSemComunicacao": "179",
+      "DiasSemComunicacao": "181",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4683,7 +4683,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/10/2026 08:44",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -4694,7 +4694,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -4705,7 +4705,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 11:06",
-      "DiasSemComunicacao": "285",
+      "DiasSemComunicacao": "286",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4738,7 +4738,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2025 19:57",
-      "DiasSemComunicacao": "346",
+      "DiasSemComunicacao": "348",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4760,7 +4760,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 01:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4771,7 +4771,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4793,7 +4793,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/10/2026 14:40",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "25",
       "Cidade": "Balneário Camboriú",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -4804,7 +4804,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -4826,7 +4826,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/10/2026 19:49",
-      "DiasSemComunicacao": "135",
+      "DiasSemComunicacao": "137",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4837,7 +4837,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/02/2026 17:17",
-      "DiasSemComunicacao": "293",
+      "DiasSemComunicacao": "295",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4848,7 +4848,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/01/2026 10:53",
-      "DiasSemComunicacao": "300",
+      "DiasSemComunicacao": "301",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4859,7 +4859,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/01/2026 08:14",
-      "DiasSemComunicacao": "299",
+      "DiasSemComunicacao": "301",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4870,7 +4870,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/10/2026 22:43",
-      "DiasSemComunicacao": "24",
+      "DiasSemComunicacao": "26",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -4881,7 +4881,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -4892,7 +4892,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/01/2026 12:12",
-      "DiasSemComunicacao": "304",
+      "DiasSemComunicacao": "305",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4903,7 +4903,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/01/2026 11:28",
-      "DiasSemComunicacao": "304",
+      "DiasSemComunicacao": "305",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4914,7 +4914,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 09:33",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "29",
       "Cidade": "Prata",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -4925,7 +4925,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 09:53",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4936,7 +4936,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 12:29",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Monte Alegre de Minas",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -4947,7 +4947,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4958,7 +4958,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -4969,7 +4969,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 10:55",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -4980,7 +4980,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -4991,7 +4991,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 23:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5002,7 +5002,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:12",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5013,7 +5013,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5024,7 +5024,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/05/2026 14:46",
-      "DiasSemComunicacao": "192",
+      "DiasSemComunicacao": "194",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5035,7 +5035,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/11/2025 16:16",
-      "DiasSemComunicacao": "499",
+      "DiasSemComunicacao": "501",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5046,7 +5046,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 11:19",
-      "DiasSemComunicacao": "61",
+      "DiasSemComunicacao": "62",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5057,7 +5057,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5068,7 +5068,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 10:15",
-      "DiasSemComunicacao": "61",
+      "DiasSemComunicacao": "63",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5079,7 +5079,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 23:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5090,7 +5090,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5101,7 +5101,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 23:10",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Limeira",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5112,7 +5112,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 08:34",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Itirapina",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5123,7 +5123,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pindamonhangaba",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5134,7 +5134,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/02/2026 13:46",
-      "DiasSemComunicacao": "277",
+      "DiasSemComunicacao": "278",
       "Cidade": "Suzano",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5145,7 +5145,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5156,7 +5156,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 03:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5167,7 +5167,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 13:51",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "34",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -5178,7 +5178,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/09/2026 17:14",
-      "DiasSemComunicacao": "64",
+      "DiasSemComunicacao": "66",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5189,7 +5189,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 16:28",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "62",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5200,7 +5200,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/10/2025 15:42",
-      "DiasSemComunicacao": "469",
+      "DiasSemComunicacao": "471",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5211,7 +5211,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/10/2025 01:06",
-      "DiasSemComunicacao": "396",
+      "DiasSemComunicacao": "398",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5222,7 +5222,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -5233,7 +5233,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 04:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5244,7 +5244,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 16:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5255,7 +5255,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5266,7 +5266,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 16:20",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "62",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5277,7 +5277,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 10:52",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5288,7 +5288,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 10:11",
-      "DiasSemComunicacao": "61",
+      "DiasSemComunicacao": "63",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5299,7 +5299,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/09/2026 16:36",
-      "DiasSemComunicacao": "61",
+      "DiasSemComunicacao": "63",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5310,7 +5310,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 15:14",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "62",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5321,7 +5321,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/10/2026 14:28",
-      "DiasSemComunicacao": "24",
+      "DiasSemComunicacao": "26",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5332,7 +5332,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 11:05",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "28",
       "Cidade": "Lorena",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5343,7 +5343,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/02/2026 16:11",
-      "DiasSemComunicacao": "112",
+      "DiasSemComunicacao": "114",
       "Cidade": "Itapeva",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -5354,7 +5354,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/07/2026 11:55",
-      "DiasSemComunicacao": "47",
+      "DiasSemComunicacao": "48",
       "Cidade": "Itirapina",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -5365,7 +5365,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 11:25",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5376,7 +5376,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -5387,7 +5387,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 02:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Limeira",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5398,7 +5398,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/01/2026 13:00",
-      "DiasSemComunicacao": "297",
+      "DiasSemComunicacao": "298",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5409,7 +5409,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/03/2026 20:17",
-      "DiasSemComunicacao": "248",
+      "DiasSemComunicacao": "250",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5420,7 +5420,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 11:32",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5431,7 +5431,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 10:44",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5442,7 +5442,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5453,7 +5453,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 15:53",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "62",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5464,7 +5464,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 10:39",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5475,7 +5475,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5486,7 +5486,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5497,7 +5497,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Balneário Piçarras",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5508,7 +5508,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5519,7 +5519,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5530,7 +5530,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5541,7 +5541,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5552,7 +5552,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5563,7 +5563,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5574,7 +5574,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5585,7 +5585,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/05/2026 03:43",
-      "DiasSemComunicacao": "177",
+      "DiasSemComunicacao": "179",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5596,7 +5596,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5607,7 +5607,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:12",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5618,7 +5618,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/08/2026 21:34",
-      "DiasSemComunicacao": "167",
+      "DiasSemComunicacao": "169",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5629,7 +5629,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5640,7 +5640,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/11/2026 12:23",
-      "DiasSemComunicacao": "257",
+      "DiasSemComunicacao": "258",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5651,7 +5651,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/07/2026 08:52",
-      "DiasSemComunicacao": "125",
+      "DiasSemComunicacao": "127",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5662,7 +5662,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5673,7 +5673,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 10:42",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "74",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "VERIFICAR"
@@ -5684,7 +5684,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 15:02",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "13",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5695,7 +5695,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 14:35",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "44",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "MONITORAR"
@@ -5706,10 +5706,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/09/2026 15:29",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "61",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100069681613",
@@ -5717,7 +5717,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5728,7 +5728,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5739,7 +5739,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5750,7 +5750,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5761,7 +5761,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 01:56",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5772,7 +5772,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/10/2026 15:54",
-      "DiasSemComunicacao": "24",
+      "DiasSemComunicacao": "26",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5783,7 +5783,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5794,7 +5794,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São João Batista",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5805,7 +5805,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/09/2026 17:28",
-      "DiasSemComunicacao": "65",
+      "DiasSemComunicacao": "67",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -5816,7 +5816,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/10/2026 16:14",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "25",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5827,7 +5827,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5838,7 +5838,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 10:30",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "34",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -5849,7 +5849,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 12:03",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "13",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5860,7 +5860,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5871,7 +5871,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/08/2026 11:16",
-      "DiasSemComunicacao": "-15",
+      "DiasSemComunicacao": "-14",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -5882,7 +5882,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5893,7 +5893,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/04/2026 11:01",
-      "DiasSemComunicacao": "223",
+      "DiasSemComunicacao": "224",
       "Cidade": "Ilhota",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5904,7 +5904,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5915,7 +5915,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5926,7 +5926,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5937,7 +5937,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2025 19:17",
-      "DiasSemComunicacao": "391",
+      "DiasSemComunicacao": "393",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -5948,7 +5948,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5959,7 +5959,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5970,7 +5970,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5981,7 +5981,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -5992,7 +5992,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6003,7 +6003,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 07:37",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "35",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "MONITORAR"
@@ -6014,7 +6014,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6025,7 +6025,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tijucas",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6036,7 +6036,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6047,7 +6047,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6058,7 +6058,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6069,7 +6069,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6080,7 +6080,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 02:43",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Mirante do Paranapanema",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -6091,7 +6091,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6102,7 +6102,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 10:30",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Blumenau",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6113,7 +6113,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6124,7 +6124,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6135,7 +6135,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/05/2026 04:32",
-      "DiasSemComunicacao": "179",
+      "DiasSemComunicacao": "181",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6146,7 +6146,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6157,7 +6157,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/09/2025 11:03",
-      "DiasSemComunicacao": "379",
+      "DiasSemComunicacao": "380",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6168,7 +6168,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/09/2026 02:03",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "62",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "VERIFICAR"
@@ -6179,7 +6179,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -6190,7 +6190,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paraibuna",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -6201,7 +6201,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6212,7 +6212,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mirante do Paranapanema",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -6223,7 +6223,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6234,7 +6234,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6245,7 +6245,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6256,7 +6256,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 11:58",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "74",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "VERIFICAR"
@@ -6267,7 +6267,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/07/2026 16:53",
-      "DiasSemComunicacao": "130",
+      "DiasSemComunicacao": "132",
       "Cidade": "Euclides da Cunha Paulista",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6278,7 +6278,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/08/2026 12:37",
-      "DiasSemComunicacao": "87",
+      "DiasSemComunicacao": "88",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -6289,7 +6289,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6300,7 +6300,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6311,7 +6311,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6322,7 +6322,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6333,7 +6333,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 03:09",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6344,7 +6344,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6355,7 +6355,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Balneário Piçarras",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6366,7 +6366,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -6377,7 +6377,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6388,7 +6388,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6399,7 +6399,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gaspar",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6410,7 +6410,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6421,7 +6421,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6432,7 +6432,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ilhota",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6443,7 +6443,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6454,7 +6454,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6465,7 +6465,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6476,7 +6476,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/10/2026 11:56",
-      "DiasSemComunicacao": "34",
+      "DiasSemComunicacao": "35",
       "Cidade": "Brusque",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "MONITORAR"
@@ -6487,7 +6487,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6498,7 +6498,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6509,7 +6509,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/10/2025 00:50",
-      "DiasSemComunicacao": "396",
+      "DiasSemComunicacao": "398",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6520,7 +6520,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 10:48",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "91",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "SUSPENDER"
@@ -6531,7 +6531,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/09/2026 16:52",
-      "DiasSemComunicacao": "64",
+      "DiasSemComunicacao": "66",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -6542,7 +6542,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -6553,10 +6553,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/10/2026 06:53",
-      "DiasSemComunicacao": "30",
+      "DiasSemComunicacao": "32",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
-      "AcaoRecomendada": "OK"
+      "AcaoRecomendada": "MONITORAR"
     },
     {
       "ICCID": "89553202100068489182",
@@ -6564,7 +6564,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/08/2026 09:04",
-      "DiasSemComunicacao": "92",
+      "DiasSemComunicacao": "94",
       "Cidade": "Mirante do Paranapanema",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -6575,7 +6575,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/05/2026 00:02",
-      "DiasSemComunicacao": "179",
+      "DiasSemComunicacao": "181",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6586,7 +6586,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -6597,7 +6597,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/03/2026 06:56",
-      "DiasSemComunicacao": "249",
+      "DiasSemComunicacao": "251",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6608,7 +6608,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -6619,7 +6619,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -6630,7 +6630,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 01:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teodoro Sampaio",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -6641,7 +6641,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/11/2026 07:18",
-      "DiasSemComunicacao": "226",
+      "DiasSemComunicacao": "228",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6652,7 +6652,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/11/2025 21:12",
-      "DiasSemComunicacao": "499",
+      "DiasSemComunicacao": "501",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6663,7 +6663,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -6674,7 +6674,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Benedito",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6685,7 +6685,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6696,7 +6696,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 17:03",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6707,7 +6707,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6718,7 +6718,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 20:51",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -6729,7 +6729,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 08:15",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "14",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6740,7 +6740,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Benedito",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6751,7 +6751,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6762,7 +6762,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 15:03",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6773,7 +6773,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Touros",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "OK"
@@ -6784,7 +6784,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/08/2026 15:51",
-      "DiasSemComunicacao": "85",
+      "DiasSemComunicacao": "87",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -6795,7 +6795,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/02/2026 15:02",
-      "DiasSemComunicacao": "-10",
+      "DiasSemComunicacao": "-8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -6806,7 +6806,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 05:31",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -6817,7 +6817,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 07:51",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "OK"
@@ -6828,7 +6828,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/05/2026 14:20",
-      "DiasSemComunicacao": "178",
+      "DiasSemComunicacao": "179",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6839,7 +6839,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/10/2026 20:42",
-      "DiasSemComunicacao": "31",
+      "DiasSemComunicacao": "33",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -6850,7 +6850,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Sorriso",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -6861,7 +6861,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 08:11",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -6872,7 +6872,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 18:54",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "27",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -6883,7 +6883,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/05/2026 10:16",
-      "DiasSemComunicacao": "176",
+      "DiasSemComunicacao": "178",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -6894,7 +6894,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Barras",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -6905,7 +6905,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6916,7 +6916,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ilha Solteira",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -6927,7 +6927,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 10:04",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -6938,7 +6938,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 14:39",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -6949,7 +6949,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -6960,7 +6960,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 22:32",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -6971,7 +6971,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -6982,7 +6982,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 13:57",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "24",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -6993,7 +6993,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ibiapina",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -7004,7 +7004,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/09/2026 10:46",
-      "DiasSemComunicacao": "67",
+      "DiasSemComunicacao": "68",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -7015,7 +7015,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/08/2026 03:33",
-      "DiasSemComunicacao": "101",
+      "DiasSemComunicacao": "103",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -7026,7 +7026,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 08:45",
-      "DiasSemComunicacao": "-18",
+      "DiasSemComunicacao": "-16",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7037,7 +7037,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 18:04",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "13",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7048,7 +7048,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/10/2026 01:46",
-      "DiasSemComunicacao": "74",
+      "DiasSemComunicacao": "76",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -7059,7 +7059,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/10/2026 16:48",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "198",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7070,7 +7070,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7081,7 +7081,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/05/2026 08:51",
-      "DiasSemComunicacao": "191",
+      "DiasSemComunicacao": "193",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7092,7 +7092,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7103,7 +7103,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/08/2026 09:42",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "SUSPENDER"
@@ -7114,7 +7114,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 20:34",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7125,7 +7125,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 06:25",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "75",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -7136,7 +7136,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/10/2026 03:47",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -7147,7 +7147,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 20:26",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7158,7 +7158,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 21:51",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7169,7 +7169,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7180,7 +7180,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 18:30",
-      "DiasSemComunicacao": "260",
+      "DiasSemComunicacao": "262",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7191,7 +7191,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/08/2026 20:17",
-      "DiasSemComunicacao": "85",
+      "DiasSemComunicacao": "87",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -7202,7 +7202,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7213,7 +7213,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7224,7 +7224,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7235,7 +7235,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/10/2026 11:44",
-      "DiasSemComunicacao": "40",
+      "DiasSemComunicacao": "41",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -7246,7 +7246,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 09:30",
-      "DiasSemComunicacao": "182",
+      "DiasSemComunicacao": "184",
       "Cidade": "Catingueira",
       "UF": "Paraíba",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7257,7 +7257,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 03:49",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -7268,7 +7268,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -7279,7 +7279,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -7290,7 +7290,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -7301,7 +7301,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guaraciaba do Norte",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -7312,7 +7312,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 12:11",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -7323,7 +7323,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/06/2026 05:48",
-      "DiasSemComunicacao": "152",
+      "DiasSemComunicacao": "154",
       "Cidade": "Cerro Corá",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7334,7 +7334,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 15:17",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "São Pedro",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -7345,7 +7345,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7356,7 +7356,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/09/2026 10:28",
-      "DiasSemComunicacao": "259",
+      "DiasSemComunicacao": "260",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7367,7 +7367,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Sarapuí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -7378,7 +7378,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 18:43",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "13",
       "Cidade": "Mossoró",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "OK"
@@ -7389,7 +7389,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 00:41",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7400,7 +7400,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 03:50",
-      "DiasSemComunicacao": "261",
+      "DiasSemComunicacao": "263",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7411,7 +7411,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -7422,7 +7422,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/07/2026 17:48",
-      "DiasSemComunicacao": "138",
+      "DiasSemComunicacao": "140",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7433,7 +7433,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/08/2026 13:20",
-      "DiasSemComunicacao": "229",
+      "DiasSemComunicacao": "230",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7444,7 +7444,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7455,7 +7455,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itapetininga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -7466,7 +7466,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/04/2026 20:00",
-      "DiasSemComunicacao": "220",
+      "DiasSemComunicacao": "222",
       "Cidade": "Americana",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -7477,7 +7477,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Bofete",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -7488,7 +7488,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -7499,7 +7499,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7510,7 +7510,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7521,7 +7521,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -7532,7 +7532,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7543,7 +7543,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jaguaré",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7554,7 +7554,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 16:15",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -7565,7 +7565,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7576,7 +7576,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/08/2026 10:09",
-      "DiasSemComunicacao": "98",
+      "DiasSemComunicacao": "100",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "SUSPENDER"
@@ -7587,7 +7587,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7598,7 +7598,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/09/2026 17:45",
-      "DiasSemComunicacao": "64",
+      "DiasSemComunicacao": "66",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "VERIFICAR"
@@ -7609,7 +7609,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7620,7 +7620,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7631,7 +7631,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/09/2026 11:41",
-      "DiasSemComunicacao": "63",
+      "DiasSemComunicacao": "64",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -7642,7 +7642,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pinheiros",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7653,7 +7653,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7664,7 +7664,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jaguaré",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7675,7 +7675,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Serra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7686,7 +7686,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -7697,7 +7697,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 04:54",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -7708,7 +7708,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7719,7 +7719,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7730,7 +7730,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 08:17",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7741,7 +7741,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 01:21",
-      "DiasSemComunicacao": "-18",
+      "DiasSemComunicacao": "-16",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7752,7 +7752,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -7763,7 +7763,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -7774,7 +7774,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7785,7 +7785,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7796,7 +7796,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/08/2026 04:48",
-      "DiasSemComunicacao": "101",
+      "DiasSemComunicacao": "103",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "SUSPENDER"
@@ -7807,7 +7807,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7818,7 +7818,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 17:16",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Serra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7829,7 +7829,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7840,7 +7840,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7851,7 +7851,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 00:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7862,7 +7862,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 02:06",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7873,7 +7873,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7884,7 +7884,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7895,7 +7895,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7906,7 +7906,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7917,7 +7917,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7928,7 +7928,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7939,7 +7939,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7950,7 +7950,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7961,7 +7961,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 00:59",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7972,7 +7972,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 15:04",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "62",
       "Cidade": "Serra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "VERIFICAR"
@@ -7983,7 +7983,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -7994,7 +7994,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 05:13",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "29",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8005,7 +8005,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jaguaré",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8016,7 +8016,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8027,7 +8027,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8038,7 +8038,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/09/2026 09:39",
-      "DiasSemComunicacao": "68",
+      "DiasSemComunicacao": "70",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "VERIFICAR"
@@ -8049,7 +8049,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8060,7 +8060,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 14:31",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8071,7 +8071,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8082,7 +8082,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8093,7 +8093,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8104,7 +8104,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8115,7 +8115,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/07/2026 17:08",
-      "DiasSemComunicacao": "319",
+      "DiasSemComunicacao": "321",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8126,7 +8126,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8137,7 +8137,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 23:16",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8148,7 +8148,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -8159,7 +8159,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Montanha",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8170,7 +8170,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 17:45",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8181,7 +8181,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8192,7 +8192,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/11/2026 03:37",
-      "DiasSemComunicacao": "257",
+      "DiasSemComunicacao": "259",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8203,7 +8203,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 15:37",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "62",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -8214,7 +8214,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/01/2026 22:47",
-      "DiasSemComunicacao": "299",
+      "DiasSemComunicacao": "301",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8225,7 +8225,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8236,7 +8236,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -8247,7 +8247,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 03:51",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8258,10 +8258,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/09/2026 11:38",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "60",
       "Cidade": "Linhares",
       "UF": "Espírito Santo",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100069473425",
@@ -8269,7 +8269,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/07/2026 11:47",
-      "DiasSemComunicacao": "77",
+      "DiasSemComunicacao": "78",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "VERIFICAR"
@@ -8280,7 +8280,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 20:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8291,7 +8291,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8302,7 +8302,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8313,7 +8313,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 07:30",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8324,7 +8324,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8335,7 +8335,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/09/2026 07:25",
-      "DiasSemComunicacao": "45",
+      "DiasSemComunicacao": "47",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "MONITORAR"
@@ -8346,7 +8346,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 14:57",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8357,7 +8357,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8368,7 +8368,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8379,7 +8379,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/06/2026 06:08",
-      "DiasSemComunicacao": "262",
+      "DiasSemComunicacao": "264",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8390,7 +8390,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ilha Solteira",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8401,7 +8401,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 18:01",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8412,7 +8412,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/09/2026 10:50",
-      "DiasSemComunicacao": "-16",
+      "DiasSemComunicacao": "-15",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8423,7 +8423,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/03/2026 22:23",
-      "DiasSemComunicacao": "246",
+      "DiasSemComunicacao": "248",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8434,7 +8434,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 21:00",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8445,7 +8445,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 02:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8456,7 +8456,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 02:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8467,7 +8467,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/06/2026 21:16",
-      "DiasSemComunicacao": "150",
+      "DiasSemComunicacao": "152",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8478,7 +8478,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 09:42",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8489,7 +8489,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ilha Solteira",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8500,10 +8500,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/10/2026 19:38",
-      "DiasSemComunicacao": "30",
+      "DiasSemComunicacao": "32",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
-      "AcaoRecomendada": "OK"
+      "AcaoRecomendada": "MONITORAR"
     },
     {
       "ICCID": "89553202100070325879",
@@ -8511,7 +8511,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ilha Solteira",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8522,7 +8522,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8533,7 +8533,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/09/2026 20:15",
-      "DiasSemComunicacao": "44",
+      "DiasSemComunicacao": "46",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -8544,7 +8544,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 18:00",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8555,7 +8555,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 18:30",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "Ilha Solteira",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8566,10 +8566,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/10/2026 03:07",
-      "DiasSemComunicacao": "30",
+      "DiasSemComunicacao": "32",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
-      "AcaoRecomendada": "OK"
+      "AcaoRecomendada": "MONITORAR"
     },
     {
       "ICCID": "89553202100070325952",
@@ -8577,7 +8577,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 15:03",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8588,7 +8588,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/09/2026 12:25",
-      "DiasSemComunicacao": "67",
+      "DiasSemComunicacao": "68",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -8599,7 +8599,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:23",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8610,7 +8610,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -8621,7 +8621,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -8632,7 +8632,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8643,7 +8643,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/03/2026 17:05",
-      "DiasSemComunicacao": "249",
+      "DiasSemComunicacao": "251",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8654,7 +8654,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/09/2026 18:32",
-      "DiasSemComunicacao": "286",
+      "DiasSemComunicacao": "288",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8665,7 +8665,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/01/2026 17:26",
-      "DiasSemComunicacao": "113",
+      "DiasSemComunicacao": "115",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "SUSPENDER"
@@ -8676,7 +8676,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8687,7 +8687,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Marechal Candido Rondon",
       "UF": "Paraná",
       "AcaoRecomendada": "OK"
@@ -8698,7 +8698,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 15:11",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Pindamonhangaba",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8709,7 +8709,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Piedade",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8720,7 +8720,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 01:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Águas de Santa Bárbara",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8731,7 +8731,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -8742,7 +8742,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 03:32",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8753,7 +8753,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/01/2026 11:24",
-      "DiasSemComunicacao": "314",
+      "DiasSemComunicacao": "315",
       "Cidade": "Dracena",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8764,7 +8764,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/09/2026 15:50",
-      "DiasSemComunicacao": "66",
+      "DiasSemComunicacao": "68",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -8775,7 +8775,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 05:23",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "35",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -8786,7 +8786,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 16:54",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Lençóis Paulista",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8797,7 +8797,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 10:00",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "14",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -8808,7 +8808,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -8819,7 +8819,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/03/2026 13:45",
-      "DiasSemComunicacao": "293",
+      "DiasSemComunicacao": "294",
       "Cidade": "Bofete",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8830,7 +8830,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -8841,7 +8841,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:00",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8852,7 +8852,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/09/2026 12:58",
-      "DiasSemComunicacao": "259",
+      "DiasSemComunicacao": "260",
       "Cidade": "Itutinga",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8863,7 +8863,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paraibuna",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -8874,7 +8874,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/09/2026 11:15",
-      "DiasSemComunicacao": "58",
+      "DiasSemComunicacao": "59",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -8885,10 +8885,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/09/2026 15:33",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "61",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100057180065",
@@ -8896,7 +8896,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/03/2026 09:25",
-      "DiasSemComunicacao": "255",
+      "DiasSemComunicacao": "257",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8907,7 +8907,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/05/2026 16:51",
-      "DiasSemComunicacao": "201",
+      "DiasSemComunicacao": "203",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8918,7 +8918,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/06/2026 02:00",
-      "DiasSemComunicacao": "262",
+      "DiasSemComunicacao": "264",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8929,7 +8929,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/05/2026 16:24",
-      "DiasSemComunicacao": "201",
+      "DiasSemComunicacao": "203",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8940,7 +8940,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 07:23",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Salvador",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -8951,7 +8951,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/09/2026 23:02",
-      "DiasSemComunicacao": "62",
+      "DiasSemComunicacao": "64",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -8962,7 +8962,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/01/2026 08:04",
-      "DiasSemComunicacao": "145",
+      "DiasSemComunicacao": "147",
       "Cidade": "",
       "UF": "Goiás",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8973,7 +8973,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/10/2026 02:40",
-      "DiasSemComunicacao": "105",
+      "DiasSemComunicacao": "107",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "SUSPENDER"
@@ -8984,7 +8984,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/09/2026 23:11",
-      "DiasSemComunicacao": "258",
+      "DiasSemComunicacao": "260",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -8995,7 +8995,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/09/2026 13:12",
-      "DiasSemComunicacao": "-16",
+      "DiasSemComunicacao": "-15",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9006,7 +9006,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/01/2026 14:38",
-      "DiasSemComunicacao": "297",
+      "DiasSemComunicacao": "299",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9017,7 +9017,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 14:19",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9028,7 +9028,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/05/2026 23:24",
-      "DiasSemComunicacao": "321",
+      "DiasSemComunicacao": "323",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9039,7 +9039,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -9050,7 +9050,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9061,7 +9061,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -9072,7 +9072,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/10/2026 15:55",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "29",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -9083,7 +9083,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 22:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9094,7 +9094,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/08/2026 10:16",
-      "DiasSemComunicacao": "95",
+      "DiasSemComunicacao": "97",
       "Cidade": "Bom Jesus das Selvas",
       "UF": "Maranhão",
       "AcaoRecomendada": "SUSPENDER"
@@ -9105,7 +9105,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -9116,7 +9116,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -9127,7 +9127,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 06:43",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Salvador",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -9138,7 +9138,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/09/2026 11:19",
-      "DiasSemComunicacao": "67",
+      "DiasSemComunicacao": "68",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -9149,7 +9149,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 17:05",
-      "DiasSemComunicacao": "260",
+      "DiasSemComunicacao": "262",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9160,7 +9160,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/10/2026 06:09",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -9171,7 +9171,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ibiapina",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9182,7 +9182,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Uberlândia",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -9193,7 +9193,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Goiatins",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -9204,7 +9204,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9215,7 +9215,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9226,7 +9226,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 08:55",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "45",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -9237,7 +9237,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Canaã dos Carajás",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -9248,7 +9248,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Luiz do Paraitinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -9259,7 +9259,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paraibuna",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -9270,7 +9270,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Resende",
       "UF": "Rio de Janeiro",
       "AcaoRecomendada": "OK"
@@ -9281,7 +9281,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 06:11",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -9292,7 +9292,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 11:36",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -9303,7 +9303,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 09:42",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Poxoréu",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9314,7 +9314,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/01/2026 21:00",
-      "DiasSemComunicacao": "82",
+      "DiasSemComunicacao": "84",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "VERIFICAR"
@@ -9325,7 +9325,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 21:53",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -9336,7 +9336,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranapanema",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -9347,7 +9347,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 15:46",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "62",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -9358,7 +9358,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/10/2026 11:58",
-      "DiasSemComunicacao": "136",
+      "DiasSemComunicacao": "137",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9369,7 +9369,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 15:54",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "13",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -9380,7 +9380,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/10/2026 08:18",
-      "DiasSemComunicacao": "36",
+      "DiasSemComunicacao": "38",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "MONITORAR"
@@ -9391,7 +9391,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 22:14",
-      "DiasSemComunicacao": "54",
+      "DiasSemComunicacao": "56",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "MONITORAR"
@@ -9402,7 +9402,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gurupi",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -9413,7 +9413,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/10/2026 07:02",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "34",
       "Cidade": "Comodoro",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "MONITORAR"
@@ -9424,7 +9424,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/11/2026 15:48",
-      "DiasSemComunicacao": "225",
+      "DiasSemComunicacao": "227",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9435,7 +9435,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 21:19",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9446,7 +9446,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/09/2026 18:41",
-      "DiasSemComunicacao": "44",
+      "DiasSemComunicacao": "46",
       "Cidade": "Natal",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "MONITORAR"
@@ -9457,7 +9457,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9468,7 +9468,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9479,7 +9479,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/01/2026 15:19",
-      "DiasSemComunicacao": "113",
+      "DiasSemComunicacao": "115",
       "Cidade": "Barro Alto",
       "UF": "Goiás",
       "AcaoRecomendada": "SUSPENDER"
@@ -9490,7 +9490,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9501,7 +9501,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9512,7 +9512,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 22:45",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "27",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9523,7 +9523,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 10:14",
-      "DiasSemComunicacao": "-18",
+      "DiasSemComunicacao": "-16",
       "Cidade": "Chapada da Natividade",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -9534,7 +9534,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Benedito",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9545,7 +9545,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Gonçalo do Amarante",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9556,7 +9556,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/05/2026 02:18",
-      "DiasSemComunicacao": "171",
+      "DiasSemComunicacao": "173",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9567,7 +9567,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -9578,7 +9578,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -9589,7 +9589,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 05:37",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "12",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -9600,7 +9600,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ibiapina",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9611,7 +9611,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ibiapina",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9622,7 +9622,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Benedito",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9633,7 +9633,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -9644,7 +9644,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 19:27",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Sapezal",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9655,7 +9655,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:12",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ibiapina",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9666,7 +9666,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/07/2026 15:42",
-      "DiasSemComunicacao": "107",
+      "DiasSemComunicacao": "109",
       "Cidade": "Jaçanã",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "SUSPENDER"
@@ -9677,7 +9677,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9688,7 +9688,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/01/2026 12:59",
-      "DiasSemComunicacao": "114",
+      "DiasSemComunicacao": "115",
       "Cidade": "Barro Alto",
       "UF": "Goiás",
       "AcaoRecomendada": "SUSPENDER"
@@ -9699,7 +9699,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -9710,7 +9710,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 22:56",
-      "DiasSemComunicacao": "284",
+      "DiasSemComunicacao": "286",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9721,7 +9721,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 19:44",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9732,7 +9732,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 15:09",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Zabelê",
       "UF": "Paraíba",
       "AcaoRecomendada": "OK"
@@ -9743,7 +9743,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9754,7 +9754,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -9765,7 +9765,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/09/2026 10:22",
-      "DiasSemComunicacao": "56",
+      "DiasSemComunicacao": "58",
       "Cidade": "Ulianópolis",
       "UF": "Pará",
       "AcaoRecomendada": "MONITORAR"
@@ -9776,7 +9776,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/06/2026 18:08",
-      "DiasSemComunicacao": "151",
+      "DiasSemComunicacao": "153",
       "Cidade": "Mata Roma",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9787,7 +9787,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -9798,7 +9798,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/05/2026 15:53",
-      "DiasSemComunicacao": "201",
+      "DiasSemComunicacao": "203",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9809,7 +9809,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 10:14",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -9820,7 +9820,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 11:57",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -9831,7 +9831,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 16:00",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -9842,7 +9842,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/06/2026 19:07",
-      "DiasSemComunicacao": "153",
+      "DiasSemComunicacao": "155",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9853,7 +9853,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/05/2026 16:22",
-      "DiasSemComunicacao": "170",
+      "DiasSemComunicacao": "172",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9864,7 +9864,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/04/2026 08:12",
-      "DiasSemComunicacao": "212",
+      "DiasSemComunicacao": "214",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9875,7 +9875,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/11/2026 12:04",
-      "DiasSemComunicacao": "316",
+      "DiasSemComunicacao": "317",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9886,7 +9886,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/01/2026 08:04",
-      "DiasSemComunicacao": "300",
+      "DiasSemComunicacao": "302",
       "Cidade": "Barbalha",
       "UF": "Ceará",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -9897,7 +9897,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 19:46",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9908,7 +9908,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -9919,7 +9919,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 18:31",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -9930,7 +9930,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 10:20",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Natal",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "OK"
@@ -9941,7 +9941,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/01/2026 11:29",
-      "DiasSemComunicacao": "114",
+      "DiasSemComunicacao": "115",
       "Cidade": "Barro Alto",
       "UF": "Goiás",
       "AcaoRecomendada": "SUSPENDER"
@@ -9952,7 +9952,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jaboatão dos Guararapes",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -9963,7 +9963,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/02/2026 17:39",
-      "DiasSemComunicacao": "51",
+      "DiasSemComunicacao": "53",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "MONITORAR"
@@ -9974,7 +9974,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/01/2026 15:27",
-      "DiasSemComunicacao": "113",
+      "DiasSemComunicacao": "115",
       "Cidade": "Vila Propício",
       "UF": "Goiás",
       "AcaoRecomendada": "SUSPENDER"
@@ -9985,7 +9985,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -9996,7 +9996,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -10007,7 +10007,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Benedito",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -10018,7 +10018,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -10029,7 +10029,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -10040,7 +10040,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Lourenço da Mata",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -10051,7 +10051,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/01/2026 09:51",
-      "DiasSemComunicacao": "299",
+      "DiasSemComunicacao": "301",
       "Cidade": "Ibititá",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10062,7 +10062,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 14:57",
-      "DiasSemComunicacao": "72",
+      "DiasSemComunicacao": "74",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "VERIFICAR"
@@ -10073,7 +10073,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -10084,7 +10084,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -10095,7 +10095,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -10106,7 +10106,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 10:15",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -10117,7 +10117,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/10/2026 11:19",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "14",
       "Cidade": "Comodoro",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -10128,7 +10128,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 13:10",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "44",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -10139,7 +10139,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paulicéia",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -10150,7 +10150,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -10161,7 +10161,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/05/2026 18:23",
-      "DiasSemComunicacao": "170",
+      "DiasSemComunicacao": "172",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10172,7 +10172,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 09:50",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10183,7 +10183,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10194,7 +10194,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/10/2026 18:35",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "167",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10205,7 +10205,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 11:35",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "13",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10216,10 +10216,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/07/2026 17:09",
-      "DiasSemComunicacao": "118",
+      "DiasSemComunicacao": "120",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
-      "AcaoRecomendada": "SUSPENDER"
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
     },
     {
       "ICCID": "89553202100039475872",
@@ -10227,7 +10227,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Taguatinga",
       "UF": "Federal District",
       "AcaoRecomendada": "OK"
@@ -10238,7 +10238,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/07/2026 17:05",
-      "DiasSemComunicacao": "319",
+      "DiasSemComunicacao": "321",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10249,7 +10249,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/07/2026 17:51",
-      "DiasSemComunicacao": "319",
+      "DiasSemComunicacao": "321",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10260,7 +10260,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10271,7 +10271,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 12:08",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10282,7 +10282,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/03/2026 14:20",
-      "DiasSemComunicacao": "173",
+      "DiasSemComunicacao": "174",
       "Cidade": "Prata",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10293,7 +10293,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10304,7 +10304,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 18:57",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10315,7 +10315,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10326,7 +10326,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10337,7 +10337,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/04/2026 18:21",
-      "DiasSemComunicacao": "171",
+      "DiasSemComunicacao": "173",
       "Cidade": "Castilho",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10348,7 +10348,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 08:23",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "45",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -10359,7 +10359,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 16:44",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Pontes e Lacerda",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -10370,7 +10370,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 17:18",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "34",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -10381,7 +10381,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 12:34",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10392,7 +10392,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 10:40",
-      "DiasSemComunicacao": "261",
+      "DiasSemComunicacao": "262",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10403,7 +10403,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 17:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10414,7 +10414,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10425,7 +10425,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/02/2026 12:52",
-      "DiasSemComunicacao": "280",
+      "DiasSemComunicacao": "281",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10436,7 +10436,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 14:37",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10447,7 +10447,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 00:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10458,7 +10458,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 16:14",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "34",
       "Cidade": "Itiquira",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "MONITORAR"
@@ -10469,7 +10469,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10480,7 +10480,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/10/2026 13:42",
-      "DiasSemComunicacao": "227",
+      "DiasSemComunicacao": "228",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10491,7 +10491,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 17:52",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10502,7 +10502,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/10/2026 21:55",
-      "DiasSemComunicacao": "38",
+      "DiasSemComunicacao": "40",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -10513,7 +10513,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10524,7 +10524,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10535,7 +10535,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 04:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10546,7 +10546,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10557,7 +10557,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Uberlândia",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -10568,7 +10568,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10579,7 +10579,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 10:08",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10590,7 +10590,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10601,7 +10601,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10612,7 +10612,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 12:38",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "166",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10623,7 +10623,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 04:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10634,7 +10634,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Castilho",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -10645,7 +10645,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 05:51",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10656,7 +10656,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 11:40",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "28",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10667,7 +10667,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 13:21",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "8",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10678,7 +10678,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 19:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10689,7 +10689,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/10/2026 06:22",
-      "DiasSemComunicacao": "38",
+      "DiasSemComunicacao": "40",
       "Cidade": "Costa Rica",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -10700,7 +10700,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nanuque",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -10711,7 +10711,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 12:40",
-      "DiasSemComunicacao": "261",
+      "DiasSemComunicacao": "262",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10722,7 +10722,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10733,7 +10733,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/10/2026 13:57",
-      "DiasSemComunicacao": "166",
+      "DiasSemComunicacao": "167",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10744,7 +10744,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/11/2026 07:34",
-      "DiasSemComunicacao": "226",
+      "DiasSemComunicacao": "228",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10755,7 +10755,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10766,7 +10766,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10777,7 +10777,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10788,7 +10788,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 11:27",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "28",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10799,7 +10799,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 07:42",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10810,7 +10810,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 16:42",
-      "DiasSemComunicacao": "260",
+      "DiasSemComunicacao": "262",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10821,7 +10821,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 09:17",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10832,7 +10832,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Capela do Alto",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -10843,7 +10843,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10854,7 +10854,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 13:52",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "28",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10865,7 +10865,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 13:04",
-      "DiasSemComunicacao": "55",
+      "DiasSemComunicacao": "56",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -10876,7 +10876,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/10/2026 16:49",
-      "DiasSemComunicacao": "104",
+      "DiasSemComunicacao": "106",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "SUSPENDER"
@@ -10887,7 +10887,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 09:23",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "75",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -10898,7 +10898,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10909,7 +10909,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10920,7 +10920,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -10931,7 +10931,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Castilho",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -10942,7 +10942,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10953,7 +10953,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 19:41",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -10964,7 +10964,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/11/2026 20:24",
-      "DiasSemComunicacao": "256",
+      "DiasSemComunicacao": "258",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -10975,7 +10975,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -10986,7 +10986,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 11:52",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -10997,7 +10997,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 20:49",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -11008,7 +11008,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 20:20",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11019,7 +11019,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11030,7 +11030,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 20:28",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Paraíso das Águas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11041,7 +11041,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "OK"
@@ -11052,7 +11052,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -11063,7 +11063,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11074,7 +11074,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11085,7 +11085,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/06/2026 12:03",
-      "DiasSemComunicacao": "290",
+      "DiasSemComunicacao": "291",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11096,7 +11096,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11107,7 +11107,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Benedito",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11118,7 +11118,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Benedito",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11129,7 +11129,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jaboatão dos Guararapes",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -11140,7 +11140,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -11151,7 +11151,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/09/2026 09:03",
-      "DiasSemComunicacao": "70",
+      "DiasSemComunicacao": "72",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "VERIFICAR"
@@ -11162,7 +11162,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/05/2026 10:48",
-      "DiasSemComunicacao": "-12",
+      "DiasSemComunicacao": "-11",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "OK"
@@ -11173,7 +11173,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11184,7 +11184,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11195,7 +11195,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 03:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11206,7 +11206,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11217,7 +11217,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11228,7 +11228,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 12:15",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Esperantina",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -11239,7 +11239,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 19:30",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -11250,7 +11250,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -11261,7 +11261,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 18:26",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -11272,7 +11272,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/11/2026 15:43",
-      "DiasSemComunicacao": "134",
+      "DiasSemComunicacao": "136",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11283,7 +11283,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Rio de Janeiro",
       "UF": "Rio de Janeiro",
       "AcaoRecomendada": "OK"
@@ -11294,7 +11294,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mariana",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -11305,7 +11305,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -11316,7 +11316,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -11327,7 +11327,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/07/2026 16:17",
-      "DiasSemComunicacao": "107",
+      "DiasSemComunicacao": "109",
       "Cidade": "Cerro Corá",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "SUSPENDER"
@@ -11338,7 +11338,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 08:01",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -11349,7 +11349,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 02:52",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Natal",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "OK"
@@ -11360,7 +11360,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -11371,7 +11371,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/08/2026 02:22",
-      "DiasSemComunicacao": "199",
+      "DiasSemComunicacao": "201",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11382,7 +11382,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guaraciaba do Norte",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11393,7 +11393,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/11/2026 11:08",
-      "DiasSemComunicacao": "316",
+      "DiasSemComunicacao": "317",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11404,7 +11404,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -11415,7 +11415,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/06/2026 12:05",
-      "DiasSemComunicacao": "290",
+      "DiasSemComunicacao": "291",
       "Cidade": "Parnamirim",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11426,7 +11426,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -11437,7 +11437,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 20:28",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11448,7 +11448,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 16:34",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "166",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11459,7 +11459,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11470,7 +11470,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 16:05",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -11481,7 +11481,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11492,7 +11492,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 14:24",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11503,7 +11503,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 17:19",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11514,7 +11514,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guaraciaba do Norte",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11525,7 +11525,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:37",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -11536,7 +11536,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11547,7 +11547,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 16:35",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11558,7 +11558,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 11:29",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -11569,7 +11569,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/10/2026 14:22",
-      "DiasSemComunicacao": "40",
+      "DiasSemComunicacao": "42",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -11580,7 +11580,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -11591,7 +11591,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -11602,7 +11602,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/10/2026 20:58",
-      "DiasSemComunicacao": "31",
+      "DiasSemComunicacao": "33",
       "Cidade": "Sorocaba",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -11613,7 +11613,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 02:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11624,7 +11624,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11635,7 +11635,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jaboatão dos Guararapes",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -11646,7 +11646,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Moreno",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -11657,7 +11657,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11668,7 +11668,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 07:25",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11679,7 +11679,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -11690,7 +11690,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 17:45",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "197",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11701,7 +11701,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11712,7 +11712,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/04/2026 04:14",
-      "DiasSemComunicacao": "19",
+      "DiasSemComunicacao": "21",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11723,7 +11723,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11734,7 +11734,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/09/2026 12:53",
-      "DiasSemComunicacao": "68",
+      "DiasSemComunicacao": "69",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -11745,7 +11745,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/06/2026 16:53",
-      "DiasSemComunicacao": "200",
+      "DiasSemComunicacao": "202",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11756,7 +11756,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 13:08",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11767,7 +11767,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 20:44",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11778,7 +11778,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11789,7 +11789,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 16:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11800,7 +11800,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/11/2026 10:36",
-      "DiasSemComunicacao": "135",
+      "DiasSemComunicacao": "136",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11811,7 +11811,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 08:38",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11822,7 +11822,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 10:09",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11833,7 +11833,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/07/2026 01:26",
-      "DiasSemComunicacao": "230",
+      "DiasSemComunicacao": "232",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11844,7 +11844,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/09/2026 21:36",
-      "DiasSemComunicacao": "57",
+      "DiasSemComunicacao": "59",
       "Cidade": "Araçatuba",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -11855,7 +11855,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11866,7 +11866,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 09:49",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11877,7 +11877,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 14:51",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11888,7 +11888,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Lorena",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -11899,7 +11899,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 12:44",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "166",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11910,7 +11910,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 16:19",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11921,7 +11921,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11932,7 +11932,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 10:15",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11943,7 +11943,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 12:27",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11954,7 +11954,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11965,7 +11965,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/06/2026 18:17",
-      "DiasSemComunicacao": "200",
+      "DiasSemComunicacao": "202",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -11976,7 +11976,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 18:52",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11987,7 +11987,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -11998,7 +11998,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/06/2026 17:04",
-      "DiasSemComunicacao": "200",
+      "DiasSemComunicacao": "202",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12009,7 +12009,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 12:46",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12020,7 +12020,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12031,7 +12031,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/08/2026 08:48",
-      "DiasSemComunicacao": "98",
+      "DiasSemComunicacao": "100",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "SUSPENDER"
@@ -12042,7 +12042,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 09:05",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12053,7 +12053,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 09:42",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12064,10 +12064,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/09/2026 19:01",
-      "DiasSemComunicacao": "58",
+      "DiasSemComunicacao": "60",
       "Cidade": "Mirandópolis",
       "UF": "São Paulo",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100039147380",
@@ -12075,7 +12075,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/03/2026 12:14",
-      "DiasSemComunicacao": "293",
+      "DiasSemComunicacao": "294",
       "Cidade": "Angicos",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12086,7 +12086,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12097,7 +12097,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/10/2026 14:42",
-      "DiasSemComunicacao": "38",
+      "DiasSemComunicacao": "40",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -12108,7 +12108,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:10",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12119,7 +12119,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 19:04",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12130,7 +12130,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 17:55",
-      "DiasSemComunicacao": "-19",
+      "DiasSemComunicacao": "-17",
       "Cidade": "Itamaraju",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12141,7 +12141,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/10/2026 10:04",
-      "DiasSemComunicacao": "38",
+      "DiasSemComunicacao": "40",
       "Cidade": "Jaciara",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "MONITORAR"
@@ -12152,7 +12152,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 11:55",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "11",
       "Cidade": "Castilho",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -12163,7 +12163,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/10/2025 20:45",
-      "DiasSemComunicacao": "398",
+      "DiasSemComunicacao": "400",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12174,7 +12174,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/01/2026 04:26",
-      "DiasSemComunicacao": "308",
+      "DiasSemComunicacao": "310",
       "Cidade": "Itiquira",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12185,7 +12185,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12196,7 +12196,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/10/2026 09:54",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "34",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -12207,7 +12207,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 02:08",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "12",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12218,7 +12218,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -12229,7 +12229,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12240,7 +12240,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/09/2026 08:08",
-      "DiasSemComunicacao": "65",
+      "DiasSemComunicacao": "67",
       "Cidade": "Caravelas",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -12251,7 +12251,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Lucas do Rio Verde",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -12262,7 +12262,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 12:21",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12273,7 +12273,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 18:01",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12284,7 +12284,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/05/2026 14:10",
-      "DiasSemComunicacao": "232",
+      "DiasSemComunicacao": "233",
       "Cidade": "Prata",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12295,7 +12295,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 16:06",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12306,7 +12306,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 09:57",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12317,7 +12317,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 21:07",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -12328,7 +12328,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12339,7 +12339,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/07/2026 19:31",
-      "DiasSemComunicacao": "319",
+      "DiasSemComunicacao": "321",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12350,7 +12350,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 01:58",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "167",
       "Cidade": "Angatuba",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12361,7 +12361,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/03/2026 14:45",
-      "DiasSemComunicacao": "246",
+      "DiasSemComunicacao": "248",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12372,7 +12372,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 12:57",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "44",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -12383,7 +12383,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 15:00",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Eldorado",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12394,7 +12394,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 15:59",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12405,7 +12405,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Sarapuí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -12416,7 +12416,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 21:42",
-      "DiasSemComunicacao": "72",
+      "DiasSemComunicacao": "74",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -12427,7 +12427,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/10/2026 21:50",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "Sarapuí",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -12438,7 +12438,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/09/2026 10:32",
-      "DiasSemComunicacao": "62",
+      "DiasSemComunicacao": "63",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "VERIFICAR"
@@ -12449,7 +12449,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 09:37",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12460,7 +12460,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 15:59",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "197",
       "Cidade": "Itapetininga",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12471,7 +12471,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/07/2026 10:33",
-      "DiasSemComunicacao": "132",
+      "DiasSemComunicacao": "133",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12482,7 +12482,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/10/2026 13:50",
-      "DiasSemComunicacao": "28",
+      "DiasSemComunicacao": "29",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -12493,7 +12493,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:02",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12504,7 +12504,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -12515,7 +12515,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 18:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -12526,7 +12526,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12537,7 +12537,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 11:02",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "44",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "MONITORAR"
@@ -12548,7 +12548,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 20:16",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12559,7 +12559,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 22:49",
-      "DiasSemComunicacao": "-19",
+      "DiasSemComunicacao": "-17",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12570,7 +12570,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Resende",
       "UF": "Rio de Janeiro",
       "AcaoRecomendada": "OK"
@@ -12581,7 +12581,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12592,7 +12592,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -12603,7 +12603,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 01:04",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12614,7 +12614,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/08/2026 17:37",
-      "DiasSemComunicacao": "83",
+      "DiasSemComunicacao": "85",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -12625,7 +12625,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12636,7 +12636,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 17:19",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -12647,7 +12647,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12658,7 +12658,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 16:25",
-      "DiasSemComunicacao": "-19",
+      "DiasSemComunicacao": "-17",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12669,7 +12669,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12680,7 +12680,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12691,7 +12691,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/10/2026 01:05",
-      "DiasSemComunicacao": "39",
+      "DiasSemComunicacao": "41",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -12702,7 +12702,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 17:10",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12713,7 +12713,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12724,7 +12724,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 11:24",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12735,7 +12735,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12746,7 +12746,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 16:36",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "44",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -12757,7 +12757,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/07/2026 17:10",
-      "DiasSemComunicacao": "120",
+      "DiasSemComunicacao": "122",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12768,7 +12768,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/02/2026 20:16",
-      "DiasSemComunicacao": "20",
+      "DiasSemComunicacao": "22",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -12779,7 +12779,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12790,7 +12790,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/11/2026 11:21",
-      "DiasSemComunicacao": "226",
+      "DiasSemComunicacao": "227",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12801,7 +12801,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12812,7 +12812,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12823,7 +12823,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12834,7 +12834,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12845,7 +12845,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/10/2026 11:03",
-      "DiasSemComunicacao": "41",
+      "DiasSemComunicacao": "42",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -12856,7 +12856,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 09:20",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12867,7 +12867,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/09/2026 14:36",
-      "DiasSemComunicacao": "286",
+      "DiasSemComunicacao": "288",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12878,7 +12878,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12889,7 +12889,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:56",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12900,7 +12900,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12911,7 +12911,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/10/2026 13:39",
-      "DiasSemComunicacao": "36",
+      "DiasSemComunicacao": "37",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -12922,7 +12922,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/11/2026 19:17",
-      "DiasSemComunicacao": "225",
+      "DiasSemComunicacao": "227",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12933,7 +12933,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12944,7 +12944,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 15:43",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12955,7 +12955,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 17:26",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12966,7 +12966,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -12977,7 +12977,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 10:06",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "75",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -12988,7 +12988,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/10/2026 15:10",
-      "DiasSemComunicacao": "316",
+      "DiasSemComunicacao": "318",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -12999,7 +12999,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/03/2026 22:37",
-      "DiasSemComunicacao": "50",
+      "DiasSemComunicacao": "52",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -13010,7 +13010,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13021,7 +13021,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Luiz do Paraitinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13032,7 +13032,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 15:57",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13043,7 +13043,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13054,7 +13054,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 10:08",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -13065,7 +13065,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13076,7 +13076,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13087,7 +13087,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 19:20",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13098,7 +13098,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/11/2026 19:07",
-      "DiasSemComunicacao": "225",
+      "DiasSemComunicacao": "227",
       "Cidade": "Pilar do Sul",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13109,7 +13109,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 04:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13120,7 +13120,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 09:29",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13131,7 +13131,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -13142,7 +13142,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13153,7 +13153,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/07/2026 21:03",
-      "DiasSemComunicacao": "138",
+      "DiasSemComunicacao": "140",
       "Cidade": "Axixá do Tocantins",
       "UF": "Tocantins",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13164,7 +13164,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 16:41",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13175,7 +13175,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 11:24",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "166",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13186,7 +13186,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 08:35",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13197,7 +13197,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/10/2026 03:53",
-      "DiasSemComunicacao": "24",
+      "DiasSemComunicacao": "26",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13208,7 +13208,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 09:06",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "75",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -13219,7 +13219,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 15:25",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -13230,7 +13230,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13241,7 +13241,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 17:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13252,7 +13252,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 14:04",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "34",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -13263,7 +13263,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13274,7 +13274,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 16:03",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13285,7 +13285,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/11/2026 15:40",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "13",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13296,7 +13296,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 14:08",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13307,7 +13307,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/09/2025 10:05",
-      "DiasSemComunicacao": "421",
+      "DiasSemComunicacao": "423",
       "Cidade": "Santa Cruz Cabrália",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13318,7 +13318,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 14:57",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13329,7 +13329,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 18:47",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Pinheiros",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -13340,7 +13340,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13351,7 +13351,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 09:29",
-      "DiasSemComunicacao": "285",
+      "DiasSemComunicacao": "287",
       "Cidade": "Angatuba",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13362,7 +13362,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 06:28",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13373,7 +13373,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/10/2026 08:54",
-      "DiasSemComunicacao": "40",
+      "DiasSemComunicacao": "42",
       "Cidade": "Rio Verde",
       "UF": "Goiás",
       "AcaoRecomendada": "MONITORAR"
@@ -13384,7 +13384,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13395,7 +13395,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/10/2026 20:11",
-      "DiasSemComunicacao": "34",
+      "DiasSemComunicacao": "36",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -13406,7 +13406,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 11:44",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -13417,7 +13417,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/04/2026 08:47",
-      "DiasSemComunicacao": "233",
+      "DiasSemComunicacao": "235",
       "Cidade": "Pedra Preta",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13428,7 +13428,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 11:41",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "44",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -13439,7 +13439,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13450,7 +13450,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13461,7 +13461,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 22:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Primavera do Leste",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -13472,7 +13472,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 12:59",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13483,7 +13483,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13494,7 +13494,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13505,7 +13505,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 09:22",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13516,7 +13516,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13527,7 +13527,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13538,7 +13538,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13549,7 +13549,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 15:03",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13560,7 +13560,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13571,7 +13571,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13582,7 +13582,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 13:47",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13593,7 +13593,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13604,7 +13604,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:00",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13615,7 +13615,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13626,7 +13626,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13637,7 +13637,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13648,7 +13648,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 09:49",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "198",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13659,7 +13659,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13670,7 +13670,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/07/2026 20:52",
-      "DiasSemComunicacao": "319",
+      "DiasSemComunicacao": "321",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13681,7 +13681,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13692,7 +13692,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/03/2026 14:15",
-      "DiasSemComunicacao": "-10",
+      "DiasSemComunicacao": "-9",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13703,7 +13703,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 14:11",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13714,7 +13714,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/02/2026 10:49",
-      "DiasSemComunicacao": "278",
+      "DiasSemComunicacao": "279",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13725,7 +13725,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/05/2026 05:16",
-      "DiasSemComunicacao": "178",
+      "DiasSemComunicacao": "180",
       "Cidade": "Natal",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13736,7 +13736,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/08/2026 23:46",
-      "DiasSemComunicacao": "101",
+      "DiasSemComunicacao": "103",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -13747,7 +13747,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/08/2026 22:47",
-      "DiasSemComunicacao": "90",
+      "DiasSemComunicacao": "92",
       "Cidade": "Prado",
       "UF": "Bahia",
       "AcaoRecomendada": "SUSPENDER"
@@ -13758,7 +13758,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/02/2026 08:24",
-      "DiasSemComunicacao": "52",
+      "DiasSemComunicacao": "54",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -13769,7 +13769,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Fernão",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13780,7 +13780,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/03/2026 11:34",
-      "DiasSemComunicacao": "242",
+      "DiasSemComunicacao": "243",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -13791,7 +13791,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranapanema",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13802,7 +13802,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13813,7 +13813,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranapanema",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13824,7 +13824,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -13835,7 +13835,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13846,7 +13846,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/10/2026 11:31",
-      "DiasSemComunicacao": "38",
+      "DiasSemComunicacao": "39",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -13857,7 +13857,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 18:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13868,7 +13868,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Gália",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13879,7 +13879,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13890,7 +13890,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Piratininga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13901,7 +13901,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranapanema",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13912,7 +13912,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -13923,7 +13923,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 15:51",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13934,7 +13934,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 10:22",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13945,7 +13945,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Duartina",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13956,7 +13956,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13967,7 +13967,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itapetininga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -13978,7 +13978,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 15:17",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -13989,7 +13989,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14000,7 +14000,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14011,7 +14011,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/06/2026 11:09",
-      "DiasSemComunicacao": "290",
+      "DiasSemComunicacao": "291",
       "Cidade": "Macaíba",
       "UF": "Rio Grande do Norte",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14022,7 +14022,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/10/2026 03:31",
-      "DiasSemComunicacao": "24",
+      "DiasSemComunicacao": "26",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14033,7 +14033,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14044,7 +14044,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14055,7 +14055,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Carnaubal",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -14066,7 +14066,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 14:12",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14077,7 +14077,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -14088,7 +14088,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14099,7 +14099,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 07:46",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Prado",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14110,7 +14110,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Tianguá",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -14121,7 +14121,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 12:01",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14132,7 +14132,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14143,7 +14143,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:12",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Belém do Brejo do Cruz",
       "UF": "Paraíba",
       "AcaoRecomendada": "OK"
@@ -14154,7 +14154,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 14:14",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14165,7 +14165,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14176,7 +14176,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guaraciaba do Norte",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -14187,7 +14187,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14198,7 +14198,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -14209,7 +14209,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Benedito",
       "UF": "Ceará",
       "AcaoRecomendada": "OK"
@@ -14220,7 +14220,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -14231,7 +14231,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 15:22",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14242,7 +14242,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/10/2026 11:59",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "14",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14253,7 +14253,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14264,7 +14264,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14275,7 +14275,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 07:50",
-      "DiasSemComunicacao": "285",
+      "DiasSemComunicacao": "287",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14286,7 +14286,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14297,7 +14297,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nossa Senhora do Socorro",
       "UF": "Sergipe",
       "AcaoRecomendada": "OK"
@@ -14308,7 +14308,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Cabo de Santo Agostinho",
       "UF": "Pernambuco",
       "AcaoRecomendada": "OK"
@@ -14319,7 +14319,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14330,7 +14330,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/09/2026 18:28",
-      "DiasSemComunicacao": "44",
+      "DiasSemComunicacao": "46",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -14341,7 +14341,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14352,7 +14352,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 07:30",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -14363,7 +14363,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14374,7 +14374,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 15:24",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14385,7 +14385,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14396,7 +14396,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -14407,7 +14407,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14418,7 +14418,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14429,7 +14429,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14440,7 +14440,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14451,7 +14451,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -14462,7 +14462,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/01/2026 15:16",
-      "DiasSemComunicacao": "205",
+      "DiasSemComunicacao": "207",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14473,7 +14473,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 15:49",
-      "DiasSemComunicacao": "260",
+      "DiasSemComunicacao": "262",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14484,7 +14484,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -14495,7 +14495,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:10",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14506,7 +14506,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 12:36",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Paragominas",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -14517,7 +14517,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Angatuba",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14528,7 +14528,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 15:40",
-      "DiasSemComunicacao": "42",
+      "DiasSemComunicacao": "44",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -14539,7 +14539,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14550,7 +14550,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ibiúna",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14561,7 +14561,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14572,7 +14572,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/09/2026 08:53",
-      "DiasSemComunicacao": "70",
+      "DiasSemComunicacao": "72",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -14583,7 +14583,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/08/2026 05:37",
-      "DiasSemComunicacao": "94",
+      "DiasSemComunicacao": "96",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -14594,7 +14594,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/08/2026 17:32",
-      "DiasSemComunicacao": "100",
+      "DiasSemComunicacao": "102",
       "Cidade": "Bofete",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -14605,7 +14605,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/09/2026 18:57",
-      "DiasSemComunicacao": "105",
+      "DiasSemComunicacao": "107",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "SUSPENDER"
@@ -14616,7 +14616,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/10/2026 18:52",
-      "DiasSemComunicacao": "34",
+      "DiasSemComunicacao": "36",
       "Cidade": "Água Clara",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -14627,7 +14627,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -14638,7 +14638,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -14649,7 +14649,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 17:10",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Bom Jesus das Selvas",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -14660,10 +14660,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/09/2026 16:44",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "61",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89553202100035802178",
@@ -14671,7 +14671,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 22:49",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14682,7 +14682,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Capão Bonito",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14693,7 +14693,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 16:00",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14704,7 +14704,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 12:43",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Mundo Novo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -14715,7 +14715,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/02/2026 16:43",
-      "DiasSemComunicacao": "-10",
+      "DiasSemComunicacao": "-8",
       "Cidade": "São José dos Campos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14726,7 +14726,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14737,7 +14737,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/03/2026 17:05",
-      "DiasSemComunicacao": "244",
+      "DiasSemComunicacao": "246",
       "Cidade": "Bom Jesus das Selvas",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14748,7 +14748,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 17:05",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14759,7 +14759,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Duartina",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14770,7 +14770,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14781,7 +14781,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/08/2026 11:01",
-      "DiasSemComunicacao": "87",
+      "DiasSemComunicacao": "88",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -14792,7 +14792,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Resende",
       "UF": "Rio de Janeiro",
       "AcaoRecomendada": "OK"
@@ -14803,7 +14803,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 14:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dourados",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -14814,7 +14814,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 10:56",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -14825,7 +14825,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/10/2026 14:34",
-      "DiasSemComunicacao": "104",
+      "DiasSemComunicacao": "106",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -14836,7 +14836,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranapanema",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14847,7 +14847,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 14:48",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14858,7 +14858,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14869,7 +14869,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 17:26",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14880,7 +14880,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14891,7 +14891,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Carlos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14902,7 +14902,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itapetininga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14913,7 +14913,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/09/2026 16:04",
-      "DiasSemComunicacao": "286",
+      "DiasSemComunicacao": "288",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14924,7 +14924,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14935,7 +14935,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 14:09",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -14946,7 +14946,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 13:01",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Pardinho",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14957,7 +14957,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/09/2026 17:31",
-      "DiasSemComunicacao": "286",
+      "DiasSemComunicacao": "288",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -14968,7 +14968,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -14979,7 +14979,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itapetininga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -14990,7 +14990,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -15001,7 +15001,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Resende",
       "UF": "Rio de Janeiro",
       "AcaoRecomendada": "OK"
@@ -15012,7 +15012,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itapetininga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15023,7 +15023,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15034,7 +15034,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15045,7 +15045,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -15056,7 +15056,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15067,7 +15067,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15078,7 +15078,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 15:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Pedro da Água Branca",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15089,7 +15089,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/05/2026 20:33",
-      "DiasSemComunicacao": "180",
+      "DiasSemComunicacao": "182",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15100,7 +15100,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 17:03",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Bom Jesus das Selvas",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15111,7 +15111,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 13:48",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Almas",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -15122,7 +15122,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 05:13",
-      "DiasSemComunicacao": "-18",
+      "DiasSemComunicacao": "-16",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15133,7 +15133,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 00:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Davinópolis",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15144,7 +15144,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 16:47",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "São Pedro",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15155,7 +15155,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 08:34",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "35",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -15166,7 +15166,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 12:33",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "8",
       "Cidade": "Vila Nova dos Martírios",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15177,10 +15177,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/10/2026 09:48",
-      "DiasSemComunicacao": "30",
+      "DiasSemComunicacao": "32",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
-      "AcaoRecomendada": "OK"
+      "AcaoRecomendada": "MONITORAR"
     },
     {
       "ICCID": "89553202100035801162",
@@ -15188,7 +15188,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15199,7 +15199,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 22:49",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "São Miguel Arcanjo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15210,7 +15210,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15221,7 +15221,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 12:34",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15232,7 +15232,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -15243,7 +15243,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 16:03",
-      "DiasSemComunicacao": "260",
+      "DiasSemComunicacao": "262",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15254,7 +15254,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/05/2026 15:49",
-      "DiasSemComunicacao": "177",
+      "DiasSemComunicacao": "179",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15265,7 +15265,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 17:03",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Bom Jesus das Selvas",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15276,7 +15276,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 11:13",
-      "DiasSemComunicacao": "182",
+      "DiasSemComunicacao": "183",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15287,7 +15287,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Carlos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15298,7 +15298,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/10/2026 18:21",
-      "DiasSemComunicacao": "104",
+      "DiasSemComunicacao": "106",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "SUSPENDER"
@@ -15309,7 +15309,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15320,7 +15320,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 15:20",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -15331,7 +15331,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -15342,7 +15342,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 12:37",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "44",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -15353,7 +15353,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15364,7 +15364,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 14:59",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -15375,7 +15375,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15386,7 +15386,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Pedro",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15397,7 +15397,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 14:41",
-      "DiasSemComunicacao": "54",
+      "DiasSemComunicacao": "56",
       "Cidade": "Pardinho",
       "UF": "São Paulo",
       "AcaoRecomendada": "MONITORAR"
@@ -15408,7 +15408,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pardinho",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15419,7 +15419,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 11:01",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "8",
       "Cidade": "Botucatu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15430,7 +15430,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paraibuna",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15441,7 +15441,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15452,7 +15452,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/06/2026 21:05",
-      "DiasSemComunicacao": "159",
+      "DiasSemComunicacao": "161",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15463,7 +15463,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15474,7 +15474,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Bofete",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15485,7 +15485,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 15:20",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15496,7 +15496,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Pedro",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15507,7 +15507,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15518,7 +15518,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/04/2026 19:44",
-      "DiasSemComunicacao": "214",
+      "DiasSemComunicacao": "216",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15529,7 +15529,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/08/2026 10:50",
-      "DiasSemComunicacao": "-15",
+      "DiasSemComunicacao": "-14",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15540,7 +15540,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/08/2026 11:43",
-      "DiasSemComunicacao": "-15",
+      "DiasSemComunicacao": "-14",
       "Cidade": "Pindamonhangaba",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15551,7 +15551,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 14:20",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15562,7 +15562,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/03/2026 19:59",
-      "DiasSemComunicacao": "-11",
+      "DiasSemComunicacao": "-9",
       "Cidade": "Ibaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15573,7 +15573,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 23:29",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "24",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -15584,7 +15584,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15595,7 +15595,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Avaré",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15606,7 +15606,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15617,7 +15617,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/09/2026 20:36",
-      "DiasSemComunicacao": "258",
+      "DiasSemComunicacao": "260",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15628,7 +15628,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/08/2026 14:23",
-      "DiasSemComunicacao": "101",
+      "DiasSemComunicacao": "103",
       "Cidade": "Lorena",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -15639,7 +15639,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 23:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Mutum",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -15650,7 +15650,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/01/2026 15:47",
-      "DiasSemComunicacao": "300",
+      "DiasSemComunicacao": "302",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15661,7 +15661,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caçapava",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15672,7 +15672,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/10/2026 07:00",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "34",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -15683,7 +15683,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pardinho",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15694,7 +15694,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -15705,7 +15705,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/10/2026 11:07",
-      "DiasSemComunicacao": "258",
+      "DiasSemComunicacao": "259",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15716,7 +15716,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -15727,7 +15727,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Resende",
       "UF": "Rio de Janeiro",
       "AcaoRecomendada": "OK"
@@ -15738,7 +15738,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/09/2026 07:59",
-      "DiasSemComunicacao": "45",
+      "DiasSemComunicacao": "47",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -15749,7 +15749,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -15760,7 +15760,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 14:16",
-      "DiasSemComunicacao": "182",
+      "DiasSemComunicacao": "183",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15771,7 +15771,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/09/2026 13:10",
-      "DiasSemComunicacao": "137",
+      "DiasSemComunicacao": "138",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15782,7 +15782,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/03/2026 19:00",
-      "DiasSemComunicacao": "244",
+      "DiasSemComunicacao": "246",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15793,7 +15793,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 13:03",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15804,7 +15804,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/08/2026 15:55",
-      "DiasSemComunicacao": "228",
+      "DiasSemComunicacao": "230",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15815,7 +15815,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 18:49",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15826,7 +15826,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -15837,7 +15837,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/01/2026 13:28",
-      "DiasSemComunicacao": "314",
+      "DiasSemComunicacao": "315",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15848,7 +15848,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 08:31",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15859,7 +15859,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/05/2026 19:19",
-      "DiasSemComunicacao": "188",
+      "DiasSemComunicacao": "190",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15870,7 +15870,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/06/2026 07:22",
-      "DiasSemComunicacao": "148",
+      "DiasSemComunicacao": "150",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15881,7 +15881,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 06:27",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15892,7 +15892,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15903,7 +15903,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 13:20",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Vila Nova dos Martírios",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15914,7 +15914,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/07/2026 18:10",
-      "DiasSemComunicacao": "260",
+      "DiasSemComunicacao": "262",
       "Cidade": "Campo Grande",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -15925,7 +15925,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15936,7 +15936,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -15947,7 +15947,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/05/2026 16:20",
-      "DiasSemComunicacao": "17",
+      "DiasSemComunicacao": "19",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15958,7 +15958,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 17:08",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Bom Jesus das Selvas",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15969,7 +15969,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 13:15",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -15980,7 +15980,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:25",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -15991,7 +15991,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/08/2026 11:46",
-      "DiasSemComunicacao": "229",
+      "DiasSemComunicacao": "230",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16002,7 +16002,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -16013,7 +16013,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 10:01",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16024,7 +16024,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/10/2026 07:32",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "27",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16035,7 +16035,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "08/10/2026 09:50",
-      "DiasSemComunicacao": "105",
+      "DiasSemComunicacao": "107",
       "Cidade": "Tupi Paulista",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -16046,7 +16046,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/05/2026 15:04",
-      "DiasSemComunicacao": "201",
+      "DiasSemComunicacao": "203",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16057,7 +16057,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/03/2026 15:13",
-      "DiasSemComunicacao": "253",
+      "DiasSemComunicacao": "255",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16068,7 +16068,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 19:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "João Lisboa",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16079,7 +16079,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 09:01",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16090,7 +16090,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/05/2026 14:40",
-      "DiasSemComunicacao": "180",
+      "DiasSemComunicacao": "182",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16101,7 +16101,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/02/2026 19:50",
-      "DiasSemComunicacao": "-10",
+      "DiasSemComunicacao": "-8",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -16112,7 +16112,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/10/2026 10:06",
-      "DiasSemComunicacao": "28",
+      "DiasSemComunicacao": "30",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -16123,7 +16123,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -16134,7 +16134,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 12:43",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -16145,7 +16145,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 21:30",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -16156,7 +16156,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/11/2026 10:10",
-      "DiasSemComunicacao": "135",
+      "DiasSemComunicacao": "137",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16167,7 +16167,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 11:32",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16178,7 +16178,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16189,7 +16189,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16200,10 +16200,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/07/2026 14:55",
-      "DiasSemComunicacao": "118",
+      "DiasSemComunicacao": "120",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
-      "AcaoRecomendada": "SUSPENDER"
+      "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
     },
     {
       "ICCID": "89553202100011119092",
@@ -16211,7 +16211,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:46",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "São Luiz do Paraitinga",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16222,7 +16222,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/06/2026 05:56",
-      "DiasSemComunicacao": "231",
+      "DiasSemComunicacao": "233",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16233,7 +16233,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/11/2026 14:59",
-      "DiasSemComunicacao": "134",
+      "DiasSemComunicacao": "136",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16244,7 +16244,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16255,7 +16255,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -16266,7 +16266,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/09/2026 15:15",
-      "DiasSemComunicacao": "67",
+      "DiasSemComunicacao": "69",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "VERIFICAR"
@@ -16277,7 +16277,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/10/2026 08:14",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "35",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -16288,10 +16288,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/10/2026 11:58",
-      "DiasSemComunicacao": "30",
+      "DiasSemComunicacao": "31",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
-      "AcaoRecomendada": "OK"
+      "AcaoRecomendada": "MONITORAR"
     },
     {
       "ICCID": "89553202000006651820",
@@ -16299,7 +16299,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/07/2026 10:44",
-      "DiasSemComunicacao": "47",
+      "DiasSemComunicacao": "48",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -16310,7 +16310,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16321,7 +16321,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/06/2026 12:27",
-      "DiasSemComunicacao": "48",
+      "DiasSemComunicacao": "49",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -16332,7 +16332,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "11/03/2026 19:19",
-      "DiasSemComunicacao": "19",
+      "DiasSemComunicacao": "21",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16343,7 +16343,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/09/2026 20:05",
-      "DiasSemComunicacao": "258",
+      "DiasSemComunicacao": "260",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16354,7 +16354,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itamaraju",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -16365,7 +16365,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 09:54",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -16376,7 +16376,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 15:32",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -16387,7 +16387,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/03/2026 07:34",
-      "DiasSemComunicacao": "204",
+      "DiasSemComunicacao": "206",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16398,7 +16398,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "01/04/2026 17:40",
-      "DiasSemComunicacao": "322",
+      "DiasSemComunicacao": "324",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16409,7 +16409,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 17:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Pedro da Água Branca",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16420,7 +16420,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 14:18",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Anhembi",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16431,7 +16431,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16442,7 +16442,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/07/2026 16:58",
-      "DiasSemComunicacao": "46",
+      "DiasSemComunicacao": "48",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -16453,7 +16453,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 13:45",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16464,7 +16464,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/08/2026 10:32",
-      "DiasSemComunicacao": "101",
+      "DiasSemComunicacao": "102",
       "Cidade": "Mauá",
       "UF": "São Paulo",
       "AcaoRecomendada": "SUSPENDER"
@@ -16475,7 +16475,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Rio Grande da Serra",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16486,7 +16486,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 00:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16497,7 +16497,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16508,7 +16508,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16519,7 +16519,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 05:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16530,7 +16530,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "16/11/2026 14:04",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "8",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16541,7 +16541,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/08/2026 15:15",
-      "DiasSemComunicacao": "85",
+      "DiasSemComunicacao": "87",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -16552,7 +16552,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/05/2026 08:57",
-      "DiasSemComunicacao": "171",
+      "DiasSemComunicacao": "173",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16563,7 +16563,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/06/2026 15:14",
-      "DiasSemComunicacao": "200",
+      "DiasSemComunicacao": "202",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16574,7 +16574,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/05/2026 16:49",
-      "DiasSemComunicacao": "201",
+      "DiasSemComunicacao": "203",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16585,7 +16585,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/10/2026 21:19",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "198",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16596,7 +16596,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/10/2026 15:28",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "24",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -16607,7 +16607,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/05/2026 17:20",
-      "DiasSemComunicacao": "201",
+      "DiasSemComunicacao": "203",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16618,7 +16618,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/06/2026 14:54",
-      "DiasSemComunicacao": "200",
+      "DiasSemComunicacao": "202",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16629,7 +16629,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribas do Rio Pardo",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16640,7 +16640,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -16651,7 +16651,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/10/2026 08:06",
-      "DiasSemComunicacao": "28",
+      "DiasSemComunicacao": "30",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16662,7 +16662,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 23:15",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "197",
       "Cidade": "Caravelas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16673,7 +16673,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16684,7 +16684,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16695,7 +16695,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16706,7 +16706,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 03:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16717,7 +16717,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 03:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16728,7 +16728,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16739,7 +16739,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 01:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16750,7 +16750,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 02:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribeirão Pires",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16761,7 +16761,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 10:36",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -16772,7 +16772,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:10",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16783,7 +16783,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 18:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -16794,7 +16794,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/09/2026 15:24",
-      "DiasSemComunicacao": "286",
+      "DiasSemComunicacao": "288",
       "Cidade": "Taubaté",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16805,7 +16805,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/01/2026 13:01",
-      "DiasSemComunicacao": "312",
+      "DiasSemComunicacao": "313",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16816,7 +16816,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 17:29",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16827,7 +16827,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/10/2026 18:19",
-      "DiasSemComunicacao": "257",
+      "DiasSemComunicacao": "259",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16838,7 +16838,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 19:07",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16849,7 +16849,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Penha",
       "UF": "Santa Catarina",
       "AcaoRecomendada": "OK"
@@ -16860,7 +16860,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/07/2026 09:48",
-      "DiasSemComunicacao": "133",
+      "DiasSemComunicacao": "135",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16871,7 +16871,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 16:41",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -16882,7 +16882,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "03/05/2026 13:52",
-      "DiasSemComunicacao": "263",
+      "DiasSemComunicacao": "264",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16893,7 +16893,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 19:08",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Pinheiros",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -16904,7 +16904,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 17:55",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -16915,7 +16915,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/08/2026 09:27",
-      "DiasSemComunicacao": "138",
+      "DiasSemComunicacao": "140",
       "Cidade": "Nova Venécia",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16926,7 +16926,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/03/2026 01:18",
-      "DiasSemComunicacao": "241",
+      "DiasSemComunicacao": "243",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16937,7 +16937,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -16948,7 +16948,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 13:22",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "166",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -16959,7 +16959,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/10/2026 11:38",
-      "DiasSemComunicacao": "24",
+      "DiasSemComunicacao": "25",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -16970,7 +16970,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 15:56",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -16981,7 +16981,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Carolina",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -16992,7 +16992,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Osasco",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17003,7 +17003,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 22:07",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -17014,7 +17014,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 20:14",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "Selvíria",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17025,7 +17025,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 15:01",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "27",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17036,7 +17036,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/10/2026 13:50",
-      "DiasSemComunicacao": "40",
+      "DiasSemComunicacao": "41",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -17047,7 +17047,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 11:19",
-      "DiasSemComunicacao": "182",
+      "DiasSemComunicacao": "183",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17058,7 +17058,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17069,7 +17069,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 12:08",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17080,7 +17080,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/10/2026 22:27",
-      "DiasSemComunicacao": "34",
+      "DiasSemComunicacao": "36",
       "Cidade": "Aparecida do Taboado",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -17091,7 +17091,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 19:15",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "197",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17102,7 +17102,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 11:38",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17113,7 +17113,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 11:12",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "44",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -17124,7 +17124,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17135,7 +17135,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 08:57",
-      "DiasSemComunicacao": "285",
+      "DiasSemComunicacao": "287",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17146,7 +17146,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 10:10",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17157,7 +17157,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/10/2025 12:49",
-      "DiasSemComunicacao": "399",
+      "DiasSemComunicacao": "400",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17168,7 +17168,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/08/2026 19:11",
-      "DiasSemComunicacao": "198",
+      "DiasSemComunicacao": "200",
       "Cidade": "Inocência",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17179,7 +17179,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/06/2026 18:12",
-      "DiasSemComunicacao": "155",
+      "DiasSemComunicacao": "157",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17190,7 +17190,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 23:23",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -17201,7 +17201,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 18:00",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "166",
       "Cidade": "Caravelas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17212,7 +17212,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 09:48",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Conceição da Barra",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -17223,7 +17223,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 17:28",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -17234,7 +17234,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/03/2026 12:21",
-      "DiasSemComunicacao": "173",
+      "DiasSemComunicacao": "174",
       "Cidade": "Pedro Canário",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17245,7 +17245,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 18:20",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Uruará",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -17256,7 +17256,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/09/2026 13:47",
-      "DiasSemComunicacao": "55",
+      "DiasSemComunicacao": "56",
       "Cidade": "Amélia Rodrigues",
       "UF": "Bahia",
       "AcaoRecomendada": "MONITORAR"
@@ -17267,7 +17267,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/11/2026 16:26",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Paraíso das Águas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17278,7 +17278,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 12:45",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17289,7 +17289,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 12:58",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "28",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17300,7 +17300,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 21:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -17311,7 +17311,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 11:24",
-      "DiasSemComunicacao": "182",
+      "DiasSemComunicacao": "183",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17322,7 +17322,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/10/2026 12:26",
-      "DiasSemComunicacao": "74",
+      "DiasSemComunicacao": "75",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "VERIFICAR"
@@ -17333,7 +17333,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 17:24",
-      "DiasSemComunicacao": "164",
+      "DiasSemComunicacao": "166",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17344,7 +17344,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/08/2026 09:45",
-      "DiasSemComunicacao": "229",
+      "DiasSemComunicacao": "231",
       "Cidade": "Ilha Solteira",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17355,7 +17355,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/05/2026 17:11",
-      "DiasSemComunicacao": "201",
+      "DiasSemComunicacao": "203",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17366,7 +17366,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mogi Guaçu",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17377,7 +17377,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "27/10/2026 16:08",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17388,7 +17388,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 10:14",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17399,7 +17399,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/05/2026 16:09",
-      "DiasSemComunicacao": "186",
+      "DiasSemComunicacao": "188",
       "Cidade": "Cidelândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17410,7 +17410,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/01/2026 23:59",
-      "DiasSemComunicacao": "307",
+      "DiasSemComunicacao": "309",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17421,7 +17421,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/06/2026 14:48",
-      "DiasSemComunicacao": "150",
+      "DiasSemComunicacao": "152",
       "Cidade": "Panorama",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17432,7 +17432,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 20:20",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Paragominas",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -17443,7 +17443,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/10/2026 12:11",
-      "DiasSemComunicacao": "35",
+      "DiasSemComunicacao": "36",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -17454,7 +17454,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 09:32",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17465,7 +17465,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/11/2026 12:54",
-      "DiasSemComunicacao": "135",
+      "DiasSemComunicacao": "136",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17476,7 +17476,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17487,7 +17487,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/10/2026 12:22",
-      "DiasSemComunicacao": "197",
+      "DiasSemComunicacao": "198",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17498,7 +17498,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17509,7 +17509,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 10:18",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17520,7 +17520,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 11:36",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "10",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -17531,7 +17531,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 09:52",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "45",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -17542,7 +17542,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:12",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17553,7 +17553,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/05/2026 16:31",
-      "DiasSemComunicacao": "180",
+      "DiasSemComunicacao": "182",
       "Cidade": "Chapadão do Sul",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17564,7 +17564,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17575,7 +17575,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/02/2026 16:29",
-      "DiasSemComunicacao": "277",
+      "DiasSemComunicacao": "279",
       "Cidade": "Pato Branco",
       "UF": "Paraná",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17586,7 +17586,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/06/2026 09:47",
-      "DiasSemComunicacao": "290",
+      "DiasSemComunicacao": "292",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17597,7 +17597,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -17608,7 +17608,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/07/2026 21:53",
-      "DiasSemComunicacao": "124",
+      "DiasSemComunicacao": "126",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17619,7 +17619,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/05/2026 17:49",
-      "DiasSemComunicacao": "186",
+      "DiasSemComunicacao": "188",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17630,7 +17630,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -17641,7 +17641,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/05/2026 07:23",
-      "DiasSemComunicacao": "186",
+      "DiasSemComunicacao": "188",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17652,7 +17652,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "09/11/2026 11:13",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "74",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "VERIFICAR"
@@ -17663,7 +17663,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 15:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Esperantina",
       "UF": "Tocantins",
       "AcaoRecomendada": "OK"
@@ -17674,7 +17674,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/10/2026 07:46",
-      "DiasSemComunicacao": "197",
+      "DiasSemComunicacao": "199",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17685,7 +17685,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "31/03/2026 01:54",
-      "DiasSemComunicacao": "237",
+      "DiasSemComunicacao": "239",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17696,7 +17696,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/06/2026 08:20",
-      "DiasSemComunicacao": "159",
+      "DiasSemComunicacao": "161",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17707,7 +17707,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 17:51",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "197",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17718,7 +17718,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "25/05/2026 11:39",
-      "DiasSemComunicacao": "182",
+      "DiasSemComunicacao": "183",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17729,7 +17729,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17740,7 +17740,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17751,7 +17751,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17762,7 +17762,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mauá",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17773,7 +17773,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17784,7 +17784,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17795,7 +17795,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17806,7 +17806,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santo André",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17817,7 +17817,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17828,7 +17828,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 04:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17839,7 +17839,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17850,7 +17850,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17861,7 +17861,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17872,7 +17872,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "07/09/2026 21:34",
-      "DiasSemComunicacao": "136",
+      "DiasSemComunicacao": "138",
       "Cidade": "Augustinópolis",
       "UF": "Tocantins",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17883,7 +17883,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Carlos",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -17894,7 +17894,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 15:50",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17905,7 +17905,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 10:19",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17916,7 +17916,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 22:53",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -17927,7 +17927,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 22:23",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17938,7 +17938,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "22/11/2026 14:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Pedro da Água Branca",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -17949,7 +17949,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/05/2026 18:02",
-      "DiasSemComunicacao": "201",
+      "DiasSemComunicacao": "203",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17960,7 +17960,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -17971,7 +17971,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/07/2026 17:50",
-      "DiasSemComunicacao": "122",
+      "DiasSemComunicacao": "124",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17982,7 +17982,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "13/02/2026 17:26",
-      "DiasSemComunicacao": "282",
+      "DiasSemComunicacao": "284",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -17993,7 +17993,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "12/11/2026 11:45",
-      "DiasSemComunicacao": "-18",
+      "DiasSemComunicacao": "-17",
       "Cidade": "Paranaíba",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -18004,7 +18004,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 07:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -18015,7 +18015,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -18026,7 +18026,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 20:26",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18037,7 +18037,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 07:05",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18048,7 +18048,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/03/2026 03:37",
-      "DiasSemComunicacao": "249",
+      "DiasSemComunicacao": "251",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18059,7 +18059,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "30/04/2026 17:20",
-      "DiasSemComunicacao": "206",
+      "DiasSemComunicacao": "208",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18070,7 +18070,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18081,7 +18081,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Osasco",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18092,7 +18092,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18103,7 +18103,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18114,7 +18114,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "19/11/2026 16:52",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Cristalina",
       "UF": "Goiás",
       "AcaoRecomendada": "OK"
@@ -18125,7 +18125,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 10:09",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -18136,7 +18136,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 19:36",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -18147,7 +18147,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "14/11/2026 16:13",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -18158,7 +18158,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/11/2026 13:15",
-      "DiasSemComunicacao": "285",
+      "DiasSemComunicacao": "286",
       "Cidade": "Urutaí",
       "UF": "Goiás",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18169,7 +18169,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/10/2026 07:07",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "27",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -18180,10 +18180,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "24/10/2026 16:12",
-      "DiasSemComunicacao": "29",
+      "DiasSemComunicacao": "31",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
-      "AcaoRecomendada": "OK"
+      "AcaoRecomendada": "MONITORAR"
     },
     {
       "ICCID": "89553202000006650095",
@@ -18191,7 +18191,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/09/2026 09:26",
-      "DiasSemComunicacao": "287",
+      "DiasSemComunicacao": "289",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18202,7 +18202,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Brasilândia",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -18213,7 +18213,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 06:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -18224,7 +18224,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -18235,10 +18235,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "26/08/2026 16:33",
-      "DiasSemComunicacao": "88",
+      "DiasSemComunicacao": "90",
       "Cidade": "Mucuri",
       "UF": "Bahia",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89553202100015813021",
@@ -18246,7 +18246,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "18/11/2026 07:56",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Ulianópolis",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -18257,7 +18257,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "28/10/2026 14:35",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "27",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -18268,7 +18268,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 11:22",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -18279,7 +18279,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/11/2026 01:56",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Bataguassu",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -18290,7 +18290,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "29/10/2026 14:38",
-      "DiasSemComunicacao": "24",
+      "DiasSemComunicacao": "26",
       "Cidade": "Ponto dos Volantes",
       "UF": "Minas Gerais",
       "AcaoRecomendada": "OK"
@@ -18301,7 +18301,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -18312,7 +18312,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/11/2026 09:15",
-      "DiasSemComunicacao": "43",
+      "DiasSemComunicacao": "45",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -18323,7 +18323,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "21/11/2026 09:22",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Alto Taquari",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -18334,7 +18334,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 08:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18345,7 +18345,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 01:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18356,7 +18356,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ribeirão Pires",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18367,7 +18367,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -18378,7 +18378,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/09/2026 11:54",
-      "DiasSemComunicacao": "198",
+      "DiasSemComunicacao": "199",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18389,7 +18389,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2025 07:37",
-      "DiasSemComunicacao": "561",
+      "DiasSemComunicacao": "563",
       "Cidade": "Panorama",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18400,7 +18400,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "OK"
@@ -18411,7 +18411,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 06:36",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -18422,7 +18422,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/06/2026 00:01",
-      "DiasSemComunicacao": "48",
+      "DiasSemComunicacao": "50",
       "Cidade": "Imperatriz",
       "UF": "Maranhão",
       "AcaoRecomendada": "MONITORAR"
@@ -18433,7 +18433,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alto Araguaia",
       "UF": "Mato Grosso",
       "AcaoRecomendada": "OK"
@@ -18444,7 +18444,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "06/11/2026 14:05",
-      "DiasSemComunicacao": "165",
+      "DiasSemComunicacao": "166",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18455,7 +18455,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "10/07/2026 00:10",
-      "DiasSemComunicacao": "47",
+      "DiasSemComunicacao": "49",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "MONITORAR"
@@ -18466,7 +18466,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "15/10/2026 10:23",
-      "DiasSemComunicacao": "39",
+      "DiasSemComunicacao": "41",
       "Cidade": "Rio Verde",
       "UF": "Goiás",
       "AcaoRecomendada": "MONITORAR"
@@ -18477,7 +18477,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/09/2026 17:52",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "62",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "VERIFICAR"
@@ -18488,7 +18488,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 00:48",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Teixeira de Freitas",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -18499,7 +18499,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "Espírito Santo",
       "AcaoRecomendada": "OK"
@@ -18510,7 +18510,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 00:35",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Alcobaça",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -18521,7 +18521,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "Bahia",
       "AcaoRecomendada": "OK"
@@ -18532,7 +18532,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "17/11/2026 01:42",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -18543,7 +18543,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "05/11/2026 14:02",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "Açailândia",
       "UF": "Maranhão",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18554,7 +18554,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "02/04/2026 17:06",
-      "DiasSemComunicacao": "291",
+      "DiasSemComunicacao": "293",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18565,7 +18565,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guaira",
       "UF": "Paraná",
       "AcaoRecomendada": "OK"
@@ -18576,7 +18576,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/11/2026 01:03",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Bofete",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18587,7 +18587,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "04/07/2026 13:45",
-      "DiasSemComunicacao": "230",
+      "DiasSemComunicacao": "231",
       "Cidade": "Paranavaí",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18598,7 +18598,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Dom Eliseu",
       "UF": "Pará",
       "AcaoRecomendada": "OK"
@@ -18609,7 +18609,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Três Lagoas",
       "UF": "Mato Grosso do Sul",
       "AcaoRecomendada": "OK"
@@ -18620,7 +18620,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 09:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18631,7 +18631,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "23/11/2026 01:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Paulo",
       "UF": "São Paulo",
       "AcaoRecomendada": "OK"
@@ -18642,7 +18642,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ALLCOM",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "20/07/2026 10:48",
-      "DiasSemComunicacao": "126",
+      "DiasSemComunicacao": "127",
       "Cidade": "Mauá",
       "UF": "São Paulo",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18653,7 +18653,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-07-16-13:32:47",
-      "DiasSemComunicacao": "1226",
+      "DiasSemComunicacao": "1227",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18675,7 +18675,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-23-16:57:07",
-      "DiasSemComunicacao": "152",
+      "DiasSemComunicacao": "154",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18686,7 +18686,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-06-21-10:55:23",
-      "DiasSemComunicacao": "1981",
+      "DiasSemComunicacao": "1982",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18697,7 +18697,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-15-14:05:15",
-      "DiasSemComunicacao": "1804",
+      "DiasSemComunicacao": "1805",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18708,7 +18708,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-08-24-15:35:43",
-      "DiasSemComunicacao": "1186",
+      "DiasSemComunicacao": "1188",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18719,7 +18719,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-05-31-16:01:20",
-      "DiasSemComunicacao": "1636",
+      "DiasSemComunicacao": "1638",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18730,7 +18730,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-09-21:04:59",
-      "DiasSemComunicacao": "1809",
+      "DiasSemComunicacao": "1811",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18741,7 +18741,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-10-20-01:25:35",
-      "DiasSemComunicacao": "1860",
+      "DiasSemComunicacao": "1862",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18752,7 +18752,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-10-20-12:31:50",
-      "DiasSemComunicacao": "2225",
+      "DiasSemComunicacao": "2226",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18763,7 +18763,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-27-19:08:45",
-      "DiasSemComunicacao": "360",
+      "DiasSemComunicacao": "362",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18774,7 +18774,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-05-14-11:20:29",
-      "DiasSemComunicacao": "193",
+      "DiasSemComunicacao": "194",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18785,7 +18785,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-08-22-21:14:52",
-      "DiasSemComunicacao": "1188",
+      "DiasSemComunicacao": "1190",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18796,7 +18796,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-07-15-01:42:30",
-      "DiasSemComunicacao": "2322",
+      "DiasSemComunicacao": "2324",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18807,7 +18807,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-20-12:31:35",
-      "DiasSemComunicacao": "368",
+      "DiasSemComunicacao": "369",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18818,7 +18818,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-11-07-13:03:13",
-      "DiasSemComunicacao": "2207",
+      "DiasSemComunicacao": "2208",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18829,7 +18829,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-11-03-00:09:43",
-      "DiasSemComunicacao": "2211",
+      "DiasSemComunicacao": "2213",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18840,7 +18840,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-08-17-00:04:48",
-      "DiasSemComunicacao": "1194",
+      "DiasSemComunicacao": "1196",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18851,7 +18851,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-19-20:00:44",
-      "DiasSemComunicacao": "156",
+      "DiasSemComunicacao": "158",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18862,7 +18862,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-12-22-17:00:04",
-      "DiasSemComunicacao": "1066",
+      "DiasSemComunicacao": "1068",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18873,7 +18873,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-07-20-19:00:24",
-      "DiasSemComunicacao": "1586",
+      "DiasSemComunicacao": "1588",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18884,7 +18884,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-02-25-13:59:21",
-      "DiasSemComunicacao": "2463",
+      "DiasSemComunicacao": "2464",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18895,7 +18895,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-07-26-21:28:13",
-      "DiasSemComunicacao": "1945",
+      "DiasSemComunicacao": "1947",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18906,7 +18906,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-08-09-20:03:50",
-      "DiasSemComunicacao": "1566",
+      "DiasSemComunicacao": "1568",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18917,7 +18917,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-06-17-15:33:11",
-      "DiasSemComunicacao": "1254",
+      "DiasSemComunicacao": "1256",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18928,7 +18928,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-23-16:56:11",
-      "DiasSemComunicacao": "152",
+      "DiasSemComunicacao": "154",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18939,7 +18939,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-08-07-17:37:18",
-      "DiasSemComunicacao": "472",
+      "DiasSemComunicacao": "474",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18950,7 +18950,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-02-24-15:15:57",
-      "DiasSemComunicacao": "1367",
+      "DiasSemComunicacao": "1369",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18961,7 +18961,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-04-12-13:27:34",
-      "DiasSemComunicacao": "1321",
+      "DiasSemComunicacao": "1322",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18983,7 +18983,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-07-15-09:42:52",
-      "DiasSemComunicacao": "1592",
+      "DiasSemComunicacao": "1594",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -18994,7 +18994,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-05-13-16:17:50",
-      "DiasSemComunicacao": "1289",
+      "DiasSemComunicacao": "1291",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19005,7 +19005,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-11-05-18:58:52",
-      "DiasSemComunicacao": "1843",
+      "DiasSemComunicacao": "1845",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19016,7 +19016,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-09-15-15:12:15",
-      "DiasSemComunicacao": "1164",
+      "DiasSemComunicacao": "1166",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19027,7 +19027,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-04-21-15:53:26",
-      "DiasSemComunicacao": "2406",
+      "DiasSemComunicacao": "2408",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19038,7 +19038,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-02-20-19:33:57",
-      "DiasSemComunicacao": "640",
+      "DiasSemComunicacao": "642",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19049,7 +19049,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-01-19-22:15:01",
-      "DiasSemComunicacao": "1768",
+      "DiasSemComunicacao": "1770",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19060,7 +19060,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-05-16-12:08:35",
-      "DiasSemComunicacao": "1287",
+      "DiasSemComunicacao": "1288",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19071,7 +19071,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-04-18-16:56:59",
-      "DiasSemComunicacao": "2409",
+      "DiasSemComunicacao": "2411",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19082,7 +19082,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-02-09-14:46:15",
-      "DiasSemComunicacao": "2112",
+      "DiasSemComunicacao": "2114",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19093,7 +19093,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-10-03-17:13:54",
-      "DiasSemComunicacao": "1511",
+      "DiasSemComunicacao": "1513",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19104,7 +19104,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-04-21-16:45:51",
-      "DiasSemComunicacao": "2406",
+      "DiasSemComunicacao": "2408",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19115,7 +19115,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-06-17-12:06:40",
-      "DiasSemComunicacao": "1255",
+      "DiasSemComunicacao": "1256",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19126,7 +19126,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-05-08-18:04:23",
-      "DiasSemComunicacao": "928",
+      "DiasSemComunicacao": "930",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19137,7 +19137,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-09-17-16:10:13",
-      "DiasSemComunicacao": "2257",
+      "DiasSemComunicacao": "2259",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19148,7 +19148,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-08-18-13:06:37",
-      "DiasSemComunicacao": "1193",
+      "DiasSemComunicacao": "1194",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19170,7 +19170,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-11-16-21:51:32",
-      "DiasSemComunicacao": "1467",
+      "DiasSemComunicacao": "1469",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19181,7 +19181,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-10-08-20:42:44",
-      "DiasSemComunicacao": "1871",
+      "DiasSemComunicacao": "1873",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19192,7 +19192,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-06-04-19:28:39",
-      "DiasSemComunicacao": "901",
+      "DiasSemComunicacao": "903",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19203,7 +19203,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-02-26-21:50:32",
-      "DiasSemComunicacao": "1730",
+      "DiasSemComunicacao": "1732",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19214,7 +19214,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-06-04-05:04:32",
-      "DiasSemComunicacao": "2363",
+      "DiasSemComunicacao": "2365",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19225,7 +19225,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-07-19:13:33",
-      "DiasSemComunicacao": "1811",
+      "DiasSemComunicacao": "1813",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19236,7 +19236,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-08-11-18:55:10",
-      "DiasSemComunicacao": "2294",
+      "DiasSemComunicacao": "2296",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19258,7 +19258,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-24-22:19:02",
-      "DiasSemComunicacao": "363",
+      "DiasSemComunicacao": "365",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19269,7 +19269,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-11-29-17:26:16",
-      "DiasSemComunicacao": "2550",
+      "DiasSemComunicacao": "2552",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19280,7 +19280,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-05-25-14:38:42",
-      "DiasSemComunicacao": "1277",
+      "DiasSemComunicacao": "1279",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19291,7 +19291,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-01-28-20:31:59",
-      "DiasSemComunicacao": "2124",
+      "DiasSemComunicacao": "2126",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19302,7 +19302,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-01-12-19:08:52",
-      "DiasSemComunicacao": "1775",
+      "DiasSemComunicacao": "1777",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19313,7 +19313,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-02-21-14:05:07",
-      "DiasSemComunicacao": "640",
+      "DiasSemComunicacao": "641",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19335,7 +19335,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-09-09-15:01:52",
-      "DiasSemComunicacao": "804",
+      "DiasSemComunicacao": "806",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19346,7 +19346,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-08-12-18:57:41",
-      "DiasSemComunicacao": "467",
+      "DiasSemComunicacao": "469",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19357,7 +19357,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-11-23-23:04:22",
-      "DiasSemComunicacao": "1825",
+      "DiasSemComunicacao": "1827",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19368,7 +19368,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-31-15:47:44",
-      "DiasSemComunicacao": "1391",
+      "DiasSemComunicacao": "1393",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19379,7 +19379,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-11-07-23:09:26",
-      "DiasSemComunicacao": "1476",
+      "DiasSemComunicacao": "1478",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19390,7 +19390,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-10-21-10:37:50",
-      "DiasSemComunicacao": "763",
+      "DiasSemComunicacao": "764",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19401,7 +19401,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-01-12-18:31:34",
-      "DiasSemComunicacao": "1775",
+      "DiasSemComunicacao": "1777",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19412,7 +19412,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-06-10-16:55:22",
-      "DiasSemComunicacao": "1261",
+      "DiasSemComunicacao": "1263",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19423,7 +19423,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-22-19:46:02",
-      "DiasSemComunicacao": "214",
+      "DiasSemComunicacao": "216",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19434,7 +19434,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-10-20-21:33:56",
-      "DiasSemComunicacao": "1494",
+      "DiasSemComunicacao": "1496",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19445,7 +19445,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-01-12-18:22:42",
-      "DiasSemComunicacao": "1775",
+      "DiasSemComunicacao": "1777",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19456,7 +19456,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-03-23-19:42:20",
-      "DiasSemComunicacao": "2435",
+      "DiasSemComunicacao": "2437",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19467,7 +19467,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-03-12-21:27:01",
-      "DiasSemComunicacao": "2081",
+      "DiasSemComunicacao": "2083",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19478,7 +19478,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-11-10-20:45:26",
-      "DiasSemComunicacao": "1838",
+      "DiasSemComunicacao": "1840",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19489,7 +19489,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-07-23-22:11:26",
-      "DiasSemComunicacao": "1948",
+      "DiasSemComunicacao": "1950",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19500,7 +19500,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-05-11-11:40:30",
-      "DiasSemComunicacao": "1292",
+      "DiasSemComunicacao": "1293",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19511,7 +19511,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-06-17:23:44",
-      "DiasSemComunicacao": "1812",
+      "DiasSemComunicacao": "1814",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19522,7 +19522,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-02-28-11:49:46",
-      "DiasSemComunicacao": "1364",
+      "DiasSemComunicacao": "1365",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19533,7 +19533,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-25-21:56:32",
-      "DiasSemComunicacao": "1397",
+      "DiasSemComunicacao": "1399",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19544,7 +19544,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-06-20-22:44:52",
-      "DiasSemComunicacao": "1251",
+      "DiasSemComunicacao": "1253",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19555,7 +19555,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-02-28-17:42:26",
-      "DiasSemComunicacao": "1363",
+      "DiasSemComunicacao": "1365",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19566,7 +19566,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-08-27-20:31:44",
-      "DiasSemComunicacao": "2278",
+      "DiasSemComunicacao": "2280",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19577,7 +19577,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-02-22-14:26:05",
-      "DiasSemComunicacao": "1734",
+      "DiasSemComunicacao": "1736",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19588,7 +19588,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-08-31-21:17:21",
-      "DiasSemComunicacao": "1909",
+      "DiasSemComunicacao": "1911",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19599,7 +19599,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-11-07-22:32:17",
-      "DiasSemComunicacao": "1476",
+      "DiasSemComunicacao": "1478",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19610,7 +19610,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-03-14-16:51:15",
-      "DiasSemComunicacao": "1714",
+      "DiasSemComunicacao": "1716",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19621,7 +19621,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-06-06-20:24:54",
-      "DiasSemComunicacao": "1265",
+      "DiasSemComunicacao": "1267",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19632,7 +19632,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-23-12:43:50",
-      "DiasSemComunicacao": "304",
+      "DiasSemComunicacao": "305",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19643,7 +19643,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-08-18-12:15:38",
-      "DiasSemComunicacao": "827",
+      "DiasSemComunicacao": "828",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19654,7 +19654,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-01-27-12:28:46",
-      "DiasSemComunicacao": "2492",
+      "DiasSemComunicacao": "2493",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19665,7 +19665,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-04-24-20:20:35",
-      "DiasSemComunicacao": "2038",
+      "DiasSemComunicacao": "2040",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19676,7 +19676,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-11-27-17:39:13",
-      "DiasSemComunicacao": "2186",
+      "DiasSemComunicacao": "2188",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19687,7 +19687,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-10-16-12:02:20",
-      "DiasSemComunicacao": "2595",
+      "DiasSemComunicacao": "2596",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19698,7 +19698,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-09-10-14:30:58",
-      "DiasSemComunicacao": "2630",
+      "DiasSemComunicacao": "2632",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19742,7 +19742,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-05-18-01:44:31",
-      "DiasSemComunicacao": "2746",
+      "DiasSemComunicacao": "2748",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19753,7 +19753,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-02-15-02:37:03",
-      "DiasSemComunicacao": "2107",
+      "DiasSemComunicacao": "2109",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19764,7 +19764,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-10-20-14:35:41",
-      "DiasSemComunicacao": "1859",
+      "DiasSemComunicacao": "1861",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19775,7 +19775,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-13-18:06:19",
-      "DiasSemComunicacao": "282",
+      "DiasSemComunicacao": "284",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19786,7 +19786,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-24-12:03:06",
-      "DiasSemComunicacao": "1399",
+      "DiasSemComunicacao": "1400",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19797,7 +19797,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-01-06-20:26:31",
-      "DiasSemComunicacao": "2512",
+      "DiasSemComunicacao": "2514",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19808,7 +19808,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-14-02:48:09",
-      "DiasSemComunicacao": "1409",
+      "DiasSemComunicacao": "1411",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19819,7 +19819,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-03-12-14:30:02",
-      "DiasSemComunicacao": "1351",
+      "DiasSemComunicacao": "1353",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19830,7 +19830,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-02-15:36:37",
-      "DiasSemComunicacao": "1420",
+      "DiasSemComunicacao": "1422",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19841,7 +19841,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-02-15-13:35:13",
-      "DiasSemComunicacao": "646",
+      "DiasSemComunicacao": "647",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19852,7 +19852,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-24-21:07:30",
-      "DiasSemComunicacao": "1398",
+      "DiasSemComunicacao": "1400",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19863,7 +19863,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-10-21-15:42:57",
-      "DiasSemComunicacao": "762",
+      "DiasSemComunicacao": "764",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19874,7 +19874,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-25-15:16:35",
-      "DiasSemComunicacao": "1397",
+      "DiasSemComunicacao": "1399",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19885,7 +19885,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-04-27-23:43:18",
-      "DiasSemComunicacao": "1305",
+      "DiasSemComunicacao": "1307",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19896,7 +19896,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-11-10-23:26:20",
-      "DiasSemComunicacao": "1838",
+      "DiasSemComunicacao": "1840",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19907,7 +19907,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-08-01-23:20:42",
-      "DiasSemComunicacao": "2670",
+      "DiasSemComunicacao": "2672",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19918,7 +19918,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-10-23-12:57:53",
-      "DiasSemComunicacao": "1857",
+      "DiasSemComunicacao": "1858",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19929,7 +19929,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-07-22-20:45:45",
-      "DiasSemComunicacao": "1949",
+      "DiasSemComunicacao": "1951",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19940,7 +19940,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-03-01-22:42:29",
-      "DiasSemComunicacao": "1362",
+      "DiasSemComunicacao": "1364",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19951,7 +19951,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-08-14-19:30:22",
-      "DiasSemComunicacao": "1196",
+      "DiasSemComunicacao": "1198",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19962,7 +19962,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-02-07-13:39:27",
-      "DiasSemComunicacao": "1385",
+      "DiasSemComunicacao": "1386",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19973,7 +19973,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-20-23:22:50",
-      "DiasSemComunicacao": "1798",
+      "DiasSemComunicacao": "1800",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19984,7 +19984,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-11-14-18:44:08",
-      "DiasSemComunicacao": "1469",
+      "DiasSemComunicacao": "1471",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -19995,7 +19995,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-04-30-15:07:04",
-      "DiasSemComunicacao": "1667",
+      "DiasSemComunicacao": "1669",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20017,7 +20017,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-02-08-14:02:00",
-      "DiasSemComunicacao": "1384",
+      "DiasSemComunicacao": "1385",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20039,7 +20039,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-11-01-00:26:55",
-      "DiasSemComunicacao": "1118",
+      "DiasSemComunicacao": "1120",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20050,7 +20050,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-26-21:09:36",
-      "DiasSemComunicacao": "269",
+      "DiasSemComunicacao": "271",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20061,7 +20061,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-05-28-02:20:39",
-      "DiasSemComunicacao": "179",
+      "DiasSemComunicacao": "181",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20072,7 +20072,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-10-21-16:00:20",
-      "DiasSemComunicacao": "1493",
+      "DiasSemComunicacao": "1495",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20083,7 +20083,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-25-16:06:08",
-      "DiasSemComunicacao": "1397",
+      "DiasSemComunicacao": "1399",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20094,7 +20094,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-07-18:44:52",
-      "DiasSemComunicacao": "1811",
+      "DiasSemComunicacao": "1813",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20105,7 +20105,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-06-19-14:20:23",
-      "DiasSemComunicacao": "1253",
+      "DiasSemComunicacao": "1254",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20116,7 +20116,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-10-12-17:22:44",
-      "DiasSemComunicacao": "1502",
+      "DiasSemComunicacao": "1504",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20127,7 +20127,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-07-15-20:49:50",
-      "DiasSemComunicacao": "2321",
+      "DiasSemComunicacao": "2323",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20138,7 +20138,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-10-19-11:13:07",
-      "DiasSemComunicacao": "2592",
+      "DiasSemComunicacao": "2593",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20149,7 +20149,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-10-19:44:05",
-      "DiasSemComunicacao": "377",
+      "DiasSemComunicacao": "379",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20160,7 +20160,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-07-16-17:17:59",
-      "DiasSemComunicacao": "2686",
+      "DiasSemComunicacao": "2688",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20171,7 +20171,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-19-12:39:34",
-      "DiasSemComunicacao": "1404",
+      "DiasSemComunicacao": "1405",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20182,7 +20182,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-10-30-18:13:22",
-      "DiasSemComunicacao": "753",
+      "DiasSemComunicacao": "755",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20193,7 +20193,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-09-05-23:06:49",
-      "DiasSemComunicacao": "1174",
+      "DiasSemComunicacao": "1176",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20204,7 +20204,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-07-15-20:45:29",
-      "DiasSemComunicacao": "2321",
+      "DiasSemComunicacao": "2323",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20215,7 +20215,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-09-04-16:35:45",
-      "DiasSemComunicacao": "1905",
+      "DiasSemComunicacao": "1907",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20226,7 +20226,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-01-22-13:11:11",
-      "DiasSemComunicacao": "2131",
+      "DiasSemComunicacao": "2132",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20237,7 +20237,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-07-26-21:59:46",
-      "DiasSemComunicacao": "1945",
+      "DiasSemComunicacao": "1947",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20248,7 +20248,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-07-30-12:52:22",
-      "DiasSemComunicacao": "1212",
+      "DiasSemComunicacao": "1213",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20259,7 +20259,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-07-16-17:04:36",
-      "DiasSemComunicacao": "2686",
+      "DiasSemComunicacao": "2688",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20270,7 +20270,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-04-08-11:02:17",
-      "DiasSemComunicacao": "2420",
+      "DiasSemComunicacao": "2421",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20281,7 +20281,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-11-05-14:54:37",
-      "DiasSemComunicacao": "1478",
+      "DiasSemComunicacao": "1480",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20292,7 +20292,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-10-15-14:35:52",
-      "DiasSemComunicacao": "2229",
+      "DiasSemComunicacao": "2231",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20303,7 +20303,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-10-11-14:59:54",
-      "DiasSemComunicacao": "2599",
+      "DiasSemComunicacao": "2601",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20325,7 +20325,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-02-01-12:15:29",
-      "DiasSemComunicacao": "2121",
+      "DiasSemComunicacao": "2122",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20336,7 +20336,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-03-02-13:47:37",
-      "DiasSemComunicacao": "2092",
+      "DiasSemComunicacao": "2093",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20347,7 +20347,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-12-01-03:07:34",
-      "DiasSemComunicacao": "1088",
+      "DiasSemComunicacao": "1090",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20358,7 +20358,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-09-22-20:02:26",
-      "DiasSemComunicacao": "1157",
+      "DiasSemComunicacao": "1159",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20369,7 +20369,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-02-15-11:51:45",
-      "DiasSemComunicacao": "1012",
+      "DiasSemComunicacao": "1013",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20380,7 +20380,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-02-29-13:22:20",
-      "DiasSemComunicacao": "998",
+      "DiasSemComunicacao": "999",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20391,7 +20391,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-07-15-21:39:16",
-      "DiasSemComunicacao": "1956",
+      "DiasSemComunicacao": "1958",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20402,7 +20402,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-09-08-18:25:42",
-      "DiasSemComunicacao": "1536",
+      "DiasSemComunicacao": "1538",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20413,7 +20413,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-09-16-19:47:46",
-      "DiasSemComunicacao": "1893",
+      "DiasSemComunicacao": "1895",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20424,7 +20424,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-27-10:23:42",
-      "DiasSemComunicacao": "1396",
+      "DiasSemComunicacao": "1398",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20435,7 +20435,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-09-14-17:52:25",
-      "DiasSemComunicacao": "799",
+      "DiasSemComunicacao": "801",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20446,7 +20446,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-14-12:56:41",
-      "DiasSemComunicacao": "1805",
+      "DiasSemComunicacao": "1806",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20457,7 +20457,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-06-20-22:28:41",
-      "DiasSemComunicacao": "1251",
+      "DiasSemComunicacao": "1253",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20468,7 +20468,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-05-25-22:03:28",
-      "DiasSemComunicacao": "2007",
+      "DiasSemComunicacao": "2009",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20479,7 +20479,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-10-08-00:28:59",
-      "DiasSemComunicacao": "1507",
+      "DiasSemComunicacao": "1509",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20490,7 +20490,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-05-10-16:58:47",
-      "DiasSemComunicacao": "1292",
+      "DiasSemComunicacao": "1294",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20501,7 +20501,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-12-24-10:48:50",
-      "DiasSemComunicacao": "2160",
+      "DiasSemComunicacao": "2161",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20512,7 +20512,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-11-10-21:03:14",
-      "DiasSemComunicacao": "1838",
+      "DiasSemComunicacao": "1840",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20523,7 +20523,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-10-03-14:05:37",
-      "DiasSemComunicacao": "1512",
+      "DiasSemComunicacao": "1513",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20545,7 +20545,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-03-22-20:30:58",
-      "DiasSemComunicacao": "1341",
+      "DiasSemComunicacao": "1343",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20556,7 +20556,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-03-07-19:34:08",
-      "DiasSemComunicacao": "2451",
+      "DiasSemComunicacao": "2453",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20578,7 +20578,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-05-24-23:07:17",
-      "DiasSemComunicacao": "1278",
+      "DiasSemComunicacao": "1280",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20589,7 +20589,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-10-28-18:29:27",
-      "DiasSemComunicacao": "1851",
+      "DiasSemComunicacao": "1853",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20600,7 +20600,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-03-22-18:58:01",
-      "DiasSemComunicacao": "1341",
+      "DiasSemComunicacao": "1343",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20611,7 +20611,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-01-15-15:07:07",
-      "DiasSemComunicacao": "2137",
+      "DiasSemComunicacao": "2139",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20622,7 +20622,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-18-16:20:09",
-      "DiasSemComunicacao": "339",
+      "DiasSemComunicacao": "341",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20633,7 +20633,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-07-25-23:29:51",
-      "DiasSemComunicacao": "1216",
+      "DiasSemComunicacao": "1218",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20644,7 +20644,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-05-20-21:16:17",
-      "DiasSemComunicacao": "1647",
+      "DiasSemComunicacao": "1649",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20655,7 +20655,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-06-03-12:13:38",
-      "DiasSemComunicacao": "2364",
+      "DiasSemComunicacao": "2365",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20666,7 +20666,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-12-11-16:31:42",
-      "DiasSemComunicacao": "711",
+      "DiasSemComunicacao": "713",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20677,7 +20677,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-10-28-14:20:51",
-      "DiasSemComunicacao": "2217",
+      "DiasSemComunicacao": "2218",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20699,7 +20699,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-31-12:34:09",
-      "DiasSemComunicacao": "1392",
+      "DiasSemComunicacao": "1393",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20710,7 +20710,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-06-17-11:40:58",
-      "DiasSemComunicacao": "889",
+      "DiasSemComunicacao": "890",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20721,7 +20721,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-04-07-16:10:21",
-      "DiasSemComunicacao": "2420",
+      "DiasSemComunicacao": "2422",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20732,7 +20732,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-11-04-14:53:02",
-      "DiasSemComunicacao": "1479",
+      "DiasSemComunicacao": "1481",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20743,7 +20743,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-07-14:42:45",
-      "DiasSemComunicacao": "1811",
+      "DiasSemComunicacao": "1813",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20754,7 +20754,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-07-18:34:06",
-      "DiasSemComunicacao": "1811",
+      "DiasSemComunicacao": "1813",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20765,7 +20765,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-07-22-22:08:55",
-      "DiasSemComunicacao": "1584",
+      "DiasSemComunicacao": "1586",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20776,7 +20776,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-11-23-21:44:05",
-      "DiasSemComunicacao": "1825",
+      "DiasSemComunicacao": "1827",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20787,7 +20787,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-04-07-15:01:52",
-      "DiasSemComunicacao": "2420",
+      "DiasSemComunicacao": "2422",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20798,7 +20798,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-10-23-14:52:12",
-      "DiasSemComunicacao": "2221",
+      "DiasSemComunicacao": "2223",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20809,7 +20809,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-08-23-12:48:24",
-      "DiasSemComunicacao": "822",
+      "DiasSemComunicacao": "823",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20820,7 +20820,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-11-23-22:26:23",
-      "DiasSemComunicacao": "1825",
+      "DiasSemComunicacao": "1827",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20831,7 +20831,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-05-26-21:59:00",
-      "DiasSemComunicacao": "1276",
+      "DiasSemComunicacao": "1278",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20842,7 +20842,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-09-28-11:51:00",
-      "DiasSemComunicacao": "1882",
+      "DiasSemComunicacao": "1883",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20853,7 +20853,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-02-01-15:10:11",
-      "DiasSemComunicacao": "659",
+      "DiasSemComunicacao": "661",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20864,7 +20864,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-08-27-17:16:08",
-      "DiasSemComunicacao": "2278",
+      "DiasSemComunicacao": "2280",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20875,7 +20875,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-02-28-14:50:20",
-      "DiasSemComunicacao": "1363",
+      "DiasSemComunicacao": "1365",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20886,7 +20886,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-04-04-18:31:02",
-      "DiasSemComunicacao": "1328",
+      "DiasSemComunicacao": "1330",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20897,7 +20897,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-09-03-15:09:56",
-      "DiasSemComunicacao": "2637",
+      "DiasSemComunicacao": "2639",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20908,7 +20908,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-07-12-19:53:49",
-      "DiasSemComunicacao": "1229",
+      "DiasSemComunicacao": "1231",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20919,7 +20919,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-09-07-20:51:04",
-      "DiasSemComunicacao": "2633",
+      "DiasSemComunicacao": "2635",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20930,7 +20930,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-04-26-19:21:52",
-      "DiasSemComunicacao": "940",
+      "DiasSemComunicacao": "942",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20941,7 +20941,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-10-18-23:33:09",
-      "DiasSemComunicacao": "1861",
+      "DiasSemComunicacao": "1863",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20952,7 +20952,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-04-07-12:33:41",
-      "DiasSemComunicacao": "2421",
+      "DiasSemComunicacao": "2422",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20963,7 +20963,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-08-09-14:22:53",
-      "DiasSemComunicacao": "1931",
+      "DiasSemComunicacao": "1933",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20974,7 +20974,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-04-16-16:53:29",
-      "DiasSemComunicacao": "950",
+      "DiasSemComunicacao": "952",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20985,7 +20985,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-13-14:26:43",
-      "DiasSemComunicacao": "1409",
+      "DiasSemComunicacao": "1411",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -20996,7 +20996,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-03-23-21:01:09",
-      "DiasSemComunicacao": "2070",
+      "DiasSemComunicacao": "2072",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21007,7 +21007,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-04-15-09:49:02",
-      "DiasSemComunicacao": "1318",
+      "DiasSemComunicacao": "1320",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21018,7 +21018,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-02-01-21:12:29",
-      "DiasSemComunicacao": "1390",
+      "DiasSemComunicacao": "1392",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21029,7 +21029,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-07-14:17:28",
-      "DiasSemComunicacao": "1812",
+      "DiasSemComunicacao": "1813",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21040,7 +21040,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-04-04-21:00:08",
-      "DiasSemComunicacao": "1328",
+      "DiasSemComunicacao": "1330",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21051,7 +21051,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-06-08-09:48:51",
-      "DiasSemComunicacao": "1264",
+      "DiasSemComunicacao": "1266",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21073,7 +21073,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-07-18:56:44",
-      "DiasSemComunicacao": "1811",
+      "DiasSemComunicacao": "1813",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21084,7 +21084,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-08-11-20:40:37",
-      "DiasSemComunicacao": "1929",
+      "DiasSemComunicacao": "1931",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21106,7 +21106,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-04-17-22:09:36",
-      "DiasSemComunicacao": "1315",
+      "DiasSemComunicacao": "1317",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21117,7 +21117,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-04-29-19:16:07",
-      "DiasSemComunicacao": "2398",
+      "DiasSemComunicacao": "2400",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21128,7 +21128,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-07-21-18:27:58",
-      "DiasSemComunicacao": "2315",
+      "DiasSemComunicacao": "2317",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21139,7 +21139,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-07-28-12:45:26",
-      "DiasSemComunicacao": "1944",
+      "DiasSemComunicacao": "1945",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21150,7 +21150,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-06-13-22:37:50",
-      "DiasSemComunicacao": "1623",
+      "DiasSemComunicacao": "1625",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21161,7 +21161,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-04-22-12:19:54",
-      "DiasSemComunicacao": "2406",
+      "DiasSemComunicacao": "2407",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21172,7 +21172,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-03-03-15:15:35",
-      "DiasSemComunicacao": "2090",
+      "DiasSemComunicacao": "2092",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21183,7 +21183,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-09-30-03:32:30",
-      "DiasSemComunicacao": "2245",
+      "DiasSemComunicacao": "2247",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21194,7 +21194,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-10-19:12:45",
-      "DiasSemComunicacao": "1808",
+      "DiasSemComunicacao": "1810",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21205,7 +21205,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-09-19-18:28:31",
-      "DiasSemComunicacao": "1890",
+      "DiasSemComunicacao": "1892",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21216,7 +21216,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-05-18-22:29:44",
-      "DiasSemComunicacao": "2014",
+      "DiasSemComunicacao": "2016",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21227,7 +21227,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-14-19:08:24",
-      "DiasSemComunicacao": "404",
+      "DiasSemComunicacao": "406",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21238,7 +21238,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-02-19-17:07:10",
-      "DiasSemComunicacao": "2102",
+      "DiasSemComunicacao": "2104",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21260,7 +21260,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2024-05-03-16:32:19",
-      "DiasSemComunicacao": "933",
+      "DiasSemComunicacao": "935",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21271,7 +21271,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-09-08-21:31:38",
-      "DiasSemComunicacao": "1901",
+      "DiasSemComunicacao": "1903",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21293,7 +21293,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-06-11-11:33:03",
-      "DiasSemComunicacao": "2356",
+      "DiasSemComunicacao": "2357",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21304,7 +21304,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-02-07-18:25:20",
-      "DiasSemComunicacao": "1384",
+      "DiasSemComunicacao": "1386",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21315,7 +21315,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-10-11-16:59:42",
-      "DiasSemComunicacao": "1138",
+      "DiasSemComunicacao": "1140",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21326,7 +21326,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-09-15-17:40:29",
-      "DiasSemComunicacao": "2259",
+      "DiasSemComunicacao": "2261",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21337,7 +21337,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-17-11:32:11",
-      "DiasSemComunicacao": "98",
+      "DiasSemComunicacao": "99",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -21348,7 +21348,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-10-09-21:14:30",
-      "DiasSemComunicacao": "1140",
+      "DiasSemComunicacao": "1142",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21359,7 +21359,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-02-13:57:55",
-      "DiasSemComunicacao": "82",
+      "DiasSemComunicacao": "83",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "VERIFICAR"
@@ -21370,7 +21370,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-09-12:53:44",
-      "DiasSemComunicacao": "75",
+      "DiasSemComunicacao": "76",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "VERIFICAR"
@@ -21381,7 +21381,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-02-07-20:01:21",
-      "DiasSemComunicacao": "1384",
+      "DiasSemComunicacao": "1386",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21392,10 +21392,10 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-25-17:55:39",
-      "DiasSemComunicacao": "89",
+      "DiasSemComunicacao": "91",
       "Cidade": "",
       "UF": "",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "8955170000201018158",
@@ -21403,7 +21403,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-09-08-11:45:36",
-      "DiasSemComunicacao": "1902",
+      "DiasSemComunicacao": "1903",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21414,7 +21414,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-11-09-20:01:47",
-      "DiasSemComunicacao": "2204",
+      "DiasSemComunicacao": "2206",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21425,7 +21425,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-22-13:25:19",
-      "DiasSemComunicacao": "154",
+      "DiasSemComunicacao": "155",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21436,7 +21436,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2019-09-12-15:32:10",
-      "DiasSemComunicacao": "2628",
+      "DiasSemComunicacao": "2630",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21447,7 +21447,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2020-03-12-19:29:34",
-      "DiasSemComunicacao": "2446",
+      "DiasSemComunicacao": "2448",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21458,7 +21458,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-06-16-13:40:26",
-      "DiasSemComunicacao": "1256",
+      "DiasSemComunicacao": "1257",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21469,7 +21469,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-04-04-20:54:02",
-      "DiasSemComunicacao": "1328",
+      "DiasSemComunicacao": "1330",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21491,7 +21491,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2023-01-31-15:57:28",
-      "DiasSemComunicacao": "1391",
+      "DiasSemComunicacao": "1393",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21502,7 +21502,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-05-10:25:10",
-      "DiasSemComunicacao": "18",
+      "DiasSemComunicacao": "19",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21513,7 +21513,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-06-19:13:30",
-      "DiasSemComunicacao": "16",
+      "DiasSemComunicacao": "18",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21524,7 +21524,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10-13:01:05",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "14",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21535,7 +21535,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-13-18:07:41",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21546,7 +21546,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19-11:36:23",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21557,7 +21557,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19-16:16:29",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21568,7 +21568,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20-15:10:46",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21579,7 +21579,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21-12:18:23",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21590,7 +21590,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2022-08-10-23:03:51",
-      "DiasSemComunicacao": "1565",
+      "DiasSemComunicacao": "1567",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21601,7 +21601,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2021-12-07-13:40:57",
-      "DiasSemComunicacao": "1812",
+      "DiasSemComunicacao": "1813",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -21612,7 +21612,7 @@ const BASE_CHIPS = {
       "Fornecedor": "ESEYE",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23-13:10:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "1",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21623,7 +21623,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Serra Negra",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21634,7 +21634,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-08 00:24:48",
-      "DiasSemComunicacao": "15",
+      "DiasSemComunicacao": "17",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21656,7 +21656,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 05:28:23",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -21667,7 +21667,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:37:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21678,7 +21678,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-09 15:03:46",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "15",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21689,7 +21689,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 13:45:01",
-      "DiasSemComunicacao": "20",
+      "DiasSemComunicacao": "21",
       "Cidade": "Cachoeira Paulista",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21700,7 +21700,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 14:55:20",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Pardinho",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21711,7 +21711,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Resende",
       "UF": "RJ",
       "AcaoRecomendada": "OK"
@@ -21722,7 +21722,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:44:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -21733,7 +21733,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21744,7 +21744,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -21755,7 +21755,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 18:01:41",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "São Miguel Arcanjo",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21766,7 +21766,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:30",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21777,7 +21777,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21788,7 +21788,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:48:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21799,7 +21799,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:12",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21810,7 +21810,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 02:52:09",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -21821,7 +21821,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:54:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21832,7 +21832,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-16 14:30:23",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21854,7 +21854,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 14:18:35",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -21865,7 +21865,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:51:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caravelas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -21876,7 +21876,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 07:37:46",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Arandu",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21887,7 +21887,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21898,7 +21898,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21909,7 +21909,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:50:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21920,7 +21920,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-09 07:42:51",
-      "DiasSemComunicacao": "14",
+      "DiasSemComunicacao": "16",
       "Cidade": "São Miguel Arcanjo",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -21931,7 +21931,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -21942,7 +21942,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 17:37:11",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21953,7 +21953,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:40:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21964,7 +21964,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:52:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21975,7 +21975,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:43:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -21986,7 +21986,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:49:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -21997,7 +21997,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22008,7 +22008,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 14:51:47",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -22019,7 +22019,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 10:00:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22030,7 +22030,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 17:15:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Miguel Arcanjo",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22041,7 +22041,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Branca",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22052,7 +22052,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-17 12:41:45",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "38",
       "Cidade": "Mogi Guaçu",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -22074,7 +22074,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 18:40:52",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Taubaté",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22085,7 +22085,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 08:15:04",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -22096,7 +22096,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 07:43:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22107,7 +22107,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 18:08:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22118,7 +22118,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-09 10:03:59",
-      "DiasSemComunicacao": "14",
+      "DiasSemComunicacao": "16",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22129,7 +22129,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 13:37:04",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Três Lagoas",
       "UF": "MS",
       "AcaoRecomendada": "OK"
@@ -22140,7 +22140,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 10:28:22",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22162,7 +22162,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 17:44:29",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22173,7 +22173,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22228,7 +22228,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-31 15:39:14",
-      "DiasSemComunicacao": "479",
+      "DiasSemComunicacao": "481",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -22283,7 +22283,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-29 21:17:06",
-      "DiasSemComunicacao": "297",
+      "DiasSemComunicacao": "299",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -22316,7 +22316,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22338,7 +22338,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Conchal",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22349,7 +22349,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 16:13:15",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Alambari",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22360,7 +22360,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -22371,7 +22371,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 18:55:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Taubaté",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22393,7 +22393,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22404,7 +22404,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-16 15:00:32",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -22415,7 +22415,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-02 10:26:32",
-      "DiasSemComunicacao": "82",
+      "DiasSemComunicacao": "83",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "VERIFICAR"
@@ -22448,7 +22448,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:12",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -22481,7 +22481,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 23:34:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pinheiros",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -22525,7 +22525,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-19 11:10:16",
-      "DiasSemComunicacao": "673",
+      "DiasSemComunicacao": "674",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -22536,7 +22536,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-16 21:59:45",
-      "DiasSemComunicacao": "67",
+      "DiasSemComunicacao": "69",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "VERIFICAR"
@@ -22712,7 +22712,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-01 02:39:26",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "24",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22723,7 +22723,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -22734,7 +22734,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-22 15:13:20",
-      "DiasSemComunicacao": "31",
+      "DiasSemComunicacao": "33",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "MONITORAR"
@@ -22800,7 +22800,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-30 04:25:00",
-      "DiasSemComunicacao": "358",
+      "DiasSemComunicacao": "360",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -22855,7 +22855,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-20 07:17:05",
-      "DiasSemComunicacao": "460",
+      "DiasSemComunicacao": "462",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -22877,7 +22877,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-09 21:54:46",
-      "DiasSemComunicacao": "286",
+      "DiasSemComunicacao": "288",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -22888,7 +22888,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22899,7 +22899,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 10:00:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22910,7 +22910,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -22921,7 +22921,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 07:29:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caçapava",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22932,7 +22932,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 08:45:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alambari",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22943,7 +22943,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-03 15:47:41",
-      "DiasSemComunicacao": "537",
+      "DiasSemComunicacao": "539",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -22976,7 +22976,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Lorena",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -22998,7 +22998,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-22 01:39:39",
-      "DiasSemComunicacao": "458",
+      "DiasSemComunicacao": "460",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23009,7 +23009,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-08 20:10:06",
-      "DiasSemComunicacao": "624",
+      "DiasSemComunicacao": "626",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23031,7 +23031,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 18:23:21",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23053,7 +23053,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -23075,7 +23075,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paraibuna",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23086,7 +23086,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Eunápolis",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -23097,7 +23097,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:51:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23108,7 +23108,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23119,7 +23119,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:44:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23130,7 +23130,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-26 11:14:54",
-      "DiasSemComunicacao": "666",
+      "DiasSemComunicacao": "667",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23174,7 +23174,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aguaí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23185,7 +23185,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-14 19:49:41",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23196,7 +23196,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-15 07:17:53",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23207,7 +23207,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-26 09:58:20",
-      "DiasSemComunicacao": "607",
+      "DiasSemComunicacao": "609",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23251,7 +23251,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Maria da Serra",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23262,7 +23262,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:14:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Socorro",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23273,7 +23273,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 18:03:25",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Santa Rita do Passa Quatro",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23317,7 +23317,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-17 13:08:54",
-      "DiasSemComunicacao": "67",
+      "DiasSemComunicacao": "68",
       "Cidade": "Jaguaré",
       "UF": "ES",
       "AcaoRecomendada": "VERIFICAR"
@@ -23339,7 +23339,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-04 12:33:41",
-      "DiasSemComunicacao": "384",
+      "DiasSemComunicacao": "385",
       "Cidade": "Água Clara",
       "UF": "MS",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -23350,7 +23350,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -23372,7 +23372,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23383,7 +23383,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:41:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23405,7 +23405,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:49:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -23416,7 +23416,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-01 11:29:17",
-      "DiasSemComunicacao": "571",
+      "DiasSemComunicacao": "572",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23449,7 +23449,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-30 05:02:50",
-      "DiasSemComunicacao": "389",
+      "DiasSemComunicacao": "391",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -23526,7 +23526,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-18 17:34:46",
-      "DiasSemComunicacao": "65",
+      "DiasSemComunicacao": "67",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "VERIFICAR"
@@ -23537,7 +23537,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:51:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23548,7 +23548,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jaguaré",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -23559,7 +23559,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23570,7 +23570,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-26 16:36:00",
-      "DiasSemComunicacao": "269",
+      "DiasSemComunicacao": "271",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -23592,7 +23592,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 15:27:09",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23625,7 +23625,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:42",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23636,7 +23636,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 07:20:31",
-      "DiasSemComunicacao": "20",
+      "DiasSemComunicacao": "22",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23647,7 +23647,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -23658,7 +23658,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-16 06:18:41",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -23669,7 +23669,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 18:05:37",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23680,7 +23680,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23691,7 +23691,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:52:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23702,7 +23702,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-08-26 13:49:19.915000",
-      "DiasSemComunicacao": "819",
+      "DiasSemComunicacao": "820",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23713,7 +23713,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-08 12:13:38",
-      "DiasSemComunicacao": "46",
+      "DiasSemComunicacao": "47",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -23790,7 +23790,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-25 12:10:47",
-      "DiasSemComunicacao": "455",
+      "DiasSemComunicacao": "456",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23801,7 +23801,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paraibuna",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23812,7 +23812,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 14:27:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Independência",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -23856,7 +23856,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-23 10:10:04",
-      "DiasSemComunicacao": "488",
+      "DiasSemComunicacao": "490",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23900,7 +23900,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-14 19:00:31",
-      "DiasSemComunicacao": "646",
+      "DiasSemComunicacao": "648",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23933,7 +23933,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:10",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -23944,7 +23944,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:27:38",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23955,7 +23955,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-14 10:07:32",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -23977,7 +23977,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-15 16:53:16",
-      "DiasSemComunicacao": "586",
+      "DiasSemComunicacao": "588",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -23988,7 +23988,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-29 07:50:00",
-      "DiasSemComunicacao": "543",
+      "DiasSemComunicacao": "545",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24032,7 +24032,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-31 13:35:16",
-      "DiasSemComunicacao": "480",
+      "DiasSemComunicacao": "481",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24043,7 +24043,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itaberá",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -24120,7 +24120,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-28 12:11:17",
-      "DiasSemComunicacao": "664",
+      "DiasSemComunicacao": "665",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24153,7 +24153,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-18 17:10:32",
-      "DiasSemComunicacao": "522",
+      "DiasSemComunicacao": "524",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24164,7 +24164,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-02 12:57:05",
-      "DiasSemComunicacao": "539",
+      "DiasSemComunicacao": "540",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24175,7 +24175,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-29 15:15:59",
-      "DiasSemComunicacao": "511",
+      "DiasSemComunicacao": "513",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24230,7 +24230,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-21 17:27:12.141000",
-      "DiasSemComunicacao": "489",
+      "DiasSemComunicacao": "491",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24241,7 +24241,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-10 15:48:18",
-      "DiasSemComunicacao": "530",
+      "DiasSemComunicacao": "532",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24263,7 +24263,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-31 10:08:46",
-      "DiasSemComunicacao": "237",
+      "DiasSemComunicacao": "239",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -24274,7 +24274,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-01 09:13:36",
-      "DiasSemComunicacao": "479",
+      "DiasSemComunicacao": "481",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24285,7 +24285,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-12 13:50:44",
-      "DiasSemComunicacao": "711",
+      "DiasSemComunicacao": "712",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24296,7 +24296,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-23 12:28:00",
-      "DiasSemComunicacao": "123",
+      "DiasSemComunicacao": "124",
       "Cidade": "Taubaté",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -24318,7 +24318,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-09-15 17:44:57",
-      "DiasSemComunicacao": "433",
+      "DiasSemComunicacao": "435",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -24329,7 +24329,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-10 08:28:47",
-      "DiasSemComunicacao": "409",
+      "DiasSemComunicacao": "411",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -24362,7 +24362,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 07:25:18",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -24417,7 +24417,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-12 08:34:59",
-      "DiasSemComunicacao": "621",
+      "DiasSemComunicacao": "623",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24428,7 +24428,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -24439,7 +24439,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-28 11:52:51",
-      "DiasSemComunicacao": "87",
+      "DiasSemComunicacao": "88",
       "Cidade": "Mauá",
       "UF": "SP",
       "AcaoRecomendada": "VERIFICAR"
@@ -24472,7 +24472,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-24 07:11:08",
-      "DiasSemComunicacao": "517",
+      "DiasSemComunicacao": "519",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24527,7 +24527,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-27 17:17:21",
-      "DiasSemComunicacao": "87",
+      "DiasSemComunicacao": "89",
       "Cidade": "Prado",
       "UF": "BA",
       "AcaoRecomendada": "VERIFICAR"
@@ -24582,7 +24582,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:41:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Americana",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -24593,7 +24593,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-07 10:19:30",
-      "DiasSemComunicacao": "626",
+      "DiasSemComunicacao": "628",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24615,7 +24615,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-09 18:53:24",
-      "DiasSemComunicacao": "258",
+      "DiasSemComunicacao": "260",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -24670,7 +24670,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-13 20:24:16",
-      "DiasSemComunicacao": "40",
+      "DiasSemComunicacao": "42",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -24703,7 +24703,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-22 20:45:08",
-      "DiasSemComunicacao": "61",
+      "DiasSemComunicacao": "63",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "VERIFICAR"
@@ -24714,7 +24714,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-15 19:17:12",
-      "DiasSemComunicacao": "495",
+      "DiasSemComunicacao": "497",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24725,7 +24725,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -24758,7 +24758,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-22 14:19:01",
-      "DiasSemComunicacao": "124",
+      "DiasSemComunicacao": "125",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -24791,7 +24791,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:38:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -24802,7 +24802,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-06 14:08:37",
-      "DiasSemComunicacao": "109",
+      "DiasSemComunicacao": "110",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "SUSPENDER"
@@ -24890,7 +24890,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-03 15:53:50",
-      "DiasSemComunicacao": "719",
+      "DiasSemComunicacao": "721",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -24967,7 +24967,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-07 16:27:00",
-      "DiasSemComunicacao": "472",
+      "DiasSemComunicacao": "474",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25033,7 +25033,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-17 09:31:45",
-      "DiasSemComunicacao": "675",
+      "DiasSemComunicacao": "677",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25044,7 +25044,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-09 12:21:59",
-      "DiasSemComunicacao": "410",
+      "DiasSemComunicacao": "411",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25066,7 +25066,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 17:03:48",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "São Miguel Arcanjo",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25077,7 +25077,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 21:18:48",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -25088,7 +25088,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-16 19:19:35",
-      "DiasSemComunicacao": "644",
+      "DiasSemComunicacao": "646",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25121,7 +25121,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-16 17:35:34",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Alcobaça",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -25143,7 +25143,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-10 07:54:20",
-      "DiasSemComunicacao": "286",
+      "DiasSemComunicacao": "288",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25176,7 +25176,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-20 10:27:48",
-      "DiasSemComunicacao": "126",
+      "DiasSemComunicacao": "127",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25198,7 +25198,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-05-11 20:16:20",
-      "DiasSemComunicacao": "195",
+      "DiasSemComunicacao": "197",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25209,7 +25209,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-16 06:47:51",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -25231,7 +25231,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-23 15:20:56",
-      "DiasSemComunicacao": "609",
+      "DiasSemComunicacao": "611",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25242,7 +25242,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-12 07:22:25",
-      "DiasSemComunicacao": "560",
+      "DiasSemComunicacao": "562",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25286,7 +25286,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jambeiro",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25297,7 +25297,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -25319,7 +25319,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-11 08:51:39",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "14",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -25330,7 +25330,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Anhembi",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25385,7 +25385,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-25 13:14:12",
-      "DiasSemComunicacao": "636",
+      "DiasSemComunicacao": "637",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25396,7 +25396,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-27 12:00:55",
-      "DiasSemComunicacao": "331",
+      "DiasSemComunicacao": "332",
       "Cidade": "Serra",
       "UF": "ES",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25429,7 +25429,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:48:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -25440,7 +25440,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Rincão",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25451,7 +25451,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 07:39:16",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "15",
       "Cidade": "Pilar do Sul",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25473,7 +25473,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-20 11:19:21",
-      "DiasSemComunicacao": "703",
+      "DiasSemComunicacao": "704",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25517,7 +25517,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 09:59:16",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Pardinho",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25550,7 +25550,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-25 12:06:36",
-      "DiasSemComunicacao": "608",
+      "DiasSemComunicacao": "609",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25594,7 +25594,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-25 11:00:36",
-      "DiasSemComunicacao": "636",
+      "DiasSemComunicacao": "637",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25605,7 +25605,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:43:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Botucatu",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25616,7 +25616,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 22:27:19",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -25627,7 +25627,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-11-20 13:41:48.910000",
-      "DiasSemComunicacao": "733",
+      "DiasSemComunicacao": "734",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25649,7 +25649,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 10:00:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -25693,7 +25693,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-19 17:12:49",
-      "DiasSemComunicacao": "126",
+      "DiasSemComunicacao": "128",
       "Cidade": "Linhares",
       "UF": "ES",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25726,7 +25726,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-08 19:40:21",
-      "DiasSemComunicacao": "624",
+      "DiasSemComunicacao": "626",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25737,7 +25737,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-05 23:14:14",
-      "DiasSemComunicacao": "655",
+      "DiasSemComunicacao": "657",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25748,7 +25748,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:40:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25759,7 +25759,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 17:05:16",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -25770,7 +25770,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 10:21:48",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Caraguatatuba",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25792,7 +25792,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-13 10:39:42",
-      "DiasSemComunicacao": "41",
+      "DiasSemComunicacao": "42",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -25803,7 +25803,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 11:20:40",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -25825,7 +25825,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-15 16:42:14",
-      "DiasSemComunicacao": "280",
+      "DiasSemComunicacao": "282",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -25847,7 +25847,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-07 12:27:24",
-      "DiasSemComunicacao": "16",
+      "DiasSemComunicacao": "17",
       "Cidade": "Açailândia",
       "UF": "MA",
       "AcaoRecomendada": "OK"
@@ -25858,7 +25858,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-08-29 10:29:32.613000",
-      "DiasSemComunicacao": "816",
+      "DiasSemComunicacao": "817",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25891,7 +25891,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-12 16:53:16",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "12",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -25902,7 +25902,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-14 08:17:43",
-      "DiasSemComunicacao": "40",
+      "DiasSemComunicacao": "42",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -25913,7 +25913,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-28 20:08:33",
-      "DiasSemComunicacao": "451",
+      "DiasSemComunicacao": "453",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25924,7 +25924,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-23 09:58:41",
-      "DiasSemComunicacao": "31",
+      "DiasSemComunicacao": "33",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -25935,7 +25935,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-12 02:52:43",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "13",
       "Cidade": "Itapira",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -25957,7 +25957,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-07 23:35:14",
-      "DiasSemComunicacao": "15",
+      "DiasSemComunicacao": "17",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -25979,7 +25979,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-20 04:42:16",
-      "DiasSemComunicacao": "613",
+      "DiasSemComunicacao": "615",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -25990,7 +25990,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-08 14:25:53",
-      "DiasSemComunicacao": "167",
+      "DiasSemComunicacao": "169",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -26056,7 +26056,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-11 15:02:17",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "13",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26089,7 +26089,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-24 12:33:13",
-      "DiasSemComunicacao": "60",
+      "DiasSemComunicacao": "61",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "VERIFICAR"
@@ -26100,7 +26100,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26111,7 +26111,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-21 17:27:12.141000",
-      "DiasSemComunicacao": "489",
+      "DiasSemComunicacao": "491",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26122,7 +26122,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-16 06:51:00",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26188,7 +26188,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-03 05:58:15",
-      "DiasSemComunicacao": "658",
+      "DiasSemComunicacao": "660",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26199,7 +26199,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-21 16:00:35",
-      "DiasSemComunicacao": "305",
+      "DiasSemComunicacao": "307",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -26221,7 +26221,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-10 11:26:10",
-      "DiasSemComunicacao": "378",
+      "DiasSemComunicacao": "379",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -26232,7 +26232,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-30 08:33:10",
-      "DiasSemComunicacao": "116",
+      "DiasSemComunicacao": "118",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -26298,7 +26298,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-05 09:58:56",
-      "DiasSemComunicacao": "49",
+      "DiasSemComunicacao": "51",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -26309,7 +26309,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-18 11:25:48",
-      "DiasSemComunicacao": "705",
+      "DiasSemComunicacao": "706",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26320,7 +26320,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 17:52:46",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Conchas",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -26375,7 +26375,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-25 12:10:49",
-      "DiasSemComunicacao": "455",
+      "DiasSemComunicacao": "456",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26386,7 +26386,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 00:05:18",
-      "DiasSemComunicacao": "20",
+      "DiasSemComunicacao": "22",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26419,7 +26419,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-13 14:32:06",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26430,7 +26430,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-17 09:26:42",
-      "DiasSemComunicacao": "675",
+      "DiasSemComunicacao": "677",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26441,7 +26441,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-09 16:21:24",
-      "DiasSemComunicacao": "44",
+      "DiasSemComunicacao": "46",
       "Cidade": "Inocência",
       "UF": "MS",
       "AcaoRecomendada": "MONITORAR"
@@ -26463,7 +26463,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-21 17:27:12.141000",
-      "DiasSemComunicacao": "489",
+      "DiasSemComunicacao": "491",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26474,7 +26474,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-27 19:16:27",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "28",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26485,7 +26485,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 01:08:37",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "Caravelas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -26507,7 +26507,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-05-14 19:06:54",
-      "DiasSemComunicacao": "192",
+      "DiasSemComunicacao": "194",
       "Cidade": "Caravelas",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -26518,10 +26518,10 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-24 22:07:25",
-      "DiasSemComunicacao": "29",
+      "DiasSemComunicacao": "31",
       "Cidade": "São Mateus",
       "UF": "ES",
-      "AcaoRecomendada": "OK"
+      "AcaoRecomendada": "MONITORAR"
     },
     {
       "ICCID": "89551180257001141161",
@@ -26529,7 +26529,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-08 09:06:37",
-      "DiasSemComunicacao": "15",
+      "DiasSemComunicacao": "17",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26540,7 +26540,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 15:19:29",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -26551,7 +26551,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:10",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -26562,7 +26562,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 07:33:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26584,7 +26584,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:49:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26595,7 +26595,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 02:13:26",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26606,7 +26606,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-16 19:12:29",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "MONITORAR"
@@ -26617,7 +26617,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-07 00:32:45",
-      "DiasSemComunicacao": "716",
+      "DiasSemComunicacao": "718",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26694,7 +26694,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 08:54:29",
-      "DiasSemComunicacao": "20",
+      "DiasSemComunicacao": "22",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -26749,7 +26749,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-25 12:03:35",
-      "DiasSemComunicacao": "29",
+      "DiasSemComunicacao": "30",
       "Cidade": "Santa Branca",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -26793,7 +26793,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 16:49:45",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26804,7 +26804,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-05-11 10:58:20",
-      "DiasSemComunicacao": "196",
+      "DiasSemComunicacao": "197",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -26826,7 +26826,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-09 16:28:41",
-      "DiasSemComunicacao": "531",
+      "DiasSemComunicacao": "533",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26837,7 +26837,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-11 09:35:03",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "14",
       "Cidade": "Pardinho",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -26848,7 +26848,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-24 04:07:43",
-      "DiasSemComunicacao": "395",
+      "DiasSemComunicacao": "397",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -26870,7 +26870,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-09-20 12:00:27.126000",
-      "DiasSemComunicacao": "794",
+      "DiasSemComunicacao": "795",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -26903,7 +26903,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26914,7 +26914,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:45:12",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -26925,7 +26925,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itajaí",
       "UF": "SC",
       "AcaoRecomendada": "OK"
@@ -26936,7 +26936,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26947,7 +26947,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:54:16",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26958,7 +26958,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -26969,7 +26969,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-21 10:57:22",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "34",
       "Cidade": "São Simão",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -27035,7 +27035,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 17:53:30",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -27046,7 +27046,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:43:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -27068,7 +27068,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-02 03:01:16",
-      "DiasSemComunicacao": "600",
+      "DiasSemComunicacao": "602",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27167,7 +27167,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 10:00:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -27178,7 +27178,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-24 13:07:25",
-      "DiasSemComunicacao": "668",
+      "DiasSemComunicacao": "669",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27189,7 +27189,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-28 12:12:30",
-      "DiasSemComunicacao": "664",
+      "DiasSemComunicacao": "665",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27200,7 +27200,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-09-10 08:30:29.879000",
-      "DiasSemComunicacao": "804",
+      "DiasSemComunicacao": "806",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27222,7 +27222,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-28 19:59:01",
-      "DiasSemComunicacao": "543",
+      "DiasSemComunicacao": "545",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27233,7 +27233,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:52:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Maria da Serra",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -27244,7 +27244,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-24 01:17:10",
-      "DiasSemComunicacao": "91",
+      "DiasSemComunicacao": "93",
       "Cidade": "Igaratá",
       "UF": "SP",
       "AcaoRecomendada": "SUSPENDER"
@@ -27255,7 +27255,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:50:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -27266,7 +27266,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:49:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aguaí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -27277,7 +27277,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-26 19:45:47",
-      "DiasSemComunicacao": "331",
+      "DiasSemComunicacao": "333",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -27288,7 +27288,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -27310,7 +27310,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -27332,7 +27332,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:43:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -27343,7 +27343,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-20 09:26:42",
-      "DiasSemComunicacao": "552",
+      "DiasSemComunicacao": "554",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27420,7 +27420,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-01 08:08:03",
-      "DiasSemComunicacao": "510",
+      "DiasSemComunicacao": "512",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27464,7 +27464,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 16:32:16",
-      "DiasSemComunicacao": "19",
+      "DiasSemComunicacao": "21",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -27486,7 +27486,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-17 17:50:33",
-      "DiasSemComunicacao": "705",
+      "DiasSemComunicacao": "707",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27508,7 +27508,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -27519,7 +27519,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-13 16:44:31",
-      "DiasSemComunicacao": "558",
+      "DiasSemComunicacao": "560",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27530,7 +27530,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-15 12:08:46",
-      "DiasSemComunicacao": "465",
+      "DiasSemComunicacao": "466",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27552,7 +27552,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-16 15:06:03",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -27563,7 +27563,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-02 08:43:37",
-      "DiasSemComunicacao": "570",
+      "DiasSemComunicacao": "572",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27574,7 +27574,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-21 17:27:12.141000",
-      "DiasSemComunicacao": "489",
+      "DiasSemComunicacao": "491",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27596,7 +27596,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:40:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -27607,7 +27607,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-09 13:31:19",
-      "DiasSemComunicacao": "532",
+      "DiasSemComunicacao": "533",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27728,7 +27728,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-15 12:39:41",
-      "DiasSemComunicacao": "618",
+      "DiasSemComunicacao": "619",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27739,7 +27739,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-02 09:14:40",
-      "DiasSemComunicacao": "509",
+      "DiasSemComunicacao": "511",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27750,7 +27750,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-30 18:34:34",
-      "DiasSemComunicacao": "357",
+      "DiasSemComunicacao": "359",
       "Cidade": "Parauapebas",
       "UF": "PA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -27805,7 +27805,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-07 17:27:12",
-      "DiasSemComunicacao": "684",
+      "DiasSemComunicacao": "686",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -27827,7 +27827,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-19 16:38:16",
-      "DiasSemComunicacao": "368",
+      "DiasSemComunicacao": "370",
       "Cidade": "Alcobaça",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -27838,7 +27838,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-06 12:55:31",
-      "DiasSemComunicacao": "78",
+      "DiasSemComunicacao": "79",
       "Cidade": "Alto Garças",
       "UF": "MT",
       "AcaoRecomendada": "VERIFICAR"
@@ -27981,7 +27981,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:56",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caçapava",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -27992,7 +27992,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-14 11:18:56",
-      "DiasSemComunicacao": "588",
+      "DiasSemComunicacao": "589",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28003,7 +28003,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-09 16:29:34",
-      "DiasSemComunicacao": "531",
+      "DiasSemComunicacao": "533",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28080,7 +28080,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-11 10:27:02",
-      "DiasSemComunicacao": "469",
+      "DiasSemComunicacao": "470",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28146,7 +28146,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-18 07:26:45",
-      "DiasSemComunicacao": "523",
+      "DiasSemComunicacao": "525",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28168,7 +28168,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-07 11:40:12",
-      "DiasSemComunicacao": "626",
+      "DiasSemComunicacao": "627",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28223,7 +28223,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-04 17:24:59",
-      "DiasSemComunicacao": "383",
+      "DiasSemComunicacao": "385",
       "Cidade": "Açailândia",
       "UF": "MA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28245,7 +28245,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-14 17:28:32",
-      "DiasSemComunicacao": "404",
+      "DiasSemComunicacao": "406",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28256,7 +28256,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-31 10:53:15",
-      "DiasSemComunicacao": "327",
+      "DiasSemComunicacao": "328",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28267,7 +28267,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-11-14 11:41:45.671000",
-      "DiasSemComunicacao": "739",
+      "DiasSemComunicacao": "740",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28278,7 +28278,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-02 18:50:24",
-      "DiasSemComunicacao": "658",
+      "DiasSemComunicacao": "660",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28289,7 +28289,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-09-15 10:51:59",
-      "DiasSemComunicacao": "434",
+      "DiasSemComunicacao": "435",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28410,7 +28410,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-16 23:34:00",
-      "DiasSemComunicacao": "402",
+      "DiasSemComunicacao": "404",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28421,7 +28421,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-22 14:23:11",
-      "DiasSemComunicacao": "549",
+      "DiasSemComunicacao": "551",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28432,7 +28432,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 12:13:16",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -28443,7 +28443,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-15 09:24:55",
-      "DiasSemComunicacao": "496",
+      "DiasSemComunicacao": "498",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28465,7 +28465,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-30 01:49:27",
-      "DiasSemComunicacao": "542",
+      "DiasSemComunicacao": "544",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28476,7 +28476,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-04 10:28:09",
-      "DiasSemComunicacao": "507",
+      "DiasSemComunicacao": "508",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28509,7 +28509,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-07 18:02:44",
-      "DiasSemComunicacao": "625",
+      "DiasSemComunicacao": "627",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28586,7 +28586,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-05 09:31:36",
-      "DiasSemComunicacao": "263",
+      "DiasSemComunicacao": "265",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28597,7 +28597,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-30 08:34:24",
-      "DiasSemComunicacao": "389",
+      "DiasSemComunicacao": "391",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28608,7 +28608,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-23 07:27:51",
-      "DiasSemComunicacao": "335",
+      "DiasSemComunicacao": "337",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28619,7 +28619,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-23 20:06:55",
-      "DiasSemComunicacao": "637",
+      "DiasSemComunicacao": "639",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28652,7 +28652,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-03 15:48:25",
-      "DiasSemComunicacao": "537",
+      "DiasSemComunicacao": "539",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28663,7 +28663,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-25 11:12:30",
-      "DiasSemComunicacao": "608",
+      "DiasSemComunicacao": "609",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28674,7 +28674,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-12 11:35:47",
-      "DiasSemComunicacao": "315",
+      "DiasSemComunicacao": "316",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28685,7 +28685,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-16 10:36:50",
-      "DiasSemComunicacao": "311",
+      "DiasSemComunicacao": "312",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28707,7 +28707,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-22 17:03:33",
-      "DiasSemComunicacao": "273",
+      "DiasSemComunicacao": "275",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28718,7 +28718,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-22 14:22:20",
-      "DiasSemComunicacao": "549",
+      "DiasSemComunicacao": "551",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28740,7 +28740,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-07 08:18:21",
-      "DiasSemComunicacao": "16",
+      "DiasSemComunicacao": "18",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -28751,7 +28751,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-22 15:40:13",
-      "DiasSemComunicacao": "549",
+      "DiasSemComunicacao": "551",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28795,7 +28795,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-25 14:57:46",
-      "DiasSemComunicacao": "546",
+      "DiasSemComunicacao": "548",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28872,7 +28872,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-09 16:51:11",
-      "DiasSemComunicacao": "258",
+      "DiasSemComunicacao": "260",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -28905,7 +28905,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-28 08:25:25",
-      "DiasSemComunicacao": "452",
+      "DiasSemComunicacao": "454",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28916,7 +28916,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Rincão",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -28927,7 +28927,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 13:45:26",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "14",
       "Cidade": "Alcobaça",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -28938,7 +28938,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-05 14:55:46",
-      "DiasSemComunicacao": "655",
+      "DiasSemComunicacao": "657",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -28971,7 +28971,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -29004,7 +29004,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-22 13:21:08",
-      "DiasSemComunicacao": "611",
+      "DiasSemComunicacao": "612",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29070,7 +29070,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:30:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -29081,7 +29081,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-03 10:09:00",
-      "DiasSemComunicacao": "599",
+      "DiasSemComunicacao": "601",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29092,7 +29092,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -29103,7 +29103,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-23 07:45:16",
-      "DiasSemComunicacao": "457",
+      "DiasSemComunicacao": "459",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29125,7 +29125,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-03 15:47:19",
-      "DiasSemComunicacao": "537",
+      "DiasSemComunicacao": "539",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29147,7 +29147,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-10 11:38:27",
-      "DiasSemComunicacao": "378",
+      "DiasSemComunicacao": "379",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29180,7 +29180,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-10-31 07:36:56.295000",
-      "DiasSemComunicacao": "753",
+      "DiasSemComunicacao": "755",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29257,7 +29257,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-30 08:52:18",
-      "DiasSemComunicacao": "450",
+      "DiasSemComunicacao": "452",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29268,7 +29268,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-09-22 16:09:21",
-      "DiasSemComunicacao": "426",
+      "DiasSemComunicacao": "428",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29378,7 +29378,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-08 12:37:29",
-      "DiasSemComunicacao": "715",
+      "DiasSemComunicacao": "716",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29389,7 +29389,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-02 11:08:52",
-      "DiasSemComunicacao": "539",
+      "DiasSemComunicacao": "540",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29433,7 +29433,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guararema",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -29444,7 +29444,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-05 06:02:05",
-      "DiasSemComunicacao": "475",
+      "DiasSemComunicacao": "477",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29455,7 +29455,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -29477,7 +29477,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-15 11:05:18",
-      "DiasSemComunicacao": "39",
+      "DiasSemComunicacao": "40",
       "Cidade": "Caravelas",
       "UF": "BA",
       "AcaoRecomendada": "MONITORAR"
@@ -29488,7 +29488,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-16 16:40:20",
-      "DiasSemComunicacao": "402",
+      "DiasSemComunicacao": "404",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29499,7 +29499,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-19 14:55:23",
-      "DiasSemComunicacao": "338",
+      "DiasSemComunicacao": "340",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29543,7 +29543,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-11 07:19:35",
-      "DiasSemComunicacao": "347",
+      "DiasSemComunicacao": "349",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29565,7 +29565,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-21 08:52:53",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "35",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "MONITORAR"
@@ -29675,7 +29675,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-27 11:55:27",
-      "DiasSemComunicacao": "545",
+      "DiasSemComunicacao": "546",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29686,7 +29686,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-18 15:19:00",
-      "DiasSemComunicacao": "65",
+      "DiasSemComunicacao": "67",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "VERIFICAR"
@@ -29697,7 +29697,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-25 06:15:04",
-      "DiasSemComunicacao": "363",
+      "DiasSemComunicacao": "365",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29741,7 +29741,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-21 17:27:12.141000",
-      "DiasSemComunicacao": "489",
+      "DiasSemComunicacao": "491",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29752,7 +29752,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 07:19:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -29763,7 +29763,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-12-01 09:17:41",
-      "DiasSemComunicacao": "357",
+      "DiasSemComunicacao": "359",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29785,7 +29785,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-11 18:20:07",
-      "DiasSemComunicacao": "315",
+      "DiasSemComunicacao": "317",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29818,7 +29818,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-18 08:21:37",
-      "DiasSemComunicacao": "309",
+      "DiasSemComunicacao": "311",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29840,7 +29840,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-10 11:41:49",
-      "DiasSemComunicacao": "378",
+      "DiasSemComunicacao": "379",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29851,7 +29851,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-09 16:29:24",
-      "DiasSemComunicacao": "531",
+      "DiasSemComunicacao": "533",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29862,7 +29862,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-07 09:30:04",
-      "DiasSemComunicacao": "565",
+      "DiasSemComunicacao": "567",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29906,7 +29906,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-22 09:44:37",
-      "DiasSemComunicacao": "154",
+      "DiasSemComunicacao": "156",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29939,7 +29939,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-09 05:37:55",
-      "DiasSemComunicacao": "167",
+      "DiasSemComunicacao": "169",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -29950,7 +29950,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-16 21:08:53",
-      "DiasSemComunicacao": "616",
+      "DiasSemComunicacao": "618",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -29961,10 +29961,10 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-24 14:52:44",
-      "DiasSemComunicacao": "59",
+      "DiasSemComunicacao": "61",
       "Cidade": "São José dos Campos",
       "UF": "SP",
-      "AcaoRecomendada": "MONITORAR"
+      "AcaoRecomendada": "VERIFICAR"
     },
     {
       "ICCID": "89551180137002626065",
@@ -30005,7 +30005,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-05 08:57:13",
-      "DiasSemComunicacao": "18",
+      "DiasSemComunicacao": "20",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -30027,7 +30027,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-12 17:43:24",
-      "DiasSemComunicacao": "163",
+      "DiasSemComunicacao": "165",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -30071,7 +30071,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jambeiro",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -30093,7 +30093,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 07:35:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -30104,7 +30104,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-29 15:48:29",
-      "DiasSemComunicacao": "481",
+      "DiasSemComunicacao": "483",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30126,7 +30126,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-09 15:54:31",
-      "DiasSemComunicacao": "44",
+      "DiasSemComunicacao": "46",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -30247,7 +30247,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -30258,7 +30258,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-30 08:33:17",
-      "DiasSemComunicacao": "542",
+      "DiasSemComunicacao": "544",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30269,7 +30269,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-19 14:24:27",
-      "DiasSemComunicacao": "521",
+      "DiasSemComunicacao": "523",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30324,7 +30324,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-28 11:58:17",
-      "DiasSemComunicacao": "26",
+      "DiasSemComunicacao": "27",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -30346,7 +30346,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-01 12:23:56",
-      "DiasSemComunicacao": "601",
+      "DiasSemComunicacao": "602",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30368,7 +30368,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 11:28:24",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "14",
       "Cidade": "Sarapuí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -30390,7 +30390,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-11-23 08:24:27",
-      "DiasSemComunicacao": "730",
+      "DiasSemComunicacao": "732",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30478,7 +30478,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mogi Mirim",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -30489,7 +30489,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:31:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -30533,7 +30533,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-05 07:47:40",
-      "DiasSemComunicacao": "18",
+      "DiasSemComunicacao": "20",
       "Cidade": "Linhares",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -30544,7 +30544,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-12 09:44:24",
-      "DiasSemComunicacao": "103",
+      "DiasSemComunicacao": "105",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -30555,7 +30555,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-12-09 05:15:56",
-      "DiasSemComunicacao": "349",
+      "DiasSemComunicacao": "351",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30588,7 +30588,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-21 17:27:12.141000",
-      "DiasSemComunicacao": "489",
+      "DiasSemComunicacao": "491",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30599,7 +30599,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-23 17:32:54",
-      "DiasSemComunicacao": "637",
+      "DiasSemComunicacao": "639",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30665,7 +30665,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-21 15:32:09",
-      "DiasSemComunicacao": "458",
+      "DiasSemComunicacao": "460",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30676,7 +30676,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-22 19:06:11",
-      "DiasSemComunicacao": "488",
+      "DiasSemComunicacao": "490",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30687,7 +30687,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-28 19:56:51",
-      "DiasSemComunicacao": "451",
+      "DiasSemComunicacao": "453",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30709,7 +30709,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-10-16 03:39:02.483000",
-      "DiasSemComunicacao": "768",
+      "DiasSemComunicacao": "770",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30753,7 +30753,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-05 14:23:39",
-      "DiasSemComunicacao": "262",
+      "DiasSemComunicacao": "264",
       "Cidade": "Jacareí",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -30819,7 +30819,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-16 21:42:38",
-      "DiasSemComunicacao": "402",
+      "DiasSemComunicacao": "404",
       "Cidade": "Botucatu",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -30885,7 +30885,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-25 13:13:49",
-      "DiasSemComunicacao": "636",
+      "DiasSemComunicacao": "637",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -30896,7 +30896,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-21 14:54:13",
-      "DiasSemComunicacao": "62",
+      "DiasSemComunicacao": "64",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "VERIFICAR"
@@ -30907,7 +30907,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-19 10:11:52",
-      "DiasSemComunicacao": "65",
+      "DiasSemComunicacao": "67",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "VERIFICAR"
@@ -30918,7 +30918,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-23 08:05:39",
-      "DiasSemComunicacao": "153",
+      "DiasSemComunicacao": "155",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -30929,7 +30929,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 11:59:55",
-      "DiasSemComunicacao": "20",
+      "DiasSemComunicacao": "21",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -30940,7 +30940,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-18 07:26:39",
-      "DiasSemComunicacao": "36",
+      "DiasSemComunicacao": "38",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -30973,7 +30973,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-02 01:24:12",
-      "DiasSemComunicacao": "235",
+      "DiasSemComunicacao": "237",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -30984,7 +30984,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-13 11:08:44",
-      "DiasSemComunicacao": "224",
+      "DiasSemComunicacao": "225",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31006,7 +31006,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 16:07:59",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -31028,7 +31028,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-10 10:11:05",
-      "DiasSemComunicacao": "623",
+      "DiasSemComunicacao": "625",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31039,7 +31039,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-30 13:49:57",
-      "DiasSemComunicacao": "603",
+      "DiasSemComunicacao": "604",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31050,7 +31050,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-06 12:56:56",
-      "DiasSemComunicacao": "17",
+      "DiasSemComunicacao": "18",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -31116,7 +31116,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-14 15:19:07",
-      "DiasSemComunicacao": "39",
+      "DiasSemComunicacao": "41",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -31149,7 +31149,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:48:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aguaí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -31171,7 +31171,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-23 18:01:37",
-      "DiasSemComunicacao": "244",
+      "DiasSemComunicacao": "246",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31182,7 +31182,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-11 12:18:30",
-      "DiasSemComunicacao": "622",
+      "DiasSemComunicacao": "623",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31259,7 +31259,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-10-04 18:02:37.190000",
-      "DiasSemComunicacao": "779",
+      "DiasSemComunicacao": "781",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31303,7 +31303,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-25 13:13:52",
-      "DiasSemComunicacao": "636",
+      "DiasSemComunicacao": "637",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31325,7 +31325,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 08:08:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Piracicaba",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -31435,7 +31435,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:29",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -31457,7 +31457,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:49:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -31479,7 +31479,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-16 08:16:06",
-      "DiasSemComunicacao": "676",
+      "DiasSemComunicacao": "678",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31501,7 +31501,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-08 19:53:27",
-      "DiasSemComunicacao": "624",
+      "DiasSemComunicacao": "626",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31523,7 +31523,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-11-07 12:56:31.187000",
-      "DiasSemComunicacao": "746",
+      "DiasSemComunicacao": "747",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31534,7 +31534,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-28 17:03:02",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "27",
       "Cidade": "Linhares",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -31545,7 +31545,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-27 17:44:24",
-      "DiasSemComunicacao": "299",
+      "DiasSemComunicacao": "301",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31556,7 +31556,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-30 16:35:01",
-      "DiasSemComunicacao": "388",
+      "DiasSemComunicacao": "390",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31589,7 +31589,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-27 11:17:50",
-      "DiasSemComunicacao": "606",
+      "DiasSemComunicacao": "607",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31600,7 +31600,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-05 17:54:57",
-      "DiasSemComunicacao": "655",
+      "DiasSemComunicacao": "657",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31633,7 +31633,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:48:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -31666,7 +31666,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-10-06 11:52:07.216000",
-      "DiasSemComunicacao": "778",
+      "DiasSemComunicacao": "779",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31677,7 +31677,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-16 08:14:16",
-      "DiasSemComunicacao": "676",
+      "DiasSemComunicacao": "678",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31688,7 +31688,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-09-27 21:39:06.079000",
-      "DiasSemComunicacao": "786",
+      "DiasSemComunicacao": "788",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31699,7 +31699,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-30 14:22:43",
-      "DiasSemComunicacao": "237",
+      "DiasSemComunicacao": "239",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -31721,7 +31721,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-27 15:53:41",
-      "DiasSemComunicacao": "452",
+      "DiasSemComunicacao": "454",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31754,7 +31754,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-11-18 23:57:59.128000",
-      "DiasSemComunicacao": "734",
+      "DiasSemComunicacao": "736",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31809,7 +31809,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-10-28 12:16:32.728000",
-      "DiasSemComunicacao": "756",
+      "DiasSemComunicacao": "757",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31820,7 +31820,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-07 18:17:01",
-      "DiasSemComunicacao": "653",
+      "DiasSemComunicacao": "655",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31853,7 +31853,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-12 15:37:54",
-      "DiasSemComunicacao": "559",
+      "DiasSemComunicacao": "561",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31930,7 +31930,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-21 17:27:12.141000",
-      "DiasSemComunicacao": "489",
+      "DiasSemComunicacao": "491",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31952,7 +31952,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-10-31 05:11:14.076000",
-      "DiasSemComunicacao": "753",
+      "DiasSemComunicacao": "755",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -31985,7 +31985,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-12-02 17:49:59",
-      "DiasSemComunicacao": "720",
+      "DiasSemComunicacao": "722",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32073,7 +32073,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-09 21:23:03",
-      "DiasSemComunicacao": "682",
+      "DiasSemComunicacao": "684",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32095,7 +32095,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-22 16:21:40",
-      "DiasSemComunicacao": "669",
+      "DiasSemComunicacao": "671",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32106,7 +32106,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-01 11:12:26",
-      "DiasSemComunicacao": "267",
+      "DiasSemComunicacao": "268",
       "Cidade": "Brasilândia",
       "UF": "MS",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -32117,7 +32117,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-12 10:50:32",
-      "DiasSemComunicacao": "284",
+      "DiasSemComunicacao": "285",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -32128,7 +32128,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:10",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Uberaba",
       "UF": "MG",
       "AcaoRecomendada": "OK"
@@ -32139,7 +32139,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Avaré",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -32161,7 +32161,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-31 20:27:46",
-      "DiasSemComunicacao": "660",
+      "DiasSemComunicacao": "662",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32172,7 +32172,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-03 09:30:04",
-      "DiasSemComunicacao": "508",
+      "DiasSemComunicacao": "510",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32205,7 +32205,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-06-09 16:30:32",
-      "DiasSemComunicacao": "531",
+      "DiasSemComunicacao": "533",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32216,7 +32216,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-22 14:22:40",
-      "DiasSemComunicacao": "549",
+      "DiasSemComunicacao": "551",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32238,7 +32238,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-06 10:01:18",
-      "DiasSemComunicacao": "474",
+      "DiasSemComunicacao": "476",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32381,7 +32381,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-26 11:56:45",
-      "DiasSemComunicacao": "635",
+      "DiasSemComunicacao": "636",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32414,7 +32414,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -32425,7 +32425,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-27 19:07:52",
-      "DiasSemComunicacao": "452",
+      "DiasSemComunicacao": "454",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32447,7 +32447,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:45:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Arealva",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -32458,7 +32458,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -32502,7 +32502,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 12:30:09",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -32535,7 +32535,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-01 12:53:24",
-      "DiasSemComunicacao": "479",
+      "DiasSemComunicacao": "480",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32579,7 +32579,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-11 13:20:08",
-      "DiasSemComunicacao": "73",
+      "DiasSemComunicacao": "74",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "VERIFICAR"
@@ -32590,7 +32590,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 08:15:26",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -32601,7 +32601,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-14 13:24:52",
-      "DiasSemComunicacao": "678",
+      "DiasSemComunicacao": "679",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32623,7 +32623,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-07 04:54:19",
-      "DiasSemComunicacao": "473",
+      "DiasSemComunicacao": "475",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32689,7 +32689,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-21 17:27:12.141000",
-      "DiasSemComunicacao": "489",
+      "DiasSemComunicacao": "491",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32700,7 +32700,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 15:13:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -32711,7 +32711,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-16 14:02:35",
-      "DiasSemComunicacao": "676",
+      "DiasSemComunicacao": "677",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32722,7 +32722,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-08 13:39:48",
-      "DiasSemComunicacao": "684",
+      "DiasSemComunicacao": "685",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32733,7 +32733,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-10-04 14:28:38.855000",
-      "DiasSemComunicacao": "779",
+      "DiasSemComunicacao": "781",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -32744,7 +32744,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 10:00:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -32755,7 +32755,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 17:06:09",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -32865,7 +32865,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -32931,7 +32931,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Eunápolis",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -32942,7 +32942,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -32964,7 +32964,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33019,7 +33019,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-28 14:58:00",
-      "DiasSemComunicacao": "573",
+      "DiasSemComunicacao": "575",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33041,7 +33041,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-06 19:26:45",
-      "DiasSemComunicacao": "108",
+      "DiasSemComunicacao": "110",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "SUSPENDER"
@@ -33052,7 +33052,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mogi Guaçu",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33162,7 +33162,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-10 09:14:39",
-      "DiasSemComunicacao": "651",
+      "DiasSemComunicacao": "653",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33184,7 +33184,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2024-09-01 22:46:45.553000",
-      "DiasSemComunicacao": "812",
+      "DiasSemComunicacao": "814",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33195,7 +33195,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 12:48:42",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "14",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33206,7 +33206,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-03-07 18:04:30",
-      "DiasSemComunicacao": "625",
+      "DiasSemComunicacao": "627",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33239,7 +33239,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-30 10:29:26",
-      "DiasSemComunicacao": "116",
+      "DiasSemComunicacao": "117",
       "Cidade": "Carlos Chagas",
       "UF": "MG",
       "AcaoRecomendada": "SUSPENDER"
@@ -33261,7 +33261,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-29 10:38:08",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "26",
       "Cidade": "Itutinga",
       "UF": "MG",
       "AcaoRecomendada": "OK"
@@ -33272,7 +33272,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-03 09:47:35",
-      "DiasSemComunicacao": "508",
+      "DiasSemComunicacao": "510",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33294,7 +33294,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-08-03 21:50:25",
-      "DiasSemComunicacao": "476",
+      "DiasSemComunicacao": "478",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33305,7 +33305,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-11 19:57:19",
-      "DiasSemComunicacao": "256",
+      "DiasSemComunicacao": "258",
       "Cidade": "Araraquara",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -33327,7 +33327,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 12:06:15",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33349,7 +33349,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-05-24 15:40:06",
-      "DiasSemComunicacao": "547",
+      "DiasSemComunicacao": "549",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33371,7 +33371,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-16 09:58:51",
-      "DiasSemComunicacao": "38",
+      "DiasSemComunicacao": "40",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -33382,7 +33382,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-18 15:25:34",
-      "DiasSemComunicacao": "65",
+      "DiasSemComunicacao": "67",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "VERIFICAR"
@@ -33393,7 +33393,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-07 13:51:19",
-      "DiasSemComunicacao": "139",
+      "DiasSemComunicacao": "140",
       "Cidade": "Altinópolis",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -33415,7 +33415,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-26 12:08:38",
-      "DiasSemComunicacao": "576",
+      "DiasSemComunicacao": "577",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33426,7 +33426,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 08:46:41",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "15",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33437,7 +33437,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-08 07:27:25",
-      "DiasSemComunicacao": "76",
+      "DiasSemComunicacao": "78",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "VERIFICAR"
@@ -33448,7 +33448,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-16 15:04:48",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -33459,7 +33459,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-27 18:08:33",
-      "DiasSemComunicacao": "299",
+      "DiasSemComunicacao": "301",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -33470,7 +33470,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 14:09:42",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "3",
       "Cidade": "Salesópolis",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33481,7 +33481,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aguaí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33492,7 +33492,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-05-17 17:55:53",
-      "DiasSemComunicacao": "189",
+      "DiasSemComunicacao": "191",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -33503,7 +33503,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:40:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Analândia",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33514,7 +33514,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33536,7 +33536,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Pedro",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33558,7 +33558,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-10-09 17:29:41",
-      "DiasSemComunicacao": "409",
+      "DiasSemComunicacao": "411",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -33591,7 +33591,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-31 01:47:08",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "25",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -33613,7 +33613,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 13:32:23",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -33646,7 +33646,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-02-12 22:32:45",
-      "DiasSemComunicacao": "648",
+      "DiasSemComunicacao": "650",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33679,7 +33679,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-01-15 11:32:36",
-      "DiasSemComunicacao": "677",
+      "DiasSemComunicacao": "678",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -33701,7 +33701,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33712,7 +33712,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -33723,7 +33723,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -33745,7 +33745,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-22 08:07:56",
-      "DiasSemComunicacao": "124",
+      "DiasSemComunicacao": "126",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -33756,7 +33756,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -33767,7 +33767,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-20 10:47:40",
-      "DiasSemComunicacao": "248",
+      "DiasSemComunicacao": "249",
       "Cidade": "Três Lagoas",
       "UF": "MS",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -33778,7 +33778,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 13:12:01",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Serra Negra",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33789,7 +33789,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-14 02:14:13",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33800,7 +33800,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Capão Bonito",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33811,7 +33811,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 15:52:34",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Iaras",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33822,7 +33822,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33833,7 +33833,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 09:41:44",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "15",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33844,7 +33844,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-10 11:21:38",
-      "DiasSemComunicacao": "227",
+      "DiasSemComunicacao": "228",
       "Cidade": "Linhares",
       "UF": "ES",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -33855,7 +33855,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-30 14:56:03",
-      "DiasSemComunicacao": "23",
+      "DiasSemComunicacao": "25",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33866,7 +33866,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-07 09:59:12",
-      "DiasSemComunicacao": "108",
+      "DiasSemComunicacao": "110",
       "Cidade": "Inocência",
       "UF": "MS",
       "AcaoRecomendada": "SUSPENDER"
@@ -33877,7 +33877,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-21 17:16:55",
-      "DiasSemComunicacao": "124",
+      "DiasSemComunicacao": "126",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -33888,7 +33888,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:33:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Luiz do Paraitinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33899,7 +33899,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-16 15:00:55",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -33910,7 +33910,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-06 12:23:40",
-      "DiasSemComunicacao": "17",
+      "DiasSemComunicacao": "18",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -33921,7 +33921,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 16:31:14",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "14",
       "Cidade": "Itapira",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -33932,7 +33932,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33943,7 +33943,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-30 08:31:37",
-      "DiasSemComunicacao": "116",
+      "DiasSemComunicacao": "118",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "SUSPENDER"
@@ -33954,7 +33954,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33965,7 +33965,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-31 18:56:18",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "24",
       "Cidade": "Serra",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -33976,7 +33976,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -33987,7 +33987,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-04 21:28:39",
-      "DiasSemComunicacao": "18",
+      "DiasSemComunicacao": "20",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -33998,7 +33998,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-27 09:49:44",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "29",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -34009,7 +34009,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34020,7 +34020,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 11:58:00",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34031,7 +34031,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-12 13:42:16",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "12",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34042,7 +34042,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-09 11:05:55",
-      "DiasSemComunicacao": "287",
+      "DiasSemComunicacao": "288",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34075,7 +34075,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-02 13:42:00",
-      "DiasSemComunicacao": "52",
+      "DiasSemComunicacao": "53",
       "Cidade": "Ilha Solteira",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -34086,7 +34086,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-09-26 16:43:57",
-      "DiasSemComunicacao": "422",
+      "DiasSemComunicacao": "424",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34097,7 +34097,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:54:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -34119,7 +34119,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-04-28 07:42:22",
-      "DiasSemComunicacao": "574",
+      "DiasSemComunicacao": "576",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -34141,7 +34141,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "CANCELADO",
       "UltimaComunicacao": "2025-07-02 09:12:44",
-      "DiasSemComunicacao": "509",
+      "DiasSemComunicacao": "511",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "JA_CANCELADO"
@@ -34163,7 +34163,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:52:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Prado",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -34174,7 +34174,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-25 08:35:31",
-      "DiasSemComunicacao": "271",
+      "DiasSemComunicacao": "273",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34185,7 +34185,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-05-06 15:02:00",
-      "DiasSemComunicacao": "200",
+      "DiasSemComunicacao": "202",
       "Cidade": "Bom Jesus das Selvas",
       "UF": "MA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34196,7 +34196,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:43:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Botucatu",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34207,7 +34207,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-27 13:31:52",
-      "DiasSemComunicacao": "88",
+      "DiasSemComunicacao": "89",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "VERIFICAR"
@@ -34218,7 +34218,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:48:35",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -34229,7 +34229,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-05 01:59:07",
-      "DiasSemComunicacao": "110",
+      "DiasSemComunicacao": "112",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -34240,7 +34240,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-09 12:29:47",
-      "DiasSemComunicacao": "228",
+      "DiasSemComunicacao": "229",
       "Cidade": "Três Lagoas",
       "UF": "MS",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34251,7 +34251,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-22 11:36:30",
-      "DiasSemComunicacao": "124",
+      "DiasSemComunicacao": "125",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34262,7 +34262,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 06:11:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Biritiba Mirim",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34273,7 +34273,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 08:09:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Luiz do Paraitinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34284,7 +34284,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-05 09:52:10",
-      "DiasSemComunicacao": "49",
+      "DiasSemComunicacao": "51",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -34295,7 +34295,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-28 01:48:21",
-      "DiasSemComunicacao": "148",
+      "DiasSemComunicacao": "150",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34306,7 +34306,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-14 12:03:19",
-      "DiasSemComunicacao": "223",
+      "DiasSemComunicacao": "224",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34317,7 +34317,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34328,7 +34328,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-30 00:15:04",
-      "DiasSemComunicacao": "85",
+      "DiasSemComunicacao": "87",
       "Cidade": "Três Lagoas",
       "UF": "MS",
       "AcaoRecomendada": "VERIFICAR"
@@ -34339,7 +34339,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34350,7 +34350,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:11:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34361,7 +34361,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -34372,7 +34372,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 08:28:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -34383,7 +34383,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:45:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34394,7 +34394,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 08:24:25",
-      "DiasSemComunicacao": "20",
+      "DiasSemComunicacao": "22",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34405,7 +34405,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-29 13:19:22",
-      "DiasSemComunicacao": "239",
+      "DiasSemComunicacao": "240",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34416,7 +34416,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-05-29 19:47:34",
-      "DiasSemComunicacao": "177",
+      "DiasSemComunicacao": "179",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34427,7 +34427,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-08 17:22:14",
-      "DiasSemComunicacao": "45",
+      "DiasSemComunicacao": "47",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "MONITORAR"
@@ -34438,7 +34438,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-16 18:14:20",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -34449,7 +34449,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-04 05:57:14",
-      "DiasSemComunicacao": "111",
+      "DiasSemComunicacao": "113",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -34493,7 +34493,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Ouro Preto",
       "UF": "MG",
       "AcaoRecomendada": "OK"
@@ -34504,7 +34504,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 08:37:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34515,7 +34515,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:40:41",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nanuque",
       "UF": "MG",
       "AcaoRecomendada": "OK"
@@ -34526,7 +34526,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-23 02:51:43",
-      "DiasSemComunicacao": "273",
+      "DiasSemComunicacao": "275",
       "Cidade": "Botucatu",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34537,7 +34537,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-19 09:54:42",
-      "DiasSemComunicacao": "65",
+      "DiasSemComunicacao": "67",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "VERIFICAR"
@@ -34548,7 +34548,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-04 15:08:34",
-      "DiasSemComunicacao": "18",
+      "DiasSemComunicacao": "20",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34559,7 +34559,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-05 06:47:21",
-      "DiasSemComunicacao": "18",
+      "DiasSemComunicacao": "20",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34570,7 +34570,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-09 15:50:10",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "15",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34581,7 +34581,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-28 16:58:31",
-      "DiasSemComunicacao": "25",
+      "DiasSemComunicacao": "27",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34592,7 +34592,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 11:35:11",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34603,7 +34603,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 07:53:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34614,7 +34614,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:10",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Guareí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34625,7 +34625,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-27 11:07:27",
-      "DiasSemComunicacao": "57",
+      "DiasSemComunicacao": "58",
       "Cidade": "Governador Celso Ramos",
       "UF": "SC",
       "AcaoRecomendada": "MONITORAR"
@@ -34636,7 +34636,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Resende",
       "UF": "RJ",
       "AcaoRecomendada": "OK"
@@ -34647,7 +34647,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:45:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34658,7 +34658,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 14:14:33",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Caçapava",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34669,7 +34669,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-04-16 10:13:38",
-      "DiasSemComunicacao": "221",
+      "DiasSemComunicacao": "223",
       "Cidade": "Americana",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34680,7 +34680,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-23 11:26:26",
-      "DiasSemComunicacao": "31",
+      "DiasSemComunicacao": "32",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -34691,7 +34691,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 00:20:41",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Guatapará",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34702,7 +34702,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34713,7 +34713,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-23 08:13:41",
-      "DiasSemComunicacao": "153",
+      "DiasSemComunicacao": "155",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34724,7 +34724,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:54:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Iaras",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34735,7 +34735,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:52:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paraibuna",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34746,7 +34746,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:44:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34757,7 +34757,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pindamonhangaba",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34768,7 +34768,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34779,7 +34779,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-11 09:34:57",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "14",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34790,7 +34790,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 07:48:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34801,7 +34801,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34812,7 +34812,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Conceição da Barra",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -34823,7 +34823,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -34834,7 +34834,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34845,7 +34845,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-17 11:46:50",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "7",
       "Cidade": "Botucatu",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34856,7 +34856,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -34867,7 +34867,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-12 12:56:39",
-      "DiasSemComunicacao": "11",
+      "DiasSemComunicacao": "12",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -34878,7 +34878,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 08:44:57",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "São Miguel Arcanjo",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34889,7 +34889,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -34900,7 +34900,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -34911,7 +34911,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2025-11-10 16:11:50",
-      "DiasSemComunicacao": "377",
+      "DiasSemComunicacao": "379",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -34922,7 +34922,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-30 08:33:02",
-      "DiasSemComunicacao": "116",
+      "DiasSemComunicacao": "118",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "SUSPENDER"
@@ -34933,7 +34933,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-03 13:46:32",
-      "DiasSemComunicacao": "20",
+      "DiasSemComunicacao": "21",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34944,7 +34944,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -34955,7 +34955,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 08:12:13",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34966,7 +34966,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 16:56:20",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -34977,7 +34977,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 16:23:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -34988,7 +34988,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:23",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Angatuba",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -34999,7 +34999,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-23 10:39:37",
-      "DiasSemComunicacao": "61",
+      "DiasSemComunicacao": "62",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "VERIFICAR"
@@ -35010,7 +35010,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 02:11:11",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35021,7 +35021,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:49:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35032,7 +35032,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 07:59:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Luiz do Paraitinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35043,7 +35043,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -35054,7 +35054,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 10:37:52",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "5",
       "Cidade": "Botucatu",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35065,7 +35065,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-03-23 23:25:03",
-      "DiasSemComunicacao": "244",
+      "DiasSemComunicacao": "246",
       "Cidade": "Taubaté",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -35076,7 +35076,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-05 09:44:04",
-      "DiasSemComunicacao": "49",
+      "DiasSemComunicacao": "51",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "MONITORAR"
@@ -35087,7 +35087,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 10:00:00",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35098,7 +35098,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -35109,7 +35109,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:50:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Espírito Santo do Pinhal",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35120,7 +35120,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:51:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35131,7 +35131,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-17 10:47:38",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "38",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -35142,7 +35142,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:44",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alambari",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35153,7 +35153,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35164,7 +35164,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:21",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35175,7 +35175,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-11 10:34:45",
-      "DiasSemComunicacao": "104",
+      "DiasSemComunicacao": "105",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "SUSPENDER"
@@ -35186,7 +35186,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-13 17:02:48",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "Anhembi",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35197,7 +35197,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-21 13:23:16",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "34",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -35208,7 +35208,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35219,7 +35219,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 14:46:37",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Espírito Santo do Pinhal",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35230,7 +35230,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:45:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35241,7 +35241,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35252,7 +35252,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 01:27:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35263,7 +35263,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:49:19",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Serra dos Aimorés",
       "UF": "MG",
       "AcaoRecomendada": "OK"
@@ -35274,7 +35274,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 08:35:43",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Luiz do Paraitinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35285,7 +35285,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-04 01:40:01",
-      "DiasSemComunicacao": "19",
+      "DiasSemComunicacao": "21",
       "Cidade": "Itatinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35296,7 +35296,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-14 12:15:26",
-      "DiasSemComunicacao": "70",
+      "DiasSemComunicacao": "71",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "VERIFICAR"
@@ -35307,7 +35307,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -35318,7 +35318,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-08 16:46:06",
-      "DiasSemComunicacao": "14",
+      "DiasSemComunicacao": "16",
       "Cidade": "Campina do Monte Alegre",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35329,7 +35329,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-14 07:34:56",
-      "DiasSemComunicacao": "40",
+      "DiasSemComunicacao": "42",
       "Cidade": "Linhares",
       "UF": "ES",
       "AcaoRecomendada": "MONITORAR"
@@ -35340,7 +35340,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-07-07 10:55:56",
-      "DiasSemComunicacao": "139",
+      "DiasSemComunicacao": "140",
       "Cidade": "Pindamonhangaba",
       "UF": "SP",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -35351,7 +35351,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:40:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -35362,7 +35362,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-17 09:40:05",
-      "DiasSemComunicacao": "98",
+      "DiasSemComunicacao": "100",
       "Cidade": "Socorro",
       "UF": "SP",
       "AcaoRecomendada": "SUSPENDER"
@@ -35373,7 +35373,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 19:29:08",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Serra dos Aimorés",
       "UF": "MG",
       "AcaoRecomendada": "OK"
@@ -35384,7 +35384,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 10:00:03",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35395,7 +35395,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-24 16:51:41",
-      "DiasSemComunicacao": "271",
+      "DiasSemComunicacao": "273",
       "Cidade": "Brasilândia",
       "UF": "MS",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -35406,7 +35406,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-16 15:02:02",
-      "DiasSemComunicacao": "37",
+      "DiasSemComunicacao": "39",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -35417,7 +35417,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caravelas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35428,7 +35428,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Angatuba",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35439,7 +35439,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-13 17:08:12",
-      "DiasSemComunicacao": "9",
+      "DiasSemComunicacao": "11",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35450,7 +35450,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 13:42:52",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Santa Branca",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35461,7 +35461,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:41:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Maria da Serra",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35472,7 +35472,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 23:20:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35483,7 +35483,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 08:44:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35494,7 +35494,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-17 09:11:20",
-      "DiasSemComunicacao": "67",
+      "DiasSemComunicacao": "69",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "VERIFICAR"
@@ -35505,7 +35505,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-05 17:07:00",
-      "DiasSemComunicacao": "17",
+      "DiasSemComunicacao": "19",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35516,7 +35516,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 18:32:01",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "Luís Antônio",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35527,7 +35527,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35538,7 +35538,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:33",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35549,7 +35549,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-17 04:49:22",
-      "DiasSemComunicacao": "98",
+      "DiasSemComunicacao": "100",
       "Cidade": "Ilhota",
       "UF": "SC",
       "AcaoRecomendada": "SUSPENDER"
@@ -35560,7 +35560,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 12:17:06",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35571,7 +35571,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35582,7 +35582,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 10:00:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35593,7 +35593,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:51:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35604,7 +35604,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35615,7 +35615,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-12 17:17:45",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "12",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35626,7 +35626,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35637,7 +35637,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:51:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35648,7 +35648,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-06-19 15:58:49",
-      "DiasSemComunicacao": "156",
+      "DiasSemComunicacao": "158",
       "Cidade": "Navegantes",
       "UF": "SC",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -35659,7 +35659,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-16 14:28:51",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -35670,7 +35670,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-04 15:29:22",
-      "DiasSemComunicacao": "110",
+      "DiasSemComunicacao": "112",
       "Cidade": "São José dos Campos",
       "UF": "SP",
       "AcaoRecomendada": "SUSPENDER"
@@ -35681,7 +35681,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35692,7 +35692,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 11:52:23",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35703,7 +35703,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-02-10 10:48:26",
-      "DiasSemComunicacao": "286",
+      "DiasSemComunicacao": "287",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -35714,7 +35714,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-01-23 18:06:34",
-      "DiasSemComunicacao": "303",
+      "DiasSemComunicacao": "305",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "CANDIDATO_CANCELAMENTO"
@@ -35725,7 +35725,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-09 12:39:29",
-      "DiasSemComunicacao": "14",
+      "DiasSemComunicacao": "15",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35736,7 +35736,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-14 14:48:41",
-      "DiasSemComunicacao": "39",
+      "DiasSemComunicacao": "41",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -35747,7 +35747,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-08 08:58:55",
-      "DiasSemComunicacao": "76",
+      "DiasSemComunicacao": "78",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "VERIFICAR"
@@ -35758,7 +35758,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-15 14:49:04",
-      "DiasSemComunicacao": "38",
+      "DiasSemComunicacao": "40",
       "Cidade": "Linhares",
       "UF": "ES",
       "AcaoRecomendada": "MONITORAR"
@@ -35769,7 +35769,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35780,7 +35780,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-18 21:41:07",
-      "DiasSemComunicacao": "96",
+      "DiasSemComunicacao": "98",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "SUSPENDER"
@@ -35791,7 +35791,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-22 17:32:47",
-      "DiasSemComunicacao": "31",
+      "DiasSemComunicacao": "33",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "MONITORAR"
@@ -35802,7 +35802,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35813,7 +35813,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 00:08:44",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "7",
       "Cidade": "Prado",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35824,7 +35824,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35835,7 +35835,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-11 07:56:47",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "14",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35846,7 +35846,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Resende",
       "UF": "RJ",
       "AcaoRecomendada": "OK"
@@ -35857,7 +35857,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:46",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35868,7 +35868,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-09-17 12:44:03",
-      "DiasSemComunicacao": "67",
+      "DiasSemComunicacao": "68",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "VERIFICAR"
@@ -35879,7 +35879,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 07:26:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Açailândia",
       "UF": "MA",
       "AcaoRecomendada": "OK"
@@ -35890,7 +35890,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 00:51:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Jacareí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35901,7 +35901,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:38:51",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35912,7 +35912,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Conceição da Barra",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -35923,7 +35923,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 12:40:21",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35934,7 +35934,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 17:01:18",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -35945,7 +35945,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-14 19:16:04",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35956,7 +35956,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:20",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -35967,7 +35967,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:50:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -35978,7 +35978,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:34:02",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São João da Boa Vista",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -35989,7 +35989,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:01",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -36000,7 +36000,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 14:46:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36011,7 +36011,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-07 10:15:44",
-      "DiasSemComunicacao": "47",
+      "DiasSemComunicacao": "49",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "MONITORAR"
@@ -36022,10 +36022,10 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-08-27 09:10:26",
-      "DiasSemComunicacao": "88",
+      "DiasSemComunicacao": "90",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
-      "AcaoRecomendada": "VERIFICAR"
+      "AcaoRecomendada": "SUSPENDER"
     },
     {
       "ICCID": "89551180157002235576",
@@ -36033,7 +36033,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:28",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Mateus",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -36044,7 +36044,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 13:23:40",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -36055,7 +36055,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36066,7 +36066,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-01 08:07:14",
-      "DiasSemComunicacao": "22",
+      "DiasSemComunicacao": "24",
       "Cidade": "Carapicuíba",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36077,7 +36077,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-12 14:43:22",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "12",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36088,7 +36088,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 10:59:24",
-      "DiasSemComunicacao": "5",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36099,7 +36099,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -36110,7 +36110,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-22 20:34:54",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -36121,7 +36121,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:44:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36132,7 +36132,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36143,7 +36143,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:31",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itatinga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36154,7 +36154,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 16:52:48",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -36165,7 +36165,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:27",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36176,7 +36176,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:47:11",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36187,7 +36187,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:32",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Lençóis Paulista",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36198,7 +36198,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Pedro Canário",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -36209,7 +36209,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:51:58",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36220,7 +36220,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:39",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Mucuri",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -36231,7 +36231,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-16 17:44:38",
-      "DiasSemComunicacao": "6",
+      "DiasSemComunicacao": "8",
       "Cidade": "São Paulo",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36242,7 +36242,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Piedade",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36253,7 +36253,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:49:06",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36264,7 +36264,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:54:48",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36275,7 +36275,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-14 21:32:57",
-      "DiasSemComunicacao": "8",
+      "DiasSemComunicacao": "10",
       "Cidade": "Suzano",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36286,7 +36286,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:50",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36297,7 +36297,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-06 14:40:38",
-      "DiasSemComunicacao": "16",
+      "DiasSemComunicacao": "18",
       "Cidade": "Itapetininga",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36308,7 +36308,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:18",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Rita do Passa Quatro",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36319,7 +36319,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-21 14:51:05",
-      "DiasSemComunicacao": "1",
+      "DiasSemComunicacao": "3",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36330,7 +36330,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-06 09:44:47",
-      "DiasSemComunicacao": "17",
+      "DiasSemComunicacao": "19",
       "Cidade": "Itirapina",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36341,7 +36341,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:57",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Paranapanema",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36352,7 +36352,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 16:17:16",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Iaras",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36363,7 +36363,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:44:53",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -36374,7 +36374,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:44:22",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36385,7 +36385,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:42:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36396,7 +36396,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36407,7 +36407,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:54:14",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Rita do Passa Quatro",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36418,7 +36418,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:13",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -36429,7 +36429,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-19 17:17:42",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "5",
       "Cidade": "Nova Viçosa",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -36440,7 +36440,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-05 15:07:16",
-      "DiasSemComunicacao": "48",
+      "DiasSemComunicacao": "50",
       "Cidade": "Teixeira de Freitas",
       "UF": "BA",
       "AcaoRecomendada": "MONITORAR"
@@ -36451,7 +36451,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:46:52",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Americana",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36462,7 +36462,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-21 16:41:55",
-      "DiasSemComunicacao": "32",
+      "DiasSemComunicacao": "34",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -36473,7 +36473,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-11 06:21:23",
-      "DiasSemComunicacao": "12",
+      "DiasSemComunicacao": "14",
       "Cidade": "Jaguaré",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -36484,7 +36484,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:49:17",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Botucatu",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36495,7 +36495,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:45",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36506,7 +36506,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:40",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Taubaté",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36517,7 +36517,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 17:26:19",
-      "DiasSemComunicacao": "2",
+      "DiasSemComunicacao": "4",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -36528,7 +36528,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Caçapava",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36539,7 +36539,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-16 08:19:09",
-      "DiasSemComunicacao": "7",
+      "DiasSemComunicacao": "9",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36550,7 +36550,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-21 13:57:36",
-      "DiasSemComunicacao": "33",
+      "DiasSemComunicacao": "34",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "MONITORAR"
@@ -36561,7 +36561,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:40:09",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Itutinga",
       "UF": "MG",
       "AcaoRecomendada": "OK"
@@ -36572,7 +36572,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 19:06:36",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36583,7 +36583,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:07:25",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Piracicaba",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36594,7 +36594,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:41:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36605,7 +36605,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:43:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Santa Branca",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36616,7 +36616,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-10 12:01:10",
-      "DiasSemComunicacao": "13",
+      "DiasSemComunicacao": "14",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36627,7 +36627,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:40:24",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36638,7 +36638,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:18:04",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Estiva Gerbi",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36649,7 +36649,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:49",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Alcobaça",
       "UF": "BA",
       "AcaoRecomendada": "OK"
@@ -36660,7 +36660,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-04 07:33:17",
-      "DiasSemComunicacao": "19",
+      "DiasSemComunicacao": "21",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36671,7 +36671,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:57:05",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36682,7 +36682,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-20 13:02:04",
-      "DiasSemComunicacao": "3",
+      "DiasSemComunicacao": "4",
       "Cidade": "Mogi das Cruzes",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36693,7 +36693,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:50:34",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36704,7 +36704,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:45:59",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36715,7 +36715,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:44:26",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Suzano",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36726,7 +36726,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-18 17:04:06",
-      "DiasSemComunicacao": "4",
+      "DiasSemComunicacao": "6",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36737,7 +36737,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:58:12",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36748,7 +36748,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:53:36",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "São Simão",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36759,7 +36759,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-10-26 15:58:26",
-      "DiasSemComunicacao": "27",
+      "DiasSemComunicacao": "29",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36770,7 +36770,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-13 11:19:27",
-      "DiasSemComunicacao": "10",
+      "DiasSemComunicacao": "11",
       "Cidade": "Aracruz",
       "UF": "ES",
       "AcaoRecomendada": "OK"
@@ -36781,7 +36781,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:55",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36792,7 +36792,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:08",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "Sarapuí",
       "UF": "SP",
       "AcaoRecomendada": "OK"
@@ -36803,7 +36803,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:59:47",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36814,7 +36814,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:56:07",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
@@ -36825,7 +36825,7 @@ const BASE_CHIPS = {
       "Fornecedor": "UPCHIP",
       "SituacaoOperacional": "ATIVO",
       "UltimaComunicacao": "2026-11-23 09:55:15",
-      "DiasSemComunicacao": "0",
+      "DiasSemComunicacao": "2",
       "Cidade": "",
       "UF": "",
       "AcaoRecomendada": "OK"
